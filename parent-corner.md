@@ -1,3 +1,7 @@
+---
+layout: page
+title:  'Parent Corner'
+---
 ![Parents Cheering](http://3.bp.blogspot.com/-wJsH8-VAjZY/VOaYhovCG9I/AAAAAAAAEDE/1-Z2cFBw3cs/s1600/cheering%2Bthem%2Bon.JPG)
 
 We have tried to provide you with everything you need to know about Saline's Rowing Team, Saline Crew. You will find answers to frequently asked questions, board members, volunteer opportunities and needs. You can also check here for crew clothing requirements and transportation for both the regattas and practices.  
