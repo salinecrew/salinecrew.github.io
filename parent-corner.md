@@ -2,7 +2,7 @@
 layout: page
 title:  'Parent Corner'
 ---
-![Parents Cheering](http://3.bp.blogspot.com/-wJsH8-VAjZY/VOaYhovCG9I/AAAAAAAAEDE/1-Z2cFBw3cs/s1600/cheering%2Bthem%2Bon.JPG)
+![Parents Cheering](/assets/images/cheering-them-on.jpg)
 
 We have tried to provide you with everything you need to know about Saline's Rowing Team, Saline Crew. You will find answers to frequently asked questions, board members, volunteer opportunities and needs. You can also check here for crew clothing requirements and transportation for both the regattas and practices.  
 
@@ -24,7 +24,7 @@ _The following information is for general purposes only and subject to change ea
     - **Rowing**- Location: Ford Lake – once weather permits, all weekly practices will be on the water at the lake. Mon- Thurs after school and Saturday morning, 9am, when there is not a Regatta. During inclement weather, practices will be held at Liberty School.    
     - **Regatta's**
 
-There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule>>](http://salinerowingclub.blogspot.com/2015/02/regatta-schedule.html)  
+There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule>>](/2015/02/05/regatta-schedule/)  
   
   
 [(Top)](#)
@@ -59,7 +59,7 @@ For a description of each position, please see [the Bylaws](http://www.salinecr
   - Boat Maintenance & Repair - [Coach Matt](mailto:boatrepair@comcast.net)  
   - Team Photographer and end of Season Banquet Video- [Carlos Rodriguez](mailto:cxr@umich.edu)  
   
-[Learn more about all of the volunteer opportunities &gt;&gt;](http://www.salinecrew.org/?module=Page&pageID=34)  
+[Learn more about all of the volunteer opportunities](#volunteer)  
   
 [(Top)](#)
 <a name="fees"></a>
@@ -92,7 +92,7 @@ Questions: [Julie Campbell, Treasurer](mailto:Julie.Campbell@hotmail.com) 
 
 The coaches will organize the "in-season" practice transportation car pools. They will assign rowers to specific cars and distribute funds to assigned drivers. Transportation Fee $75.00:** Payable to CASH** (Please give the cash and/or check to Coach Matt)  
   
-_NOTE: We know this is not an inexpensive sport, so we have a program to help the rowers and their families offset the Club fees. Please see the [Rent-A-Rower](http://salinerowingclub.blogspot.com/p/fund-raising.html#rent) page for more information. The rowers get credit for each hour they work, and it can make a significant difference in the out-of-pocket costs for the fees._  
+_NOTE: We know this is not an inexpensive sport, so we have a program to help the rowers and their families offset the Club fees. Please see the [Rent-A-Rower](/fund-raising.html#rent) page for more information. The rowers get credit for each hour they work, and it can make a significant difference in the out-of-pocket costs for the fees._  
   
 [(Top)](#)
 <a name="clothing"></a>  
@@ -107,7 +107,7 @@ There are numerous other clothing items available.
   
 [Ordering information>>](http://www.salinecrew.org/?module=Page&pageID=7)  
 
-![unisuits](https://3.bp.blogspot.com/-Pc2DxiDGIC8/VOpqmvwpplI/AAAAAAAAEDk/-XFtX3t_Fa8/s400/unisuit.jpg)
+![unisuits](/assets/images/unisuit.jpg)
 
 [(Top)](#)
 <a name="faq"></a>
@@ -117,7 +117,7 @@ There are numerous other clothing items available.
 * * *
 
 ## How much does crew cost?
-It costs $700.00 to join the team. Plus travel costs for practices & regattas. [Get the specifics >>](http://salinerowingclub.blogspot.com/p/parents-corner.html#registration)   
+It costs $700.00 to join the team. Plus travel costs for practices & regattas. [Get the specifics](#registration)   
   
 
 ## Why does it cost so much?
@@ -125,7 +125,7 @@ Crew is a club sport so it receives no funding from the School athletic budget. 
   
 
 ## Are there scholarships
-There are some limited scholarship funds available. Check with the [Coaches.](http://salinerowingclub.blogspot.com/p/contact-us.html)  
+There are some limited scholarship funds available. Check with the [Coaches](contact-us.html).
   
 
 ## What safety rules apply?
@@ -156,10 +156,10 @@ After school on weekdays or early morning on Saturdays.
 On Ford Lake at the Boathouse site.    
 
 ## How do you get to practice?
-We carpool over and most drivers are students. [Get more specifics >>](http://salinerowingclub.blogspot.com/p/parents-corner.html#transporation)  
+We carpool over and most drivers are students. [more...](#transporation)  
   
 ## Where are the regattas?
-In Michigan and Ohio. [Check out the Regatta schedule >>](http://salinerowingclub.blogspot.com/2015/02/regatta-schedule.html)  
+In Michigan and Ohio. [Check out the Regatta schedule >>](/2015/02/05/regatta-schedule/)  
   
 ## What equipment do I need?
 The only required item is the team uni. We recommend that you dress in layers and wear warm clothing such as under armour and/or spandex (surprisingly comfortable) under your workout clothing.  
@@ -183,7 +183,7 @@ Yes, our food coordinator will plan enough for athletes, parents and siblings. T
   
 
 ## Who runs the team?  
-[The Coaches, Board of Directors and all of the parent volunteers.](http://salinerowingclub.blogspot.com/p/contact-us.html)  
+[The Coaches, Board of Directors and all of the parent volunteers.](/contact-us.html)  
   
 ## Are there bylaws?
 [Yes](http://www.salinecrew.org/images/FORMS/Saline%20Rowing%20Club%20Bylaws%20update%205%2020%202014.pdf)  
@@ -435,7 +435,7 @@ Finally, **ENJOY** every minute of watching your child/children participate in 
     
 Row Hard Hornets!!  
     
-[Download a pdf of this article&gt;&gt;](http://www.salinecrew.org/images/downloads/How%20to%20enjoy%20a%20Crew%20Regatta.pdf)
+[Download a pdf of this article](http://www.salinecrew.org/images/downloads/How%20to%20enjoy%20a%20Crew%20Regatta.pdf)
 
 
 [(Top)](#)
@@ -445,7 +445,7 @@ Row Hard Hornets!!
 
 * * *
 
-![food tent and trailer](http://3.bp.blogspot.com/-xn3iEjoIXYk/VOu0t0jXizI/AAAAAAAAEEE/GWFbKj02WiE/s1600/foodtent.jpg)  
+![food tent and trailer](/assets/images/foodtent.jpg)  
 *food tent and trailer*
 
 Everything a Parent and Rower needs to know about food at Regattas:
@@ -459,7 +459,7 @@ Everything a Parent and Rower needs to know about food at Regattas:
   3.  Rowers and family members are served breakfast, lunch and snacks at each regatta.  
   
   4.  Food is served 'tail-gate' style, with breakfast served as soon as possible upon arrival and set-up.  Lunch is served at approximately 11:30, with rowers eating at various times depending on when they row.    
-  ![Parents at the food tent](http://4.bp.blogspot.com/-sX_w0pSxxig/VOu0su85CxI/AAAAAAAAED8/UpuDUFlW1kM/s1600/Parents-at-Food-tent.jpg)
+  ![Parents at the food tent](/assets/images/parents-at-food-tent.jpg)
 
   5.  We have the following equipment we use at each regatta:
 
@@ -475,9 +475,9 @@ Everything a Parent and Rower needs to know about food at Regattas:
   6.  All rower family members are responsible for set-up of the tents before the regatta.  
   
   7.  All rower family members are responsible for clean-up of site(s), take down of tents and loading the equipment trailer.    
-  ![cooking](http://1.bp.blogspot.com/-jAVsUeLmqOI/VOu0rv18k1I/AAAAAAAAED0/kgfPgXYDnQU/s1600/Pam.JPG)
+  ![cooking](/assets/images/pam-cooking.jpg)
 
-  8.  We are in need of many volunteers to help with the regatta food. Volunteer opportunities will be explained and / or requested at the Parent / Rower meeting each season. The following is a general outline of regatta food volunteer opportunities ([REFER TO: “Volunteer Positions & Responsibilities” page for further details:](http://salinerowingclub.blogspot.com/p/parents-corner.html#volunteer)
+  8.  We are in need of many volunteers to help with the regatta food. Volunteer opportunities will be explained and / or requested at the Parent / Rower meeting each season. The following is a general outline of regatta food volunteer opportunities ([REFER TO: “Volunteer Positions & Responsibilities” page for further details:](#volunteer)
 
   - Food Coordinator – Lorna Gibson
   - Shopper – Lorna Gibson
