@@ -2,13 +2,13 @@
 layout: page
 title:  'Contact Us'
 ---
-#### General Information
+###General Information
 
   - [Chris Frick, President](mailto:christopherdfrick@gmail.com)
   - [Matt LeBlanc, Head Coach](mailto:boatrepair@comcast.net)  cell: 734.260.6394 
 
 
-#### Spring 2015 Team Captains
+###Spring 2015 Team Captains
 
   - Mike Torssell, Men's Captain
   - Graham Fox, Men's Captain
@@ -17,7 +17,7 @@ title:  'Contact Us'
   - Jenna Jansa, Women's Captain
 
 
-#### Volunteers (frequently called)
+###Volunteers (frequently called)
 
   -  [Regatta Food - Lorna Gibson](mailto:lornasgibson@yahoo.com)   
   -  [Regatta Transportation - Carol Torssell](mailto:catorssell@gmail.com)  
@@ -28,7 +28,7 @@ title:  'Contact Us'
   -  [Rent-A-Rower/Hire A Crew - Stacy Wellings](mailto:stacywellings@gmail.com)
 
 
-#### Mailing Address
+###Mailing Address
 
 Saline Crew  
 c/o Saline High School  

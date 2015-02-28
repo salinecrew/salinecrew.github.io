@@ -16,7 +16,7 @@ We have three levels of fundraising.
 [(Top)](#)
 <a name="yardoar"></a>
 
-### Yard Oar
+## Yard Oar
 
 ---
 
@@ -28,7 +28,7 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
 [(Top)](#)
 <a name="busch"></a>
 
-### Busch's Scrip Program
+## Busch's Scrip Program
 
 ***
 
@@ -36,13 +36,13 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
 
 "Busch's Gift Card"Saline Crew is enrolled in the Busch's scrip program.  The scrip program offers Saline Crew a very easy way to raise funds for the team. 
 
-#### Here is how it works:
+## Here is how it works:
 
   - Obtain a Gift Card
   - Gift card can be recharged at point of purchase with your debit card or credit card, OR
   - Each card can be recharged at any Busch's up to $500.00 (maximum per card at one time).
 
-#### Saline Crew will earn:
+## Saline Crew will earn:
 
   - 5% on recharges paid with cash, check or debit card.
   - 3% on recharges paid with a credit card.
@@ -53,7 +53,7 @@ Please contact Stacy Wellings to get your card. call: 734.649.6989
 [(Top)](#)
 <a name="boathouse"></a>
 
-### Why do we need a Boathouse?
+## Why do we need a Boathouse?
 
 ***
 
@@ -62,7 +62,7 @@ Please contact Stacy Wellings to get your card. call: 734.649.6989
 
 A crew program requires access to water, interested students, and a talented coaching staff. In order to continue to provide this sport to the 50+ high school athletes that currently participate, it is essential to create a more permanent home for the 12 boats and equipment that the team has purchased and that are insured by Saline Schools. The community boathouse that would have usage for students and adults that are interested in a lifetime sport.
 
-#### A little background history:
+## A little background history:
 
 The Saline High School Crew program, a division of the Community Education Program, was founded in 2004 and currently rows on Ford Lake, with water access provided by Lakeshore Apartments in Ypsilanti Township. The boats, trailers, and other equipment are stored in a fenced-in storage area located in another part of the apartment complex during the fall and spring seasons of rowing. In the winter and summer, the boats are stored outdoors adjacent to the school bus parking lots.  
   
@@ -73,7 +73,7 @@ The EMU womens’ rowing team is also interested in the construction of a boatho
   ![Boat House Rendering](http://1.bp.blogspot.com/-vEJaCmPzNwE/VO5ZXyavAnI/AAAAAAAAEFo/E-s_JUgiKWo/s1600/boathouse_rendering_interior.png)  
   *Boat House Rendering*
 
-#### Why expand the existing program:  
+## Why expand the existing program:  
 
 The current Saline High School Crew program serves approximately 50 High School athletes and is in its 6th year. The team initially drove to the Irish Hills in Lenawee County to row on Sand Lake. The Crew parent board negotiated to row on Ford Lake, accessing the water from Lakeshore Apartments in Ypsilanti Township for the past 2 years. 2 SAS teachers, Bridgette Sparks and Dave Fiske, coach the team during the fall and spring seasons. Alumni coaches assist the teams during portions of the season.
 
@@ -87,7 +87,7 @@ Additionally, recruitment of coaching staff and
 
 student athletes would be improved with the construction of a boathouse.
 
-#### New Value of Program: 
+## New Value of Program: 
 
 A boathouse would protect Saline Area Schools equipment, and most importantly provide a facility for additional training and the opportunity for a community partnership with Eastern Michigan University, Ypsilanti Township and Saline residents, and possible future nearby communities. (Note that the forecasted possible removal of Argo Dam in Ann Arbor may create the need for all 3 Ann Arbor High Schools to relocate their rowing programs to Ford Lake).  
   
@@ -97,7 +97,7 @@ The construction of the boathouse would also be an opportunity to create a partn
 [(Top)](#)
 <a name="individual"></a>
 
-### Individual Fundraising Options
+## Individual Fundraising Options
 
 ***
 
@@ -115,7 +115,7 @@ A few programs in place include:
 [(Top)](#)
 <a name="team"></a>
 
-### Team Fundraising Options
+## Team Fundraising Options
 
 ***
 
@@ -128,7 +128,7 @@ We have a number of Fundraising events to help offset some of the club's expense
 [(Top)](#)
 <a name="wish"></a>
 
-### Equipment Wish List
+## Equipment Wish List
 
 ---
 
@@ -136,11 +136,11 @@ The following list contains items needed for the coming year. If you have any i
 
 ![Boat House Interior](http://2.bp.blogspot.com/-zG_Irzehdyw/VO5ZYE1sQ_I/AAAAAAAAEF0/kiIE_HlmCC0/s1600/boathousinterior.jpg)
 
-#### Miscellaneous Items
+## Miscellaneous Items
 
   - Megaphones for coaches. (I’ve found that this one works very well for the price: [http://www.harborfreight.com/10-watt-handheld-megaphone-95737.html ](http://www.harborfreight.com/10-watt-handheld-megaphone-95737.html)) Waterproof megaphones are ideal, however.
 
-#### Equipment
+## Equipment
 
   - Oars
   - Cox Boxes
@@ -152,20 +152,20 @@ The following list contains items needed for the coming year. If you have any i
 [(Top)](#)
 <a name="rent"></a>
 
-### Rent a Rower /Hire a Crew
+## Rent a Rower /Hire a Crew
 
 ---
 
 [![Rent a Rower/Hire a Crew](http://4.bp.blogspot.com/-07CB1rHg3KU/VOu3hlv-uaI/AAAAAAAAEEg/KQvsmtbeWo0/s1600/rentarower%2Bpic.png)](http://www.salinecrew.org/images/downloads/rentarowerSW.pdf)
 
-#### Crew Families
+## Crew Families
 
 This is probably one of the easiest ways for a rower to raise funds to reduce their individual fees.   
 Spread the word, post a few posters around town and also put a lawn sign out. The cost of the posters is nothing. A lawn sign is around $15.00. The cost is easily offset with just a few hours worth of work.
 
-#### Need help with chores?
+## Need help with chores?
 
-#### Rent-A-Rower or Hire-A-Crew
+## Rent-A-Rower or Hire-A-Crew
 
   - Hire one or more of the team by the hour or negotiate a flat rate.   
   - Some suggestions:   
@@ -177,7 +177,7 @@ Spread the word, post a few posters around town and also put a lawn sign out. Th
   - Wash & wax cars  
   - Clean up crew for events
 
-### **Contact:**
+## **Contact:**
 
 email: **[Stacy Wellings](mailto:stacywellings@gmail.com) or call 734.649.6989**
 

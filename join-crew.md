@@ -2,7 +2,7 @@
 layout: page
 title:  'Join'
 ---
-### What is Crew?
+## What is Crew?
 
 * * *
 
@@ -14,11 +14,11 @@ We have two competitive rowing seasons: Fall and Spring. The Fall season consist
 
 The team is self-funded in part by the parents, the student-rowers themselves, external support, and fundraisers such as the Great Gatsby Regatta. Although this is a club team, the team rows against varsity teams of other high schools and rowers can earn their Varsity letter. The club does not have cuts, and no prior rowing experience or knowledge is expected.
 
-#### Interested?
+## Interested?
 
 Click [here](#join) if you are interested in joining the team. You will be glad you did!
 
-#### Rower's Top 10 Reasons To Join Crew
+## Rower's Top 10 Reasons To Join Crew
 
   1.  Crew tans are really *cooool*.
   2.  It's one sport that you can do sitting down, going backwards.
@@ -37,7 +37,7 @@ Click [here](#join) if you are interested in joining the team. You will be gl
 [(Top)](#)
 <a name="join"></a>
 
-### How to Join Saline Crew
+## How to Join Saline Crew
 
 * * *
 
@@ -54,7 +54,7 @@ To become a member of the Saline Crew, you must:
   5. Order the Crew Unisuit  (required for Regatta's)
   6. Attend the first day of practice. Check the calendar and/or schedule [online](http://salinerowingclub.blogspot.com/p/parents-corner.html#practice).
 
-#### Fees
+## Fees
 
 Saline Crew is a club sport, and, like other club sports, it is supported and run by the families of the participating athletes.
 
@@ -81,43 +81,43 @@ Email: <mailto:Julie.Campbell@hotmail.com>
 
 If the cost of joining the team is the only thing holding you back, please contact <mailto:christopherdfrick@gmail.com> to discuss possible solutions.
 
-#### Fundraisers
+## Fundraisers
 
 Team fundraisers help to purchase equipment including boats, boat parts, outboard motors, trailers, and oars. All team members are expected to participate in team fundraisers throughout the season. The team also sponsors fundraisers that rowers can participate in to apply to their seasonal dues. [Learn more>>](http://salinerowingclub.blogspot.com/p/fund-raising.html)
 
-#### Practices
+## Practices
 
 Practices take place immediately after school, as well as several hours after school, and on Saturday's. Practices are at Ford Lake in Ypsilanti. [Download map>>](https://github.com/mike-ward/salinecrew/blob/master/downloads/DirectionsToFordLake.pdf?raw=true)
 
-#### Schedules
+## Schedules
 
 [Practice Schedule>>](http://salinerowingclub.blogspot.com)
 
-#### Transportation to Practices
+## Transportation to Practices
 
 Parents must participate in the carpool to drive students to practice unless they give permission to their student to be driven by student drivers. Be prepared to sign up to drive at least one day a week when you attend the rower/parent meeting. Parents must sign the Transportation and Authorization form*.
 
 _* Parents and/or rowers who are providing transportation to and from practice do not need to contribute to gas.  If you are in the team carpools, there is a additional fee as outlined in the fee schedule._
 
-#### Safety
+## Safety
 
 All rowers must pass a swim test before they are allowed to practice on the water. The swim test can be taken at the Saline Recreation Center (refer to the swim test form for more information).
 
 Saline Crew follows all safety guidelines as established by the US Rowing Association [(http://www.usrowing.org).](http://www.usrowing.org/)
 
-#### Forms Required to be a Crew Member
+## Forms Required to be a Crew Member
 
 [View the full list of forms required](http://www.salinecrew.org/?module=Page&pageID=7)
 
-#### Documents Supporting Crew Practice
+## Documents Supporting Crew Practice
 
 [Map to Ford Lake practice location](http://www.salinecrew.org/images/downloads/DirectionsToFordLake.pdf) 
 
-#### Crew Clothing
+## Crew Clothing
 
 [Crew Clothing Order Form](http://www.salinecrew.org/images/downloads/Spring%202011%20Order%20Form.pdf)
 
-#### Contact us if you have questions
+## Contact us if you have questions
 
 If you have additional inquiries, please attend the March meeting or e-mail <mailto:christopherdfrick@gmail.com>
 
@@ -125,7 +125,7 @@ If you have additional inquiries, please attend the March meeting or e-mail <mai
 [(Top)](#)
 <a name="history"></a>
 
-### A Little History and Some Accomplishments
+## A Little History and Some Accomplishments
 
 * * *
 
@@ -146,12 +146,12 @@ Both the girls and boys team have medaled at several Midwest regional regattas (
 [(Top)](#)
 <a name="mission"></a>
 
-### Saline Crew Mission
+## Saline Crew Mission
 
 * * *
 
 The Saline High School Rowing Team has been created to promote the sport of rowing for all high school student athletes. The team's members will be held to the highest integrity when it comes to academic achievement and athletic performance, striving to become a model athlete in Saline High School and in the Midwest Scholastic Rowing Association.
 
-#### Saline Crew Vision
+## Saline Crew Vision
 
 The Vision of the Saline High School Rowing Team is to provide the opportunity for any interested student to learn to compete in the sport of rowing. The rowing program will promote a healthy life-style, good sportsmanship, teamwork and self-confidence. All members are expected to follow the team rules, obey the safety guidelines and support the necessary logistics in order to create a successful athletic program.

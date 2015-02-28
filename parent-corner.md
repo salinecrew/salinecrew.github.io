@@ -8,7 +8,7 @@ We have tried to provide you with everything you need to know about Saline's Row
 
 <a name="practice"></a>
 
-### Practices
+## Practices
 
 * * *
 
@@ -35,7 +35,7 @@ There are generally four to five regatta's each season. You can read about ["Ho
 [(Top)](#)
 <a name="board"></a>
 
-### Board of Directors - Spring 2015 through Fall 2015
+## Board of Directors - Spring 2015 through Fall 2015
 
 * * *
   
@@ -69,7 +69,7 @@ For a description of each position, please see [the Bylaws](http://www.salinecr
 [(Top)](#)
 <a name="fees"></a>
 
-### Registration Fees
+## Registration Fees
 
 * * *
   
@@ -102,7 +102,7 @@ _NOTE: We know this is not an inexpensive sport, so we have a program to help th
 [(Top)](#)
 <a name="clothing"></a>  
 
-### Crew Clothing
+## Crew Clothing
 
 * * *
   
@@ -117,80 +117,80 @@ There are numerous other clothing items available.
 [(Top)](#)
 <a name="faq"></a>
 
-### Frequently Asked Questions
+## Frequently Asked Questions
 
 * * *
 
-#### How much does crew cost?
+## How much does crew cost?
 It costs $700.00 to join the team. Plus travel costs for practices & regattas. [Get the specifics >>](http://salinerowingclub.blogspot.com/p/parents-corner.html#registration)   
   
 
-#### Why does it cost so much?
+## Why does it cost so much?
 Crew is a club sport so it receives no funding from the School athletic budget. The money from fees is used to buy equipment, pay for regatta fees, coaches salaries, transporting the boats and equipment etc.  
   
 
-#### Are there scholarships
+## Are there scholarships
 There are some limited scholarship funds available. Check with the [Coaches.](http://salinerowingclub.blogspot.com/p/contact-us.html)  
   
 
-#### What safety rules apply?
+## What safety rules apply?
 All athletes must view a safety video and pass a swim test before being allowed on the water. Athletes must listen to the coaches, officials, and use common sense.  
 What if I have never rowed before?  
   
 Most students who join crew have never rowed before. We will teach you what you need to know so don't worry if you're new.  
 
-#### What if I am not a good swimmer?
+## What if I am not a good swimmer?
 It is a rare occurrence for a rower to end up in the water. You will wear a life vest if you can't pass the swim test, plus the coaches carry additional flotation devices.  
 
-#### Are there cuts?
+## Are there cuts?
 There are no cuts for the team. However, the coach will decide which boats to place athletes in based on their skill, strength and the makeup of the team.  
 What is the difference between fall rowing and spring rowing?  
   
 The Fall season consists of longer races up to 5K (like cross country) and the Spring is Sprint Season with races of 1500 meters (like track).  
   
-#### Do you have to row both in the fall and the spring?
+## Do you have to row both in the fall and the spring?
 No. You may row in either the Fall or the Spring or both; however, the Fall season is longer and this is when most athletes new to the sport learn to row. The Spring season happens fast and there is not as much time to learn the fundamentals of rowing in the Spring before races start.  
   
-#### How do I get a varsity letter?
+## How do I get a varsity letter?
 [Download the varsity letter requirements&gt;&gt;](http://www.salinecrew.org/images/downloads/crewvarsitystandards.pdf)  
   
-#### When do we practice?
+## When do we practice?
 After school on weekdays or early morning on Saturdays.  
   
-#### Where do we practice?
+## Where do we practice?
 On Ford Lake at the Boathouse site.    
 
-#### How do you get to practice?
+## How do you get to practice?
 We carpool over and most drivers are students. [Get more specifics >>](http://salinerowingclub.blogspot.com/p/parents-corner.html#transporation)  
   
-#### Where are the regattas?
+## Where are the regattas?
 In Michigan and Ohio. [Check out the Regatta schedule >>](http://salinerowingclub.blogspot.com/2015/02/regatta-schedule.html)  
   
-#### What equipment do I need?
+## What equipment do I need?
 The only required item is the team uni. We recommend that you dress in layers and wear warm clothing such as under armour and/or spandex (surprisingly comfortable) under your workout clothing.  
   
-#### What uniforms do I have to buy?
+## What uniforms do I have to buy?
 For your first season, we provide a tshirt. In subsequent seasons, you need to buy our unisuit which is on our [order form](http://www.salinecrew.org/images/downloads/Spring%202011%20Order%20Form.pdf) . Most athletes also purchase a sweatshirt and sweatpants to wear before and after races.  
 
-#### Who are the coaches?
+## Who are the coaches?
 Matt LeBlanc, Head Coach [boatrepair@comcast.net](mailto:boatrepair@comcast.net)  
 
-#### Do I have to be a certain height?
+## Do I have to be a certain height?
 There are no height minimums, although taller athletes may have a mechanical advantage. There is also a position called coxswain who is critical to the boat’s success because they are responsible for steering and executing race strategy. The coxswain tends to be shorter and lighter than the other athletes rowing the boat.  
   
-#### What is lightweight rowing?
+## What is lightweight rowing?
 For men, lightweight rowers must weigh less than 165 pounds in Fall, 150 pounds or less in spring.  
   
 For women, lightweight rowers are less than 135 pounds in the Fall and 130 pounds in the Spring.  
   
-#### Can parents and sibling eat the food at regattas?
+## Can parents and sibling eat the food at regattas?
 Yes, our food coordinator will plan enough for athletes, parents and siblings. The rower's food is included in the combined fee paid at the beginning of each season. The families and guests need to go online and pay the $10.00 per guest per regatta (18 and under are $5). We only ask that you give first priority to athletes as they are on a tight schedule to get prepared and race.  
   
 
-#### Who runs the team?  
+## Who runs the team?  
 [The Coaches, Board of Directors and all of the parent volunteers.](http://salinerowingclub.blogspot.com/p/contact-us.html)  
   
-#### Are there bylaws?
+## Are there bylaws?
 [Yes](http://www.salinecrew.org/images/FORMS/Saline%20Rowing%20Club%20Bylaws%20update%205%2020%202014.pdf)  
     
 If you have questions, Contact Shelly Fox shellyfox322@yahoo.com  
@@ -198,7 +198,7 @@ If you have questions, Contact Shelly Fox shellyfox322@yahoo.com
 [(Top)](#)
 <a name="transporation"></a>
 
-### Transportation
+## Transportation
 
 * * *
   
@@ -218,14 +218,14 @@ Regatta Transportation - contact [Carol Torssell](catorssell@att.net)
 [(Top)](#)
 <a name="volunteer"></a>
 
-### Volunteer Positions & Responsibilities
+## Volunteer Positions & Responsibilities
 
 * * *
   
 Spring 2015 Season  
   
 
-#### President - Chris Frick
+## President - Chris Frick
 
   - Presides over all board meetings  
   - Sets agendas  
@@ -234,7 +234,7 @@ Spring 2015 Season
   - Delegates duties and jobs to other Board Members and crew team volunteers  
   
 
-#### Vice President - Mark Eby
+## Vice President - Mark Eby
 
   - Coordinates volunteers for fall and spring season  
   - Gives volunteer report at board meetings  
@@ -244,7 +244,7 @@ Spring 2015 Season
 
   
 
-#### Treasurer - Julie Campbell
+## Treasurer - Julie Campbell
 
   - Maintains crew budget  
   - Submits appropriate paperwork to the school  
@@ -254,7 +254,7 @@ Spring 2015 Season
   - Main Liaison with Saline High School and Community Ed  
   
 
-#### Secretary - Sheryl Wagner
+## Secretary - Sheryl Wagner
 
   - Maintains board meeting minutes  
   - Maintains crew team roster with phone numbers/email/addresses  
@@ -263,7 +263,7 @@ Spring 2015 Season
   - Reserves library meeting rooms  
   
 
-#### Equipment Manager - Cheryl Brill
+## Equipment Manager - Cheryl Brill
 
   - Ensures trailers have appropriate tags and inspections  
   - Submits forms to treasurer and secretary as appropriate  
@@ -282,7 +282,7 @@ Spring 2015 Season
   - Keeps maintenance records for all equipment.  
   
 
-#### Fund Raising Chair - Jeff Ball
+## Fund Raising Chair - Jeff Ball
 
   - Establishes fund raising activities for the year – including Capital Campaign  
   - Enlists help for events  
@@ -292,7 +292,7 @@ Spring 2015 Season
   - Works on advertising for fund raising events  
   
 
-#### Media Representative/Publicist - Open
+## Media Representative/Publicist - Open
 
   - Writes articles for the Saline Reporter and submits in timely fashion  
   - Works with team photographer  
@@ -300,26 +300,26 @@ Spring 2015 Season
   - Develop/update crew team brochure for community distribution  
   
 
-#### Web Master - Mike Ward
+## Web Master - Mike Ward
 
   - Updates website based on changes provided from Saline Crew Board and coaches  
   - Works with media rep and team photographer  
   
 
-#### Team Photographer & End of Season Video - Open
+## Team Photographer & End of Season Video - Open
 
   - Takes pictures at regattas
   - Works with web master and media rep  
   - Puts together end of the season video and DVD  
   
 
-#### Food Coordinator - Open
+## Food Coordinator - Open
 
   - Oversees food committee and volunteers for each season  
   - Monitors budget  
   
 
-#### Regatta Transportation - Carol Torssell
+## Regatta Transportation - Carol Torssell
 
   - Ensures there are enough drivers for each regatta  
   - Provides driving directions to each driver  
@@ -327,14 +327,14 @@ Spring 2015 Season
   - Works with Coach & Captains  
   
 
-#### Banquet Coordinators - Food Committee
+## Banquet Coordinators - Food Committee
 
   - Organizes and arranges Team Banquet  
   - Including Food  
   - Develops the “Program” - Will need to work with coaches and VP  
   
 
-#### Crew Clothing - Shelly Fox
+## Crew Clothing - Shelly Fox
 
   - Manages clothing order and coordinates with vendors for pricing and timing to ensure clothing order is delivered by season's first regatta.  
   
@@ -342,11 +342,11 @@ Spring 2015 Season
 [(Top)](#)
 <a name="regatta"></a>
 
-### How to enjoy a Crew Regatta
+## How to enjoy a Crew Regatta
 
 * * *
   
-#### Before the Regatta……
+## Before the Regatta……
   
 **Weather:** During the season <www.weather.com> is your friend! It is great as you can check the forecast in advance and get the hour to hour details which will help you in packing the appropriate clothes.  
   
@@ -385,11 +385,11 @@ Print off heat sheets before you go! For most races these can be found on[www.re
   
 Be sure to print off directions and important phone numbers like the other drivers prior to leaving!  
   
-#### The night before the regatta,
+## The night before the regatta,
 
 Set at least two alarms!! If you stay in a hotel, ask for a wake up call, but also set at least one back up!!! I have had the experience where we asked for a wake up call, and they forgot. If we hadn’t set an extra alarm we would have been late (does not make for happy rowers or coaches)!
 
-#### Arriving at the regatta…..
+## Arriving at the regatta…..
 
 Plan to arrive early! This will help you get a good parking spot and your rower has alot to do before the first race of the day, even if they don’t race until noon!  
   
@@ -401,7 +401,7 @@ Plan to stay ALL DAY!!! Racing usually starts at 8:00am and doesn’t end until 
   
 *If you think that you have a conflict and your rower may have to leave early, please let the coaches know at least a week in advance. Entries for most regattas have to be in a week before the race, and changes are not usually permitted. A rower leaving early or not attending could mean that 4 or 8 other rowers may not race!!*  
   
-#### The tent…..
+## The tent…..
 
 The team has several tents. The big yellow tent is generally reserved for the rowers. Little siblings are usually welcomed as well. This is where they put their gear, sit and relax and be a team.  
   
@@ -409,7 +409,7 @@ There are food tents manned by parent volunteers. All members of the team, inclu
   
 Parents usually hang out here and then get closer to the water to watch their rower. This is a great place to meet new friends!  
   
-#### Watching the regatta……..
+## Watching the regatta……..
 
 During the Fall season: These are called “Head Races.” Races are longer (similar to Cross Country), usually 2.5 to 3 miles long. Boats are started in approximately 30 second intervals. Depending on the course, you may only get to see a very small portion of your rower’s race. And, you will not have any idea on how they did until the end of the day. You can watch their “bow number” and see where they are in relation to the other boats, but it is still difficult to figure out really how they did until the results are posted on the board.  
   
@@ -417,7 +417,7 @@ Spring Season: These are called “Sprints”. The course is usually 1500 or 200
   
 After you watch your rower’s race, as happy and proud as you are, don’t approach them. When ready and able they will come to you. – Really they will! After they get off the water, they immediately have a boat meeting with the Coaches. This is a no parent zone! (Same goes for the boat meeting right before their race). The rower will then go get food and use the bathroom and then may find you. But if they don’t remember, it is OK!  
   
-#### Other “No parent Zones”:
+## Other “No parent Zones”:
 
   - On the Docks – This is an extremely busy place. 
   - Rigging/De-rigging boats – The rowers are very busy during these times and the equipment is large and expensive!
@@ -429,7 +429,7 @@ After you watch your rower’s race, as happy and proud as you are, don’t appr
   
 **T-shirts**: Every regatta has a t-shirt for sale. This will usually cost between $15 - $25. These are nice and good mementos of the season. Often parents have keepsake quilts made out of the shirts when their rower graduates. Some regattas also sell rowing jewelry. These make great gifts!  
   
-#### At the end of the regatta……..
+## At the end of the regatta……..
 
   - Take a few moments to make sure your rower has everything, sweats, shirts, hats etc.!!!
   - Help take down the tents and pack up the food trailer.
@@ -446,7 +446,7 @@ Row Hard Hornets!!
 [(Top)](#)
 <a name="food"></a>
 
-### Regatta Food
+## Regatta Food
 
 * * *
 
@@ -510,7 +510,7 @@ Everything a Parent and Rower needs to know about food at Regattas:
 [(Top)](#)
 <a name="glossary"></a>
 
-### Rowing Glossary
+## Rowing Glossary
 
 * * *
 
@@ -795,7 +795,7 @@ Everything a Parent and Rower needs to know about food at Regattas:
 [(Top)](#)
 <a name="resources"></a>
 
-### What is a Regatta?
+## What is a Regatta?
 
 * * *
 
