@@ -2,14 +2,14 @@
 layout: page
 title:  'Fund Raising'
 ---
-![thinking](http://www.salinecrew.org/images/images/thinking.jpg)
+![thinking](/assets/images/thinking.jpg)
 
-The Saline Crew team is a club sport. All of the team's expenses are raised either through dues or fundraising efforts. The team requires help from all of the Saline Rowing Community.
+The Saline Crew team is a club sport. All of the team's expenses are raised either through dues or fund raising efforts. The team requires help from all of the Saline Rowing Community.
 
-We have three levels of fundraising.
+We have three levels of fund raising.
 
-  1. Team fundraising for operating expenses and equipment 
-  2. Individual fundraising for rowers
+  1. Team fund raising for operating expenses and equipment 
+  2. Individual fund raising for rowers
   3. Capital campaign - boathouse
 
 
@@ -22,7 +22,7 @@ We have three levels of fundraising.
 
 Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $35 suggested donation (for the boathouse)
 
- ![Yard Oar](http://4.bp.blogspot.com/-T6rhoHehSWc/VOu3LmhkbtI/AAAAAAAAEEY/nCySEMbHSlI/s1600/yard%2Boar.jpg)  
+ ![Yard Oar](/assets/images/yard-oar.jpg)  
  "Yard Oar"
 
 [(Top)](#)
@@ -32,7 +32,7 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
 
 ***
 
-  ![Busch's Gift Card](http://2.bp.blogspot.com/-AYVE8A2DoQ4/VO5ZYACwwiI/AAAAAAAAEFw/5Ii7GfOlneA/s1600/Buschscard.jpg) 
+  ![Busch's Gift Card](/assets/images/buschs-card.jpg) 
 
 "Busch's Gift Card"Saline Crew is enrolled in the Busch's scrip program.  The scrip program offers Saline Crew a very easy way to raise funds for the team. 
 
@@ -57,7 +57,7 @@ Please contact Stacy Wellings to get your card. call: 734.649.6989
 
 ***
 
-  [![concept](http://1.bp.blogspot.com/-Mgyl1UDdgPo/VO5ZX1tAueI/AAAAAAAAEFs/6EIk6nbTQBU/s1600/LakesidePark.png)](http://www.salinecrew.org/images/downloads/Lakeside%20Park%20Improvements%20Concept%20Plan.pdf)  
+  [![concept](/assets/images/lakeside-park.jpg)](http://www.salinecrew.org/images/downloads/Lakeside%20Park%20Improvements%20Concept%20Plan.pdf)  
   *Concept Plan*
 
 A crew program requires access to water, interested students, and a talented coaching staff. In order to continue to provide this sport to the 50+ high school athletes that currently participate, it is essential to create a more permanent home for the 12 boats and equipment that the team has purchased and that are insured by Saline Schools. The community boathouse that would have usage for students and adults that are interested in a lifetime sport.
@@ -70,7 +70,7 @@ The team has invested over $150,000 in boats and a hauling trailer. The team has
   
 The EMU womens’ rowing team is also interested in the construction of a boathouse as the team currently store their boats on a public parking lot in the park during the rowing season. The Ypsilanti Township Master Plan has provided for construction of a Boathouse along the south shore of Ford Lake, adjacent to Ford Lake Park. As EMU has standing in Ypsilanti Township, the parent-run High School Crew board is currently developing a plan to provide for joint construction of a boathouse with the EMU program.
 
-  ![Boat House Rendering](http://1.bp.blogspot.com/-vEJaCmPzNwE/VO5ZXyavAnI/AAAAAAAAEFo/E-s_JUgiKWo/s1600/boathouse_rendering_interior.png)  
+  ![Boat House Rendering](/assets/images/boathouse_rendering_interior.png)  
   *Boat House Rendering*
 
 ## Why expand the existing program:  
@@ -121,9 +121,9 @@ A few programs in place include:
 
 We have a number of Fundraising events to help offset some of the club's expenses:
 
-  - Annual Great Gatsby Regatta. [Learn more>>](http://www.salinecrew.org/?module=Page&pageID=29)
+  - Annual Great Gatsby Regatta. [Learn more](http://www.salinecrew.org/?module=Page&pageID=29)
 
-  - Busch's Scrip Program. [Learn more>>](http://www.salinecrew.org/?module=Page&pageID=37)
+  - Busch's Scrip Program. [Learn more>>](#busch)
 
 [(Top)](#)
 <a name="wish"></a>
@@ -134,11 +134,11 @@ We have a number of Fundraising events to help offset some of the club's expense
 
 The following list contains items needed for the coming year. If you have any ideas for providing or acquiring any of these items or if you can help find a good resource, please send an e-mail to Shelley Wolff 
 
-![Boat House Interior](http://2.bp.blogspot.com/-zG_Irzehdyw/VO5ZYE1sQ_I/AAAAAAAAEF0/kiIE_HlmCC0/s1600/boathousinterior.jpg)
+![Boat House Interior](/assets/images/boathousinterior.jpg)
 
 ## Miscellaneous Items
 
-  - Megaphones for coaches. (I’ve found that this one works very well for the price: [http://www.harborfreight.com/10-watt-handheld-megaphone-95737.html ](http://www.harborfreight.com/10-watt-handheld-megaphone-95737.html)) Waterproof megaphones are ideal, however.
+  - Megaphones for coaches. (I’ve found that this one works very well for the price: [Harbor Freight](http://www.harborfreight.com/10-watt-handheld-megaphone-95737.html)) Waterproof megaphones are ideal, however.
 
 ## Equipment
 
@@ -156,7 +156,7 @@ The following list contains items needed for the coming year. If you have any i
 
 ---
 
-[![Rent a Rower/Hire a Crew](http://4.bp.blogspot.com/-07CB1rHg3KU/VOu3hlv-uaI/AAAAAAAAEEg/KQvsmtbeWo0/s1600/rentarower%2Bpic.png)](http://www.salinecrew.org/images/downloads/rentarowerSW.pdf)
+[![Rent a Rower/Hire a Crew](/assets/images/rentarower.png)](http://www.salinecrew.org/images/downloads/rentarowerSW.pdf)
 
 ## Crew Families
 
