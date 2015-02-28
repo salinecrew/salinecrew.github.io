@@ -9,5 +9,9 @@ a, a:link, a:visited {
 }
 
 .post a {
-  text-decoration: underline;
+  border-bottom: 1px solid #36b;
+}
+
+.pure-button a {
+  border-bottom: none;
 }
