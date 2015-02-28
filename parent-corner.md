@@ -839,11 +839,11 @@ Also we share Ford Lake with them and they have been very supportive of us.  �
 Another program that has been very supportive of us and offers rowing camps in the summer.  They are also our neighbors on Belleville Lake.
 
 **GVSU Crew**  
-<http://www.grandvalleyrowing.com/newsite/index.php/home>  
+[GVSU Crew](http://www.grandvalleyrowing.com/newsite/index.php/home)  
 We have alumni who row here, and Coach Matt's alma mater.
 
 **MSU Crew**  
-<https://www.msu.edu/~msucrew/>  
+[MSU Crew](https://www.msu.edu/~msucrew/)  
 We have alumni rowing here. 
 
 [(Top)](#)
