@@ -1,4 +1,4 @@
-@media (max-device-width: 768px) and (orientation: portrait) {
+@media (max-width: 768px) {
   #banner {
     width: 70%
   }
@@ -12,8 +12,8 @@
   }
 }
 
-@media (max-device-width: 480px) {
+@media (max-width: 480px) {
   #banner {
-    50%;
+    width: 50%;
 }
 
