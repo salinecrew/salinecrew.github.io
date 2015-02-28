@@ -1,5 +1,5 @@
 @media (max-width: 768px) {
-  #context {
+  #content {
     margin-top: 0;
   }
   
@@ -17,7 +17,7 @@
 }
 
 @media (max-width: 480px) {
-  #context {
+  #content {
     margin-top: 0;
   }
   
@@ -30,7 +30,31 @@
   }
   
   .left {
-    max-width: 300px;
+    max-width: 480px;
+    padding-right: 0;
+    border-right-width: 0;
+  }
+  
+  .right {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 340px) {
+  #content {
+    margin-top: 0;
+  }
+  
+  #banner {
+    width: 60%;
+  }
+  
+  #topbar {
+    margin-right: 0.5pc;
+  }
+  
+  .left {
+    max-width: 340px;
     padding-right: 0;
     border-right-width: 0;
   }
