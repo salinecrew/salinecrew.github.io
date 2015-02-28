@@ -29,7 +29,7 @@ Click [here](#join) if you are interested in joining the team. You will be gl
   7.  You learn how to take care of blisters.  
   8.  You get to catch "crabs".   
       *might even catch a rare one - as seen in the photo below*
-      ![ejecting crab](http://2.bp.blogspot.com/-GxC5qQjwODA/VOzBH1H7x-I/AAAAAAAAEE8/Rj4sVT3gjW0/s1600/crab.jpg)  
+      ![ejecting crab](/assets/images/crab.jpg)  
       *ejecting crab*  
   9.  Next time you ride in any kind of boat, you can babble on and on using technical boat terms and people will think you're an accomplished seaman.
   10. Being in a crew race is the same as having 8 people run a 7 minute 2k -- in step!
@@ -41,7 +41,7 @@ Click [here](#join) if you are interested in joining the team. You will be gl
 
 * * *
 
-![hoody](http://3.bp.blogspot.com/-Qm_LKqO8G2w/VOzBH5tCDHI/AAAAAAAAEFE/DtMcE5_AVoQ/s1600/hoody.jpg)
+![hoody](/assets/images/hoody.jpg)
 
 Follow the instructions below to join the Saline High School Crew for the season. Please plan ahead, especially when it comes to filling out the required forms, as some forms require testing.
   
@@ -129,7 +129,7 @@ If you have additional inquiries, please attend the March meeting or e-mail <mai
 
 * * *
 
-![Paddle](http://2.bp.blogspot.com/-S3bz-wRIpAM/VOzCoXKx4fI/AAAAAAAAEFU/4xSquWFaAX8/s400/oar_hornet_gupy.jpg)
+![Paddle](/assets/images/oar_hornet_gupy.jpg)
 
 Saline High Crew began as the result of a student promoting rowing to other high school students. The transfer student had recently moved from a Grand Rapids high school with an established rowing program and was interested in continuing to participate in this water sport. Saline was fortunate to have 2 teachers that had university coaching and rowing experience that were able to organize and lead a new program.
 
@@ -153,5 +153,7 @@ Both the girls and boys team have medaled at several Midwest regional regattas (
 The Saline High School Rowing Team has been created to promote the sport of rowing for all high school student athletes. The team's members will be held to the highest integrity when it comes to academic achievement and athletic performance, striving to become a model athlete in Saline High School and in the Midwest Scholastic Rowing Association.
 
 ## Saline Crew Vision
+
+* * *
 
 The Vision of the Saline High School Rowing Team is to provide the opportunity for any interested student to learn to compete in the sport of rowing. The rowing program will promote a healthy life-style, good sportsmanship, teamwork and self-confidence. All members are expected to follow the team rules, obey the safety guidelines and support the necessary logistics in order to create a successful athletic program.
