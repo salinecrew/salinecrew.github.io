@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2015 Regatta Schedule
+title:  "2015 Regatta Schedule"
 ---
 **Apr 18, 2015**  
 Ann Arbor (tentative regatta)

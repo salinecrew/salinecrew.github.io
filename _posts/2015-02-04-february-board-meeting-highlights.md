@@ -1,3 +1,7 @@
+---
+layout: post  
+title:  "February Board Meeting Highlights"
+---
 Winter has finally reared its ugly head and I hope everyone enjoyed a few days off from school.  While spring seems like some far-off dream, the Crew Board met last night to make sure we will be prepared for it when the lake thaws and the grass starts to turn green.
 
 Here are a few highlights from our meeting last night.
