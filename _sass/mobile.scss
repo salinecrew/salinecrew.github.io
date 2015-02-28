@@ -2,11 +2,30 @@
   #topbar {
     margin-right: 2pc;
   }
+  
   .left {
     max-width: 530px;
   }
   
   .right {
     margin-left: 555px;
+  }
+}
+
+@media (max-width: 480px) {
+  #banner {
+    width: 50%;
+  }
+  
+  #topbar {
+    margin-right: 2pc;
+  }
+  
+  .left {
+    max-width: auto;
+  }
+  
+  .right {
+    margin-left: 0;
   }
 }
