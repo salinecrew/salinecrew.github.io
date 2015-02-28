@@ -16,9 +16,8 @@ _The following information is for general purposes only and subject to change ea
 
 1. **Winter Conditioning/ Highly encouraged** – Typically begins the second week in January. Parents and / or rowers are expected to provide their own transportation. 
     
-    - **Erging** – Location: Liberty School Practices generally run 3 days per week. 
-    
-    - **Weight & Fitness Training** – Location: Saline High School Practices generally run 1 to 2 days per week.
+  - **Erging** – Location: Liberty School Practices generally run 3 days per week.     
+  - **Weight & Fitness Training** – Location: Saline High School Practices generally run 1 to 2 days per week.
 
 2. **Mandatory “In-Season” Practices** – Fall Season: Begins just after school begins through early-November. Spring Season: Begins in March and ends in May/June. Rowers will carpool to practices as assigned at the beginning of the season based on parent transportation consent forms. 
     

@@ -1,6 +1,6 @@
 ---
 layout: page
-title   'Fund Raising'
+title:  'Fund Raising'
 ---
 ![thinking](http://www.salinecrew.org/images/images/thinking.jpg)
 
