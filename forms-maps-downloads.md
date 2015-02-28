@@ -33,7 +33,7 @@ Click on [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD077
   
     - [2014 US Rowing Liability Release Form](/assets/forms/2014-us-rowing-waiver.pdf)  (update **each calendar year**) 
     
-      [Instructions for Signing US Rowing Waiver](/assets/forms/instructions-signing-usrowing-waiver.pdf)
+    - [Instructions for Signing US Rowing Waiver](/assets/forms/instructions-signing-usrowing-waiver.pdf)
   
     - [Sports Physical Form](http://s3.amazonaws.com/vnn-aws-sites/39/files/2011/06/Sports-Physical.pdf)    
   
@@ -49,7 +49,7 @@ Click on [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD077
 
 ## Crew Clothing 
 
-  - Team clothing: h[ttp://www.jlracing.com/page.SalineHighSchoolCrew.html](http://www.jlracing.com/page.SalineHighSchoolCrew.html) 
+  - Team clothing: <http://www.jlracing.com/page.SalineHighSchoolCrew.html> 
 
 ## Crew Treasurer
 
@@ -58,9 +58,9 @@ Click on [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD077
 
 ## New Parents
 
-  - [How to Enjoy a Regatta](/parent-corner.html#enjoy)
+  - [How to Enjoy a Regatta](/parent-corner#regatta)
 
 ## Gatsby Thank You notes
 
-  - [Donor Thank You](/assets/forms/2013-thank-you-donor.png)
-  - [Guest Thank You](/assets/forms/2013-thank-you-guest.png)
+  - [Donor Thank You](/assets/images/2013-thank-you-donor.png)
+  - [Guest Thank You](/assets/images/2013-thank-you-guest.png)
