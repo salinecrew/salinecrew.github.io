@@ -17,17 +17,13 @@
 }
 
 @media (max-width: 640px) {
-  #content {
-    margin-top: 0;
-  }
-  
   #topbar {
     margin-right: 0.5pc;
   }
   
   .left {
     float: none;
-    max-width: 100%;
+    max-width: 80%;
     padding-right: 0;
     border-right-width: 0;
   }
