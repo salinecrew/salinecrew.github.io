@@ -30,7 +30,7 @@
   }
   
   .left {
-    max-width: 480px;
+    max-width: 460px;
     padding-right: 0;
     border-right-width: 0;
   }
@@ -54,12 +54,13 @@
   }
   
   .left {
-    max-width: 380px;
+    max-width: 370px;
     padding-right: 0;
     border-right-width: 0;
   }
   
   .right {
+    float: none;
     margin-left: 0;
   }
 }
