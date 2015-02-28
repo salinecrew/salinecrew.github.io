@@ -10,6 +10,6 @@ Check out the results from todays [Hungry Eagle Indoor Sprints](https://www.rega
 
 ![2015-02-28-hungry-eagles-3.jpg](/assets/images/2015-02-28-hungry-eagles-3.jpg) 
 
-<a class="pure-button" href="https://www.dropbox.com/sh/s718g90typa2nlz/AAAnjpNxq1JKLe6y6xCLagema?dl=0"> More Photos </a>
+<a class="pure-button" href="https://www.dropbox.com/sh/s718g90typa2nlz/AAAnjpNxq1JKLe6y6xCLagema?dl=0" target="_blank"> More Photos </a>
 
 Thanks to Heidi Pfannes for the photos.
