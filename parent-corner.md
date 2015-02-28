@@ -21,13 +21,13 @@ _The following information is for general purposes only and subject to change ea
 
 2. **Mandatory “In-Season” Practices** – Fall Season: Begins just after school begins through early-November. Spring Season: Begins in March and ends in May/June. Rowers will carpool to practices as assigned at the beginning of the season based on parent transportation consent forms. 
     
-    - **Erging**– Location: Liberty School (until weather permits on-the-water practices at Ford Lake). Practices are Mon- Thurs after school and Saturday morning 9am, when there is not a Regatta.
+  - **Erging**– Location: Liberty School (until weather permits on-the-water practices at Ford Lake). Practices are Mon- Thurs after school and Saturday morning 9am, when there is not a Regatta.
     
-    - **Weight & Fitness Training** – Location: Saline High School (until weather permits on-the-water practices at Ford Lake). Practices generally run 1 to 2 days per week after school.
+  - **Weight & Fitness Training** – Location: Saline High School (until weather permits on-the-water practices at Ford Lake). Practices generally run 1 to 2 days per week after school.
     
-    - **Rowing**- Location: Ford Lake – once weather permits, all weekly practices will be on the water at the lake. Mon- Thurs after school and Saturday morning, 9am, when there is not a Regatta. During inclement weather, practices will be held at Liberty School.
+  - **Rowing**- Location: Ford Lake – once weather permits, all weekly practices will be on the water at the lake. Mon- Thurs after school and Saturday morning, 9am, when there is not a Regatta. During inclement weather, practices will be held at Liberty School.
     
-    - **Regatta's**
+  - **Regatta's**
 
 There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule>>](http://salinerowingclub.blogspot.com/2015/02/regatta-schedule.html)  
   
