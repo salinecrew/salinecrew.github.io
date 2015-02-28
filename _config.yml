@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Saline Crew'
+tagline:          ''
+description:      ''
+url:              http://salinecrew.github.io
+baseurl:          '/'
+paginate:         5
+
+author:
+  name:           'Mike Ward'
+  email:          'mike@wardfam.org'
+  url:            'https://twitter.com/mikeward_aa'
+
+gems:
+  - jekyll-sitemap
+
+version:          '1.0.0'
+
+github:
+  repo:           'https://github.com/salinecrew'
+
+sass:
+    style:        ':compressed'
