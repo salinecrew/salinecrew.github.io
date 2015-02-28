@@ -30,7 +30,7 @@
   }
   
   .left {
-    max-width: auto;
+    max-width: 480px;
     padding-right: 0;
     border-right-width: 0;
   }
@@ -40,7 +40,7 @@
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 400px) {
   #content {
     margin-top: 0;
   }
