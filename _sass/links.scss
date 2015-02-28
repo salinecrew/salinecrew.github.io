@@ -8,10 +8,14 @@ a, a:link, a:visited {
   }
 }
 
-.post a {
+.post a{
   border-bottom: 1px solid #36b;
 }
 
-.pure-button a {
+.post a:hover {
+  text-decoration: none;
+}
+
+a.pure-button {
   border-bottom: none;
 }
