@@ -6,7 +6,7 @@ title:  'Join Crew'
 
 * * *
 
-<iframe src="//player.vimeo.com/video/43685328?title=0&amp;byline=0&amp;portrait=0" frameborder="0" width="450" height="250"></iframe>
+<iframe id="join-crew-video" src="//player.vimeo.com/video/43685328?title=0&amp;byline=0&amp;portrait=0" frameborder="0"></iframe>
 
 The Saline High School Crew Club is a club sport for both men and women. The club was founded in 2004 and is managed by a board of directors, comprised of parents, coaches and team captains.
 
