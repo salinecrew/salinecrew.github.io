@@ -797,54 +797,53 @@ Everything a Parent and Rower needs to know about food at Regattas:
 There are two competitive rowing seasons: Fall and Spring.The Fall season consists of longer races (like cross country) and the Spring is "Sprint Season" (like track). Most new rowers join in the Fall to get experience, learn to row, and prepare for the head to head competition in the Spring.
 
 **Regatta Central**  
-[https://www.regattacentral.com/index.jsp ](https://www.regattacentral.com/index.jsp)  
+<https://www.regattacentral.com/index.jsp>  
 Info can be found here for most of the regattas we attend.  
 
 **Saline Crew Alumni**  
-[www.salinecrewalumni.webnode.com](http://www.salinecrewalumni.webnode.com/)  
+<http://www.salinecrewalumni.webnode.com/>  
 For past members of the Saline Crew team.  
 
 **Wyandotte Boat Club**  
-[http://www.wyandotteboatclub.com/wbcregattas.html](http://www.wyandotteboatclub.com/wbcregattas.html)  
+[Wyandotte Boat Club](http://www.wyandotteboatclub.com/wbcregattas.html)  
 We go here three times per year or more.   
 
 **Ann Arbor Rowing Club**  
-[http://www.a2crew.com/ ](http://www.a2crew.com/)  
+<http://www.a2crew.com/>  
 Our neighbor club, where many of our members row during the summer.   A friend that has supported our growth from conception.  
 
 **USRA**  
-[http://www.usrowing.org/index.aspx ](http://www.usrowing.org/index.aspx)  
+<http://www.usrowing.org/index.aspx>  
 The United States Rowing Organization, great site for lots of rowing info.     
 
-**Row 2K**
-[http://www.row2k.com/ ](http://www.row2k.com/)  
+**Row 2K**  
+<http://www.row2k.com/>  
 Great Rowing site for up-to-date rowing info.
 
-**Vespoli Boats**
-[http://www.vespoli.com/ ](http://www.vespoli.com/)  
+**Vespoli Boats**  
+<http://www.vespoli.com/>  
 The boat company that makes our boats  
 
-**Concept 2**
-[http://www.concept2.com/us/default.asp ](http://www.concept2.com/us/default.asp)  
+**Concept 2**  
+<http://www.concept2.com/us/default.asp>  
 The company that we buy our “ergs” and oars from. Great site for rowing training info.  
 
-**EMU crew**
-[http://emucrew.com/default.aspx ](http://emucrew.com/default.aspx)  
+**EMU crew**  
+<http://emucrew.com/default.aspx>  
 We have alumni who row here and Coaches who rowed here.  
 
 Also we share Ford Lake with them and they have been very supportive of us.   
 
-**U of M Women’s Crew**
-[http://www.mgoblue.com/rowing-w/page.aspx?id=12128 ](http://www.mgoblue.com/rowing-w/page.aspx?id=12128)  
+**U of M Women’s Crew**  
+[M GoBlue](http://www.mgoblue.com/rowing-w/page.aspx?id=12128)  
 Another program that has been very supportive of us and offers rowing camps in the summer.  They are also our neighbors on Belleville Lake.
 
-**GVSU Crew**
-[http://www.grandvalleyrowing.com/newsite  
-/index.php/home ](http://www.grandvalleyrowing.com/newsite/index.php/home)  
+**GVSU Crew**  
+<http://www.grandvalleyrowing.com/newsite/index.php/home>  
 We have alumni who row here, and Coach Matt's alma mater.
 
-**MSU Crew**
-[https://www.msu.edu/~msucrew/ ](https://www.msu.edu/~msucrew/)  
+**MSU Crew**  
+<https://www.msu.edu/~msucrew/>  
 We have alumni rowing here. 
 
 [(Top)](#)

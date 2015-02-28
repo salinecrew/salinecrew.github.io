@@ -146,7 +146,7 @@ The following list contains items needed for the coming year. If you have any i
   - Cox Boxes
   - Stroke coaches
   - Sliders 290$ for a pair. (3 sliders needed for 2 ergs).  
-    [http://www.concept2.com/us/indoorrowers/accessories/slides.asp](http://www.concept2.com/us/indoorrowers/accessories/slides.asp)
+    [Concept 2 Slides](http://www.concept2.com/us/indoorrowers/accessories/slides.asp)
   - Slings $110 for pair [http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552](http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552)
 
 [(Top)](#)

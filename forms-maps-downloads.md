@@ -49,7 +49,7 @@ Click on [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD077
 
 ## Crew Clothing 
 
-  - Team clothing: <http://www.jlracing.com/page.SalineHighSchoolCrew.html> 
+  - Team clothing: [JL Racing](http://www.jlracing.com/page.SalineHighSchoolCrew.html) 
 
 ## Crew Treasurer
 
