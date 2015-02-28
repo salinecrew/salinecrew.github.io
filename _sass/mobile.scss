@@ -1,4 +1,8 @@
 @media (max-width: 768px) {
+  #context {
+    margin-top: 0;
+  }
+  
   #topbar {
     margin-right: 2pc;
   }
@@ -13,6 +17,10 @@
 }
 
 @media (max-width: 480px) {
+  #context {
+    margin-top: 0;
+  }
+  
   #banner {
     width: 60%;
   }
@@ -22,7 +30,7 @@
   }
   
   .left {
-    max-width: 400px;
+    max-width: 300px;
     padding-right: 0;
     border-right-width: 0;
   }
