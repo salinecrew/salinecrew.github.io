@@ -435,7 +435,7 @@ Finally, **ENJOY** every minute of watching your child/children participate in 
     
 Row Hard Hornets!!  
     
-[Download a pdf of this article](assets/forms/how-to-enjoy-crew-regatta.pdf)
+[Download a pdf of this article](/assets/forms/how-to-enjoy-crew-regatta.pdf)
 
 
 [(Top)](#)
