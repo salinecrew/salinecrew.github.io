@@ -18,4 +18,4 @@ Saline hosted regatta
 London, ON (tentative regatta)
 
 **Jun 6 - 7, 2015**  
-Canadian School Rowing Championship (St Catherines, ONT) - Varsity only
+Canadian School Rowing Championship (St Catherines, Ontario) - Varsity only
