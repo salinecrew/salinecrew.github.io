@@ -4,7 +4,7 @@ title:  'Contact Us'
 ---
 ###General Information
 
-  - [Chris Frick, President](mailto:christopherdfrick@gmail.com)
+  - {{president.name}} - <mailto:christopherdfrick@gmail.com>
   - [Matt LeBlanc, Head Coach](mailto:boatrepair@comcast.net)  cell: 734.260.6394 
 
 
