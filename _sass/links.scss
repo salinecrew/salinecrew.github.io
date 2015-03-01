@@ -1,5 +1,5 @@
 a, a:link, a:visited {
-  color: steelblue;
+  color: darkgoldenrod;
   text-decoration: none;
 
   &:hover {
@@ -9,7 +9,7 @@ a, a:link, a:visited {
 }
 
 .post a {
-  border-bottom: 1px solid steelblue;
+  border-bottom: 1px solid darkgoldenrod;
 }
 
 .post a:hover {
