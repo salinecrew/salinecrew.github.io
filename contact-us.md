@@ -33,4 +33,4 @@ Saline Crew
 c/o Saline High School  
 1300 Campus Parkway   
 Saline, MI  48176  
-email: {{site.data.members.president-email}}, President (<mailto:{{site.data.members.president-email}}>)
+email: {{site.data.members.president-name}}, President (<mailto:{{site.data.members.president-email}}>)
