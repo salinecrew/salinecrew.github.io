@@ -4,7 +4,7 @@ title:  'Contact Us'
 ---
 ###General Information
 
-  - {{site.data.members.president}} - President
+  - {{site.data.members.president}} - President  
     <mailto:{{site.data.members.president-email}}>
     
   - {{site.data.members.coach}} - Coach  
