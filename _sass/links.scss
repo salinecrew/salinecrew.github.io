@@ -17,7 +17,7 @@ a, a:link, a:visited {
 }
 
 h1 a, h2 a {
-  border-bottom: 0px;
+  border-bottom-width: 0 !important;
 }
 
 a.pure-button {
