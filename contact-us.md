@@ -4,8 +4,11 @@ title:  'Contact Us'
 ---
 ###General Information
 
-  - {{site.data.members.president}}, President - <mailto:{{site.data.members.president-email}}>
-  - {{site.data.members.coach}}, Coach - <mailto:{{site.data.members.coach-email}}>,  <tel:{{site.data.members.coach-cell}}>
+  - {{site.data.members.president}} - President
+    <mailto:{{site.data.members.president-email}}>
+    
+  - {{site.data.members.coach}} - Coach  
+    <mailto:{{site.data.members.coach-email}}>,  <tel:{{site.data.members.coach-cell}}>
 
 ###Spring 2015 Team Captains
 
@@ -46,4 +49,4 @@ Saline Crew
 c/o Saline High School  
 1300 Campus Parkway   
 Saline, MI  48176  
-email: {{site.data.members.president}}, President (<mailto:{{site.data.members.president-email}}>)
+email: <mailto:{{site.data.members.president-email}}>
