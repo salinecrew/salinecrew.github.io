@@ -8,11 +8,11 @@ a, a:link, a:visited {
   }
 }
 
-.post a {
+.post a, .page a {
   border-bottom: 1px solid darkgoldenrod;
 }
 
-.post a:hover {
+.post a:hover, .page a {
   text-decoration: none;
 }
 
