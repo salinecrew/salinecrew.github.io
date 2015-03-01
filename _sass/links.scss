@@ -4,6 +4,7 @@ a, a:link, a:visited {
   text-decoration: none;
 
   &:hover {
+    border-bottom-color: steelblue;
     color: steelblue;
   }
 }
