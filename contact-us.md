@@ -5,7 +5,7 @@ title:  'Contact Us'
 ###General Information
 
   - {{site.data.members.president}} - <mailto:{{site.data.members.president-email}}>
-  - {{site.data.members.coach}} - <mailto:{{site.data.members.coach-email}}> - c: {{site.data.members.coach-cell}}
+  - {{site.data.members.coach}} - <mailto:{{site.data.members.coach-email}}>,  <tel:{{site.data.members.coach-cell}}>
 
 ###Spring 2015 Team Captains
 
@@ -19,7 +19,7 @@ title:  'Contact Us'
 ###Volunteers (frequently called)
 
   -  Food Coordinator - {{site.data.members.food-coordinator}} - <mailto:{{site.data.members.food-coordinator-email}}>
-  -  Transportation Coordinator - {{site.data.members.transportation}} - <mailto:{{site.data.members.transportation-email}}>
+  -  Transportation Coordinator - {{site.data.members.transportation  }} - <mailto:{{site.data.members.transportation-email}}>
   -  Fundraising - {{site.data.members.fundraising}} - <mailto:{{site.data.members.fundraising-email}}>
   -  Crew Clothing - {{site.data.members.crew-clothing}} - <mailto:{{site.data.members.crew-clothing-email}}>
   -  Website - {{site.data.members.web-master}} - <mailto:{{site.data.members.web-master-email}}>
