@@ -192,7 +192,7 @@ On Ford Lake at the Boathouse site.
 We carpool over and most drivers are students. [more...](#transporation)  
   
 ## Where are the regattas?
-In Michigan and Ohio. [Check out the Regatta schedule]({{site.data.links.regatta-schedule)  
+In Michigan and Ohio. [Check out the Regatta schedule]({{site.data.links.regatta-schedule}})  
   
 ## What equipment do I need?
 The only required item is the team uni. We recommend that you dress in layers and wear warm clothing such as under armour and/or spandex (surprisingly comfortable) under your workout clothing.  
@@ -344,7 +344,7 @@ Spring 2015 Season
   - Provides list of phone numbers to each driver for emergency contact  
   - Works with Coach & Captains    
 
-## Banquet Coordinators - {{site.data.members.banquet-coordinator}
+## Banquet Coordinators - {{site.data.members.banquet-coordinator}}
 
   - Organizes and arranges Team Banquet  
   - Including Food  
