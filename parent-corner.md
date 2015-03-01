@@ -34,10 +34,10 @@ There are generally four to five regatta's each season. You can read about ["Ho
 
 * * *
   
-For a description of each position, please see [the Bylaws](http://www.salinecrew.org/images/FORMS/Saline%20Rowing%20Club%20Bylaws%20update%205%2020%202014.pdf)  
+For a description of each position, please see [the Bylaws]({{site.data.links.bylaws}})  
   
-  - [Chris Frick, President](mailto:christopherdfrick@gmail.com)  
-  - [Mark Eby, Vice President](mailto:mark.eby@eecsb.com)  
+  - {{site.data.members.president-name}} - <mailto:{{site.data.members.president-email}}> 
+  - {{site.data.members.vice-president-name}} - <mailto:{{site.data.members.vice-president-email}}> 
   - [Julie Campbell, Treasurer](mailto:Julie.Campbell@hotmail.com)  
   - [Sheryl Wagner, Secretary](mailto:sherylmo17@gmail.com)  
   - [Cheryl Brill, Equipment Manager](mailto:brill@comcast.net)  
