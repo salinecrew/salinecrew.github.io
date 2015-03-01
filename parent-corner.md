@@ -36,14 +36,29 @@ There are generally four to five regatta's each season. You can read about ["Ho
   
 For a description of each position, please see [the Bylaws]({{site.data.links.bylaws}})  
   
-  - {{site.data.members.president}}, President - <mailto:{{site.data.members.president-email}}> 
-  - {{site.data.members.vice-president}}, Vice President - <mailto:{{site.data.members.vice-president-email}}> 
-  - {{site.data.members.treasurer}}, Treasurer - <mailto:{{site.data.members.treasurer-email}}>
-  - {{site.data.members.secretary}}, Secretary - <mailto:{{site.data.members.secretary-email}}> 
-  - {{site.data.members.equipment-manager}}, Equipment Manager - <mailto:{{site.data.members.equipment-manager-email}}> 
-  - {{site.data.members.alumni-liason}}, Alumni Liason - <mailto:{{site.data.members.alumni-liason-email}}> 
-  - {{site.data.members.fundraising}}, Fund Raising - <mailto:{{site.data.members.fundraising-email}}> 
-  - {{site.data.members.member-at-large}}, Secretary - <mailto:{{site.data.members.member-at-large-email}}> 
+  - {{site.data.members.president}}, President  
+    <mailto:{{site.data.members.president-email}}>
+    
+  - {{site.data.members.vice-president}}, Vice President  
+    <mailto:{{site.data.members.vice-president-email}}> 
+    
+  - {{site.data.members.treasurer}}, Treasurer   
+    <mailto:{{site.data.members.treasurer-email}}>
+    
+  - {{site.data.members.secretary}}, Secretary   
+    <mailto:{{site.data.members.secretary-email}}>
+    
+  - {{site.data.members.equipment-manager}}, Equipment Manager   
+    <mailto:{{site.data.members.equipment-manager-email}}>
+    
+  - {{site.data.members.alumni-liason}}, Alumni Liason  
+    <mailto:{{site.data.members.alumni-liason-email}}>
+    
+  - {{site.data.members.fundraising}}, Fund Raising  
+    <mailto:{{site.data.members.fundraising-email}}>
+    
+  - {{site.data.members.member-at-large}}, Member at Large  
+    <mailto:{{site.data.members.member-at-large-email}}> 
   
 **Spring 2015 Volunteer Committee Chairs**  
   
