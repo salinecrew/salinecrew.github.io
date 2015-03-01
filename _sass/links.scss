@@ -8,10 +8,6 @@ a, a:link, a:visited {
   }
 }
 
-h1 a, h2 a {
-  border-bottom-width: 0
-}
-
-a.pure-button {
-  border-bottom: none;
+a.pure-button .post-title a {
+  border-bottom-width: 0;
 }
