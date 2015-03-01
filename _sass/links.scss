@@ -1,23 +1,15 @@
 a, a:link, a:visited {
   color: darkgoldenrod;
+  border-bottom: 1px solid darkgoldenrod;
   text-decoration: none;
 
   &:hover {
     color: #222;
-    text-decoration: underline;
   }
 }
 
-.post a, .page a {
-  border-bottom: 1px solid darkgoldenrod;
-}
-
-.post a:hover, .page a:hover {
-  text-decoration: none;
-}
-
 h1 a, h2 a {
-  border-bottom-width: 0 !important;
+  border-bottom-width: 0
 }
 
 a.pure-button {
