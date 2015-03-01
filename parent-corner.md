@@ -24,7 +24,7 @@ _The following information is for general purposes only and subject to change ea
     - **Rowing**- Location: Ford Lake – once weather permits, all weekly practices will be on the water at the lake. Mon- Thurs after school and Saturday morning, 9am, when there is not a Regatta. During inclement weather, practices will be held at Liberty School.    
     - **Regatta's**
 
-There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule>>](/2015/02/05/regatta-schedule/)  
+There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule]({{site.data.links.regatta-schedule}})  
   
   
 [(Top)](#)
@@ -36,9 +36,9 @@ There are generally four to five regatta's each season. You can read about ["Ho
   
 For a description of each position, please see [the Bylaws]({{site.data.links.bylaws}})  
   
-  - {{site.data.members.president-name}} - <mailto:{{site.data.members.president-email}}> 
-  - {{site.data.members.vice-president-name}} - <mailto:{{site.data.members.vice-president-email}}> 
-  - [Julie Campbell, Treasurer](mailto:Julie.Campbell@hotmail.com)  
+  - {{site.data.members.president}} - <mailto:{{site.data.members.president-email}}> 
+  - {{site.data.members.vice-president}} - <mailto:{{site.data.members.vice-president-email}}> 
+  - {{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer-email}}> 
   - [Sheryl Wagner, Secretary](mailto:sherylmo17@gmail.com)  
   - [Cheryl Brill, Equipment Manager](mailto:brill@comcast.net)  
   - [Mary Visel, Alumni Liason](mailto:mhowleyvisel@aol.com)  
