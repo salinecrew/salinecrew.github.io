@@ -36,14 +36,14 @@ There are generally four to five regatta's each season. You can read about ["Ho
   
 For a description of each position, please see [the Bylaws]({{site.data.links.bylaws}})  
   
-  - {{site.data.members.president}} - <mailto:{{site.data.members.president-email}}> 
-  - {{site.data.members.vice-president}} - <mailto:{{site.data.members.vice-president-email}}> 
-  - {{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer-email}}> 
-  - [Sheryl Wagner, Secretary](mailto:sherylmo17@gmail.com)  
-  - [Cheryl Brill, Equipment Manager](mailto:brill@comcast.net)  
-  - [Mary Visel, Alumni Liason](mailto:mhowleyvisel@aol.com)  
-  - [Jeff Ball, Fundraising](mailto:jaball50@gmail.com)  
-  - [Doug Wellings, Member at Large](mailto:dougwellings@gmail.com)  
+  - {{site.data.members.president}}, President - <mailto:{{site.data.members.president-email}}> 
+  - {{site.data.members.vice-president}}, Vice President - <mailto:{{site.data.members.vice-president-email}}> 
+  - {{site.data.members.treasurer}}, Treasurer - <mailto:{{site.data.members.treasurer-email}}>
+  - {{site.data.members.secretary}}, Secretary - <mailto:{{site.data.members.secretary-email}}> 
+  - {{site.data.members.equipment-manager}}, Equipment Manager - <mailto:{{site.data.members.equipment-manager-email}}> 
+  - {{site.data.members.alumni-liason}}, Alumni Liason - <mailto:{{site.data.members.alumni-liason-email}}> 
+  - {{site.data.members.fundraising}}, Fund Raising - <mailto:{{site.data.members.fundraising-email}}> 
+  - {{site.data.members.member-at-large}}, Secretary - <mailto:{{site.data.members.member-at-large-email}}> 
   
 **Spring 2015 Volunteer Committee Chairs**  
   
