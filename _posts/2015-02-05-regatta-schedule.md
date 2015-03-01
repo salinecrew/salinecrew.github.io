@@ -14,8 +14,11 @@ Wyandotte2 (tentative regatta)
 **May 9, 2015**  
 Saline hosted regatta
 
+**May 16, 2015**  
+Grand Rapids High School State Championships
+
 **May 30, 2015**  
-London, ON (tentative regatta)
+London, Ontario (tentative regatta)
 
 **Jun 6 - 7, 2015**  
-Canadian School Rowing Championship (St Catherines, Ontario) - Varsity only
+Canadian School Rowing Championship (St Catherines, Ontario) - Varsity and select novice rowers
