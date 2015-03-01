@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 'Spring Season Hotel Reservation'
+title: '2015 Spring Season Hotel Reservations'
 ---
 Hello Parents of Rowers,
 I’m Carol Torssell, coordinator of lodging for our regattas. This is a very important message regarding making reservations ASAP, as regattas draw many teams and families along with all the other events that go on during the spring weekends. Please don’t be caught without a room. It is important to reserve your rooms as soon as possible (at no cost, just a credit card) they can always be canceled per the hotel’s cancellation policy. 
