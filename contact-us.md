@@ -4,10 +4,10 @@ title:  'Contact Us'
 ---
 ###General Information
 
-  - {{president.name}} - <mailto:{{president.email}}>
+  - {{site.data.president.name}} - <mailto:{{site.data.president.email}}>
   - [Matt LeBlanc, Head Coach](mailto:boatrepair@comcast.net)  cell: 734.260.6394 
 
-<span>{{president.name}} - <a href="mailto:{{president.email}}">{{president.email}}</a></span>
+<span>{{site.data.president.name}} - <a href="mailto:{{site.data.president.email}}">{{president.email}}</a></span>
 
 ###Spring 2015 Team Captains
 
