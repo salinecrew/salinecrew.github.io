@@ -8,12 +8,16 @@ a, a:link, a:visited {
   }
 }
 
-.post a:not(h1,h2) {
+.post a {
   border-bottom: 1px solid #36b;
 }
 
-.post a:hover:not(h1,h2) {
+.post a:hover {
   text-decoration: none;
+}
+
+h1 a, h2 a {
+  border-bottom: none;
 }
 
 a.pure-button {
