@@ -8,11 +8,11 @@ a, a:link, a:visited {
   }
 }
 
-.post a:not(:first-child) {
+.post a:not(h1,h2) {
   border-bottom: 1px solid #36b;
 }
 
-.post a:hover:not(:first-child) {
+.post a:hover:not(h1,h2) {
   text-decoration: none;
 }
 
