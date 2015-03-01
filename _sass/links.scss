@@ -1,5 +1,5 @@
 a, a:link, a:visited {
-  color: #36b;
+  color: steelblue;
   text-decoration: none;
 
   &:hover {
@@ -9,7 +9,7 @@ a, a:link, a:visited {
 }
 
 .post a {
-  border-bottom: 1px solid #36b;
+  border-bottom: 1px solid steelblue;
 }
 
 .post a:hover {
