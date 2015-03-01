@@ -17,6 +17,9 @@ Saline hosted regatta
 **May 16, 2015**  
 Grand Rapids High School State Championships
 
+**May 23, 2015**  
+Tentative scrimmage
+
 **May 30, 2015**  
 London, Ontario (tentative regatta)
 
