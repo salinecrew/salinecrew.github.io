@@ -18,13 +18,26 @@ title:  'Contact Us'
 
 ###Volunteers (frequently called)
 
-  -  Food Coordinator - {{site.data.members.food-coordinator}} - <mailto:{{site.data.members.food-coordinator-email}}>
-  -  Transportation Coordinator - {{site.data.members.transportation  }} - <mailto:{{site.data.members.transportation-email}}>
-  -  Fundraising - {{site.data.members.fundraising}} - <mailto:{{site.data.members.fundraising-email}}>
-  -  Crew Clothing - {{site.data.members.crew-clothing}} - <mailto:{{site.data.members.crew-clothing-email}}>
-  -  Website - {{site.data.members.web-master}} - <mailto:{{site.data.members.web-master-email}}>
-  -  Treasurer - {{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer-email}}>
-  -  Rent-A-Rower/Hire-A-Crew - {{site.data.members.rent-a-rower}} - <mailto:{{site.data.members.rent-a-rower-email}}>
+  - Food Coordinator, {{site.data.members.food-coordinator}}  
+    <mailto:{{site.data.members.food-coordinator-email}}>
+     
+  - Transportation Coordinator, {{site.data.members.transportation}}  
+    <mailto:{{site.data.members.transportation-email}}>
+     
+  - Fundraising, {{site.data.members.fundraising}}   
+    <mailto:{{site.data.members.fundraising-email}}>
+    
+  - Crew Clothing, {{site.data.members.crew-clothing}}  
+    <mailto:{{site.data.members.crew-clothing-email}}>
+    
+  - Website - {{site.data.members.web-master}}  
+    <mailto:{{site.data.members.web-master-email}}>
+    
+  - Treasurer - {{site.data.members.treasurer}}  
+    <mailto:{{site.data.members.treasurer-email}}>
+    
+  - Rent-A-Rower/Hire-A-Crew - {{site.data.members.rent-a-rower}}  
+    <mailto:{{site.data.members.rent-a-rower-email}}>
 
 
 ###Mailing Address
