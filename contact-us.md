@@ -8,7 +8,8 @@ title:  'Contact Us'
     <mailto:{{site.data.members.president-email}}>
     
   - {{site.data.members.coach}} - Coach  
-    <mailto:{{site.data.members.coach-email}}>,  <tel:{{site.data.members.coach-cell}}>
+    <mailto:{{site.data.members.coach-email}}>   
+    <tel:{{site.data.members.coach-cell}}>
 
 ###Spring 2015 Team Captains
 
