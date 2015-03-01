@@ -62,16 +62,16 @@ For a description of each position, please see [the Bylaws]({{site.data.links.b
   
 **Spring 2015 Volunteer Committee Chairs**  
   
-  - Regatta Food Coordinator - {{site.data.members-food-coordinator}}  
+  - Regatta Food Coordinator - {{site.data.members.food-coordinator}}  
     <mailto:{{site.data.members.food-coordinator-email}}>
 
-  - Regatta Transporation - {{site.data.members-transportation}}  
+  - Regatta Transporation - {{site.data.members.transportation}}  
     <mailto:{{site.data.members.transportation-email}}>
 
-  - Crew Clothing - {{site.data.members-crew-clothing}}  
+  - Crew Clothing - {{site.data.members.crew-clothing}}  
     <mailto:{{site.data.members.crew-clothing-email}}>
 
-  - Rent a Rower/Hire a Crew - {{site.data.members-rent-a-rower}}  
+  - Rent a Rower/Hire a Crew - {{site.data.members.rent-a-rower}}  
     <mailto:{{site.data.members.rent-a-rower-email}}>
 
   - Website Maintenance - {{site.data.members.web-master}}  
@@ -80,7 +80,7 @@ For a description of each position, please see [the Bylaws]({{site.data.links.b
   - Food Trailer Towing - {{site.data.members.food-trailer-towing}}  
     <mailto:{{site.data.members.food-trailer-towing-email}}>
 
-  - Boat Trailer Towing - [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}})/[{{site.data.members.boat-trailer-towing2}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
+  - Boat Trailer Towing - [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}}) / [{{site.data.members.boat-trailer-towing2}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
 
   - Publicity Liason - {{site.data.members.publicity-liason}}  
     <mailto:{{site.data.members.publicity-liason-email}}>
@@ -326,7 +326,8 @@ Spring 2015 Season
   - Updates website based on changes provided from Saline Crew Board and coaches  
   - Works with media rep and team photographer  
 
-## Team Photographer & End of Season Video - {{site.data.members.team-photographer}}/{{site.data.members.team-photographer2}}
+## Team Photographer & End of Season Video
+### {{site.data.members.team-photographer}} / {{site.data.members.team-photographer2}}
 
   - Takes pictures at regattas
   - Works with web master and media rep  
@@ -344,7 +345,7 @@ Spring 2015 Season
   - Provides list of phone numbers to each driver for emergency contact  
   - Works with Coach & Captains    
 
-## Banquet Coordinators - {{site.data.members.banquet-coordinator}}
+## Banquet Coordinator - {{site.data.members.banquet-coordinator}}
 
   - Organizes and arranges Team Banquet  
   - Including Food  
@@ -398,7 +399,7 @@ Snacks for traveling home – your rower is usually starving at the end!
   
 Be sure that your rower’s clothing is labeled. Remember, everyone has the same team sweatshirt and many items get left behind.  
   
-Print off heat sheets before you go! For most races these can be found on[www.regattacentral.com](http://www.regattacentral.com) click on the event and then on the tab on the left labeled “heat sheet” a few days before the regatta. Highlight your team’s/rower’s races. Some regattas will sell them for $2 or $3 at the site, but they go fast.  
+Print off heat sheets before you go! For most races these can be found on [www.regattacentral.com](http://www.regattacentral.com) click on the event and then on the tab on the left labeled “heat sheet” a few days before the regatta. Highlight your team’s/rower’s races. Some regattas will sell them for $2 or $3 at the site, but they go fast.  
   
 Be sure to print off directions and important phone numbers like the other drivers prior to leaving!  
   
@@ -473,8 +474,8 @@ Row Hard Hornets!!
 Everything a Parent and Rower needs to know about food at Regattas:
 
   1.  Every rower must pay a specified amount each season to cover food and drinks for all rowers as part of their dues. Family members and guests pay an additional “optional” fee which is established each season. This information is presented at the Parent / Rower meeting.  
-  [Download family and guest regatta food form](http://www.salinecrew.org/images/FORMS/2014%20Spring%20Rowing%20Food%20Form.pdf)  
-  [Regatta food Menu](http://www.salinecrew.org/images/FORMS/spring_2014_menu.pdf)
+  [Family and Guest Regatta Food Form](http://www.salinecrew.org/images/FORMS/2014%20Spring%20Rowing%20Food%20Form.pdf)  
+  [Regatta Food Menu](http://www.salinecrew.org/images/FORMS/spring_2014_menu.pdf)
 
   2.  We serve approximately 80-100+ people each regatta, depending on number of rowers.  We serve approximately 150 people at each banquet.  
   
@@ -499,7 +500,7 @@ Everything a Parent and Rower needs to know about food at Regattas:
   7.  All rower family members are responsible for clean-up of site(s), take down of tents and loading the equipment trailer.    
   ![cooking](/assets/images/pam-cooking.jpg)
 
-  8.  We are in need of many volunteers to help with the regatta food. Volunteer opportunities will be explained and / or requested at the Parent / Rower meeting each season. The following is a general outline of regatta food volunteer opportunities ([REFER TO: “Volunteer Positions & Responsibilities” page for further details:](#volunteer)
+  8.  We are in need of many volunteers to help with the regatta food. Volunteer opportunities will be explained and / or requested at the Parent / Rower meeting each season. The following is a general outline of regatta food volunteer opportunities ([Volunteer Positions & Responsibilities](#volunteer)
 
   - Food Coordinator – Lorna Gibson
   - Shopper – Lorna Gibson
