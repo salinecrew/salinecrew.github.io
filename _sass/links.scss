@@ -4,10 +4,10 @@ a, a:link, a:visited {
   text-decoration: none;
 
   &:hover {
-    color: #222;
+    color: steelblue;
   }
 }
 
-a.pure-button .post-title a {
+a.pure-button {
   border-bottom-width: 0;
 }
