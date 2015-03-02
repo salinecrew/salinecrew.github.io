@@ -36,13 +36,13 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
 
 "Busch's Gift Card"Saline Crew is enrolled in the Busch's scrip program.  The scrip program offers Saline Crew a very easy way to raise funds for the team. 
 
-## Here is how it works:
+### Here is how it works:
 
   - Obtain a Gift Card
   - Gift card can be recharged at point of purchase with your debit card or credit card, OR
   - Each card can be recharged at any Busch's up to $500.00 (maximum per card at one time).
 
-## Saline Crew will earn:
+### Saline Crew will earn:
 
   - 5% on recharges paid with cash, check or debit card.
   - 3% on recharges paid with a credit card.
@@ -62,7 +62,7 @@ Please contact Stacy Wellings to get your card. call: 734.649.6989
 
 A crew program requires access to water, interested students, and a talented coaching staff. In order to continue to provide this sport to the 50+ high school athletes that currently participate, it is essential to create a more permanent home for the 12 boats and equipment that the team has purchased and that are insured by Saline Schools. The community boathouse that would have usage for students and adults that are interested in a lifetime sport.
 
-## A little background history:
+### A little background history:
 
 The Saline High School Crew program, a division of the Community Education Program, was founded in 2004 and currently rows on Ford Lake, with water access provided by Lakeshore Apartments in Ypsilanti Township. The boats, trailers, and other equipment are stored in a fenced-in storage area located in another part of the apartment complex during the fall and spring seasons of rowing. In the winter and summer, the boats are stored outdoors adjacent to the school bus parking lots.  
   
@@ -73,7 +73,7 @@ The EMU womens’ rowing team is also interested in the construction of a boatho
   ![Boat House Rendering](/assets/images/boathouse_rendering_interior.png)  
   *Boat House Rendering*
 
-## Why expand the existing program:  
+### Why expand the existing program:  
 
 The current Saline High School Crew program serves approximately 50 High School athletes and is in its 6th year. The team initially drove to the Irish Hills in Lenawee County to row on Sand Lake. The Crew parent board negotiated to row on Ford Lake, accessing the water from Lakeshore Apartments in Ypsilanti Township for the past 2 years. 2 SAS teachers, Bridgette Sparks and Dave Fiske, coach the team during the fall and spring seasons. Alumni coaches assist the teams during portions of the season.
 
@@ -87,7 +87,7 @@ Additionally, recruitment of coaching staff and
 
 student athletes would be improved with the construction of a boathouse.
 
-## New Value of Program: 
+### New Value of Program: 
 
 A boathouse would protect Saline Area Schools equipment, and most importantly provide a facility for additional training and the opportunity for a community partnership with Eastern Michigan University, Ypsilanti Township and Saline residents, and possible future nearby communities. (Note that the forecasted possible removal of Argo Dam in Ann Arbor may create the need for all 3 Ann Arbor High Schools to relocate their rowing programs to Ford Lake).  
   
