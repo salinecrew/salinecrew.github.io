@@ -57,7 +57,7 @@ Please contact Stacy Wellings to get your card. call: 734.649.6989
 
 ***
 
-  [![concept](/assets/images/lakeside-park.jpg)](http://www.salinecrew.org/images/downloads/Lakeside%20Park%20Improvements%20Concept%20Plan.pdf)  
+  [![concept](/assets/images/lakeside-park.jpg)](/assets/forms/lakeside-park-improvements-concept-plan.pdf)  
   *Concept Plan*
 
 A crew program requires access to water, interested students, and a talented coaching staff. In order to continue to provide this sport to the 50+ high school athletes that currently participate, it is essential to create a more permanent home for the 12 boats and equipment that the team has purchased and that are insured by Saline Schools. The community boathouse that would have usage for students and adults that are interested in a lifetime sport.
@@ -121,7 +121,7 @@ A few programs in place include:
 
 We have a number of Fundraising events to help offset some of the club's expenses:
 
-  - Annual Great Gatsby Regatta. [Learn more](http://www.salinecrew.org/?module=Page&pageID=29)
+  - Annual Great Gatsby Regatta. [need new link]()
 
   - Busch's Scrip Program. [Learn more>>](#busch)
 
@@ -147,7 +147,7 @@ The following list contains items needed for the coming year. If you have any i
   - Stroke coaches
   - Sliders 290$ for a pair. (3 sliders needed for 2 ergs).  
     [Concept 2 Slides](http://www.concept2.com/us/indoorrowers/accessories/slides.asp)
-  - Slings $110 for pair [http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552](http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552)
+  - Slings $110 for pair [Slings](http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552)
 
 [(Top)](#)
 <a name="rent"></a>
@@ -156,16 +156,15 @@ The following list contains items needed for the coming year. If you have any i
 
 ---
 
-[![Rent a Rower/Hire a Crew](/assets/images/rentarower.png)](http://www.salinecrew.org/images/downloads/rentarowerSW.pdf)
+![Rent a Rower/Hire a Crew](/assets/images/rentarower.png)
 
-## Crew Families
+### Crew Families
 
-This is probably one of the easiest ways for a rower to raise funds to reduce their individual fees.   
-Spread the word, post a few posters around town and also put a lawn sign out. The cost of the posters is nothing. A lawn sign is around $15.00. The cost is easily offset with just a few hours worth of work.
+This is probably one of the easiest ways for a rower to raise funds to reduce their individual fees. Spread the word, post a few posters around town and also put a lawn sign out. The cost of the posters is nothing. A lawn sign is around $15.00. The cost is easily offset with just a few hours worth of work.
 
-## Need help with chores?
+### Need help with chores?
 
-## Rent-A-Rower or Hire-A-Crew
+### Rent-A-Rower or Hire-A-Crew
 
   - Hire one or more of the team by the hour or negotiate a flat rate.   
   - Some suggestions:   
@@ -177,11 +176,11 @@ Spread the word, post a few posters around town and also put a lawn sign out. Th
   - Wash & wax cars  
   - Clean up crew for events
 
-## **Contact:**
+### **Contact:**
 
-email: **[Stacy Wellings](mailto:stacywellings@gmail.com) or call 734.649.6989**
+email: **[{{site.data.member.rent-a-rower}}](mailto:{{site.data.member.rent-a-rower-email}}) or call 734.649.6989**
 
-[Download poster&gt;&gt; ](http://www.salinecrew.org/images/downloads/Rent-A-Rower%20Flier.pdf)  
+[Download poster](/assets/forms/rent-a-rower-flier.pdf)  
 
 All proceeds go the Saline Area Schools/Crew Club rowers to offset their dues.
 
