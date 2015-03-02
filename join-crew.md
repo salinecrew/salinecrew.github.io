@@ -48,7 +48,7 @@ Follow the instructions below to join the Saline High School Crew for the season
 To become a member of the Saline Crew, you must:
 
   1. Complete the swim test.
-  2. Complete all the[forms](/forms-maps-downloads) on the Crew Forms page. Forms must be turned in no later than the first day of practice. 
+  2. Complete all the [forms](/forms-maps-downloads) on the Crew Forms page. Forms must be turned in no later than the first day of practice. 
   3. Attend the mandatory Rower/Parent meeting in the Saline High School Commons. Bring your checkbook and your calendar to write down practice and regatta dates and times. This would also be a good time to turn in the forms you filled out in step 2.
   4. Pay fees for the season.
   5. Order the Crew Unisuit  (required for Regatta's)
@@ -73,7 +73,7 @@ Transportation Fee $75.00: **Payable to CASH**
 
 Send payment for registration to:
 
-{{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer}}> 
+{{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer-email}}> 
 
 If the cost of joining the team is the only thing holding you back, please contact <mailto:{{site.data.members.president}}> to discuss possible solutions.
 
