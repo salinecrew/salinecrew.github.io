@@ -30,7 +30,7 @@ Click [here](#join) if you are interested in joining the team. You will be gl
   8.  You get to catch "crabs".   
       *might even catch a rare one - as seen in the photo below*
       ![ejecting crab](/assets/images/crab.jpg)  
-      *ejecting crab*  
+      *The rare and exotic ejecting crab maneuver*  
   9.  Next time you ride in any kind of boat, you can babble on and on using technical boat terms and people will think you're an accomplished seaman.
   10. Being in a crew race is the same as having 8 people run a 7 minute 2k -- in step!
 
@@ -48,11 +48,11 @@ Follow the instructions below to join the Saline High School Crew for the season
 To become a member of the Saline Crew, you must:
 
   1. Complete the swim test.
-  2. Complete all the[ forms](http://salinerowingclub.blogspot.com/p/forms-maps-downloads.html) on the Crew Forms page. Forms must be turned in no later than the first day of practice. 
+  2. Complete all the[forms](/forms-maps-downloads) on the Crew Forms page. Forms must be turned in no later than the first day of practice. 
   3. Attend the mandatory Rower/Parent meeting in the Saline High School Commons. Bring your checkbook and your calendar to write down practice and regatta dates and times. This would also be a good time to turn in the forms you filled out in step 2.
   4. Pay fees for the season.
   5. Order the Crew Unisuit  (required for Regatta's)
-  6. Attend the first day of practice. Check the calendar and/or schedule [online](http://salinerowingclub.blogspot.com/p/parents-corner.html#practice).
+  6. Attend the first day of practice. Check the calendar and/or schedule [online](/parent-corner#practice).
 
 ## Fees
 
@@ -73,25 +73,21 @@ Transportation Fee $75.00: **Payable to CASH**
 
 Send payment for registration to:
 
-Scott Carter, Treasurer  
-9200 Pine Hill Court  
-Saline, MI 48176   
-Questions: Scott’s telephone number: 734 429-8228  
-Email: <mailto:Julie.Campbell@hotmail.com>
+{{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer}}> 
 
-If the cost of joining the team is the only thing holding you back, please contact <mailto:christopherdfrick@gmail.com> to discuss possible solutions.
+If the cost of joining the team is the only thing holding you back, please contact <mailto:{{site.data.members.president}}> to discuss possible solutions.
 
 ## Fundraisers
 
-Team fundraisers help to purchase equipment including boats, boat parts, outboard motors, trailers, and oars. All team members are expected to participate in team fundraisers throughout the season. The team also sponsors fundraisers that rowers can participate in to apply to their seasonal dues. [Learn more>>](http://salinerowingclub.blogspot.com/p/fund-raising.html)
+Team fundraisers help to purchase equipment including boats, boat parts, outboard motors, trailers, and oars. All team members are expected to participate in team fundraisers throughout the season. The team also sponsors fundraisers that rowers can participate in to apply to their seasonal dues. [Learn more](/fundraising)
 
 ## Practices
 
-Practices take place immediately after school, as well as several hours after school, and on Saturday's. Practices are at Ford Lake in Ypsilanti. [Download map>>](https://github.com/mike-ward/salinecrew/blob/master/downloads/DirectionsToFordLake.pdf?raw=true)
+Practices take place immediately after school, as well as several hours after school, and on Saturday's. Practices are at Ford Lake in Ypsilanti. [Map](/assets/forms/directions-to-ford-lake.pdf)
 
 ## Schedules
 
-[Practice Schedule>>](http://salinerowingclub.blogspot.com)
+[Practice Schedule](/parent-corner#practice)
 
 ## Transportation to Practices
 
@@ -103,23 +99,23 @@ _* Parents and/or rowers who are providing transportation to and from practice d
 
 All rowers must pass a swim test before they are allowed to practice on the water. The swim test can be taken at the Saline Recreation Center (refer to the swim test form for more information).
 
-Saline Crew follows all safety guidelines as established by the US Rowing Association [(http://www.usrowing.org).](http://www.usrowing.org/)
+Saline Crew follows all safety guidelines as established by the US Rowing Association <http://www.usrowing.org/>
 
 ## Forms Required to be a Crew Member
 
-[View the full list of forms required](http://www.salinecrew.org/?module=Page&pageID=7)
+[View the full list of forms required](/forms-maps-downloads)
 
 ## Documents Supporting Crew Practice
 
-[Map to Ford Lake practice location](http://www.salinecrew.org/images/downloads/DirectionsToFordLake.pdf) 
+[Map](/assets/forms/directions-to-ford-lake.pdf) 
 
 ## Crew Clothing
 
-[Crew Clothing Order Form](http://www.salinecrew.org/images/downloads/Spring%202011%20Order%20Form.pdf)
+[need link]()
 
 ## Contact us if you have questions
 
-If you have additional inquiries, please attend the March meeting or e-mail <mailto:christopherdfrick@gmail.com>
+If you have additional inquiries, please attend the March meeting or e-mail <{{site.data.members.president}}>
 
 
 [(Top)](#)
