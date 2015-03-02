@@ -54,7 +54,7 @@ To become a member of the Saline Crew, you must:
   5. Order the Crew Unisuit  (required for Regatta's)
   6. Attend the first day of practice. Check the calendar and/or schedule [online](/parent-corner#practice).
 
-## Fees
+### Fees
 
 Saline Crew is a club sport, and, like other club sports, it is supported and run by the families of the participating athletes.
 
@@ -77,31 +77,31 @@ Send payment for registration to:
 
 If the cost of joining the team is the only thing holding you back, please contact <mailto:{{site.data.members.president-email}}> to discuss possible solutions.
 
-## Fundraisers
+### Fundraisers
 
 Team fundraisers help to purchase equipment including boats, boat parts, outboard motors, trailers, and oars. All team members are expected to participate in team fundraisers throughout the season. The team also sponsors fundraisers that rowers can participate in to apply to their seasonal dues. [Learn more](/fundraising)
 
-## Practices
+### Practices
 
 Practices take place immediately after school, as well as several hours after school, and on Saturday's. Practices are at Ford Lake in Ypsilanti. [Map](/assets/forms/directions-to-ford-lake.pdf)
 
-## Schedules
+### Schedules
 
 [Practice Schedule](/parent-corner#practice)
 
-## Transportation to Practices
+### Transportation to Practices
 
 Parents must participate in the carpool to drive students to practice unless they give permission to their student to be driven by student drivers. Be prepared to sign up to drive at least one day a week when you attend the rower/parent meeting. Parents must sign the Transportation and Authorization form*.
 
 _* Parents and/or rowers who are providing transportation to and from practice do not need to contribute to gas.  If you are in the team carpools, there is a additional fee as outlined in the fee schedule._
 
-## Safety
+### Safety
 
 All rowers must pass a swim test before they are allowed to practice on the water. The swim test can be taken at the Saline Recreation Center (refer to the swim test form for more information).
 
 Saline Crew follows all safety guidelines as established by the US Rowing Association <http://www.usrowing.org/>
 
-## Forms Required to be a Crew Member
+### Forms Required to be a Crew Member
 
 [View the full list of forms required](/forms-maps-downloads)
 
@@ -109,11 +109,11 @@ Saline Crew follows all safety guidelines as established by the US Rowing Associ
 
 [Map](/assets/forms/directions-to-ford-lake.pdf) 
 
-## Crew Clothing
+### Crew Clothing
 
 [need link]()
 
-## Contact us if you have questions
+### Contact us if you have questions
 
 If you have additional inquiries, please attend the March meeting or e-mail <{{site.data.members.president}}>
 
