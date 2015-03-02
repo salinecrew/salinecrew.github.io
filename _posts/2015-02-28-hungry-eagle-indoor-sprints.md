@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: 'Hungry Eagle Indoor Sprints, Skyline HS'
+title: 'Hungry Eagle Indoor Sprints, Skyline High School'
 ---
 Check out the results from todays [Hungry Eagle Indoor Sprints](https://www.regattacentral.com/regatta/entries/index.jsp?job_id=3955&org_id=0)
 
