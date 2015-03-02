@@ -105,7 +105,7 @@ Saline Crew follows all safety guidelines as established by the US Rowing Associ
 
 [View the full list of forms required](/forms-maps-downloads)
 
-## Documents Supporting Crew Practice
+### Documents Supporting Crew Practice
 
 [Map](/assets/forms/directions-to-ford-lake.pdf) 
 
