@@ -198,7 +198,7 @@ In Michigan and Ohio. [Check out the Regatta schedule]({{site.data.links.regatta
 The only required item is the team uni. We recommend that you dress in layers and wear warm clothing such as under armour and/or spandex (surprisingly comfortable) under your workout clothing.  
   
 ## What uniforms do I have to buy?
-For your first season, we provide a tshirt. In subsequent seasons, you need to buy our unisuit which is on our [order form](http://www.salinecrew.org/images/downloads/Spring%202011%20Order%20Form.pdf) . Most athletes also purchase a sweatshirt and sweatpants to wear before and after races.  
+For your first season, we provide a tshirt. In subsequent seasons, you need to buy our unisuit which is on our [need link]() . Most athletes also purchase a sweatshirt and sweatpants to wear before and after races.  
 
 ## Who are the coaches?
 {{site.data.members.coach}}, Head Coach, <{{site.data.members.coach-email}}>  
