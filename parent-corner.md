@@ -253,7 +253,7 @@ Regatta Transportation - [{{site.data.members.transportation}}]({{site.data.memb
 Spring 2015 Season  
   
 
-## President - {{site.data.members.president}}
+### President - {{site.data.members.president}}
 
   - Presides over all board meetings  
   - Sets agendas  
@@ -262,7 +262,7 @@ Spring 2015 Season
   - Delegates duties and jobs to other Board Members and crew team volunteers  
   
 
-## Vice President - {{site.data.members.vice-president}}
+### Vice President - {{site.data.members.vice-president}}
 
   - Coordinates volunteers for fall and spring season  
   - Gives volunteer report at board meetings  
@@ -270,7 +270,7 @@ Spring 2015 Season
   - Works with the “Food Committee”  
   - Assists in coordinating the banquet  
   
-## Treasurer - {{site.data.members.treasurer}}
+### Treasurer - {{site.data.members.treasurer}}
 
   - Maintains crew budget  
   - Submits appropriate paperwork to the school  
@@ -279,7 +279,7 @@ Spring 2015 Season
   - Sends correspondence to donors/sponsors  
   - Main Liaison with Saline High School and Community Ed  
   
-## Secretary - {{site.data.members.secretary}}
+### Secretary - {{site.data.members.secretary}}
 
   - Maintains board meeting minutes  
   - Maintains crew team roster with phone numbers/email/addresses  
@@ -287,7 +287,7 @@ Spring 2015 Season
   - Maintains all crew documents  
   - Reserves library meeting rooms  
   
-## Equipment Manager - {{site.data.members.equipment-manager}}
+### Equipment Manager - {{site.data.members.equipment-manager}}
 
   - Ensures trailers have appropriate tags and inspections  
   - Submits forms to treasurer and secretary as appropriate  
@@ -305,7 +305,7 @@ Spring 2015 Season
   - Gets Logo on Trailer  
   - Keeps maintenance records for all equipment.  
   
-## Fund Raising Chair - {{site.data.members.fundraising}}
+### Fund Raising Chair - {{site.data.members.fundraising}}
 
   - Establishes fund raising activities for the year – including Capital Campaign  
   - Enlists help for events  
@@ -314,45 +314,45 @@ Spring 2015 Season
   - Works with Secretary for correspondence to all sponsors/donors  
   - Works on advertising for fund raising events  
   
-## Media Representative/Publicist - {{site.data.members.publicity-liason}}
+### Media Representative/Publicist - {{site.data.members.publicity-liason}}
 
   - Writes articles for the Saline Reporter and submits in timely fashion  
   - Works with team photographer  
   - Assists with Web site management  
   - Develop/update crew team brochure for community distribution    
 
-## Web Master - {{site.data.members.web-master}}
+### Web Master - {{site.data.members.web-master}}
 
   - Updates website based on changes provided from Saline Crew Board and coaches  
   - Works with media rep and team photographer  
 
-## Team Photographer & End of Season Video
-### {{site.data.members.team-photographer}} / {{site.data.members.team-photographer2}}
+### Team Photographer & End of Season Video
+#### {{site.data.members.team-photographer}} / {{site.data.members.team-photographer2}}
 
   - Takes pictures at regattas
   - Works with web master and media rep  
   - Puts together end of the season video and DVD  
   
-## Food Coordinator - {{site.data.members.food-coordinator}}
+### Food Coordinator - {{site.data.members.food-coordinator}}
 
   - Oversees food committee and volunteers for each season  
   - Monitors budget  
   
-## Regatta Transportation - {{site.data.members.transportation}}
+### Regatta Transportation - {{site.data.members.transportation}}
 
   - Ensures there are enough drivers for each regatta  
   - Provides driving directions to each driver  
   - Provides list of phone numbers to each driver for emergency contact  
   - Works with Coach & Captains    
 
-## Banquet Coordinator - {{site.data.members.banquet-coordinator}}
+### Banquet Coordinator - {{site.data.members.banquet-coordinator}}
 
   - Organizes and arranges Team Banquet  
   - Including Food  
   - Develops the “Program” - Will need to work with coaches and VP  
   
 
-## Crew Clothing - {{site.data.members.crew-clothing}}
+### Crew Clothing - {{site.data.members.crew-clothing}}
 
   - Manages clothing order and coordinates with vendors for pricing and timing to ensure clothing order is delivered by season's first regatta.  
   
