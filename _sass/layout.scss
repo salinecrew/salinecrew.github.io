@@ -41,24 +41,3 @@ footer {
   text-align: center;
   padding-top: 1pc;
 }
-
-.top-btn {
-  position: fixed;
-  text-align: center;
-  line-height: 0.5;
-  right: 2pc;
-  bottom 2pc;
-}
-
-.top-btn a {
-  display: block;
-  width: 2pc;
-  height: 2pc;
-  background: #333;
-}
-
-.top-btn a:before {
-  content: "";
-  border: 5px; solid transparent;
-  border-bottom-color: #fff;
-}
