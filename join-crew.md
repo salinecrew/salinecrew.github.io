@@ -75,7 +75,7 @@ Send payment for registration to:
 
 {{site.data.members.treasurer}} - <mailto:{{site.data.members.treasurer-email}}> 
 
-If the cost of joining the team is the only thing holding you back, please contact <mailto:{{site.data.members.president}}> to discuss possible solutions.
+If the cost of joining the team is the only thing holding you back, please contact <mailto:{{site.data.members.president-email}}> to discuss possible solutions.
 
 ## Fundraisers
 
