@@ -115,7 +115,7 @@ Multiple Rower Discount (rowers from the same family):
 - 2nd rower - 50% dues
 - 3rd and above - 25% dues
   
-Please follow [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467) to pay your fees online.  
+Please follow [this link]({{site.data.links.pay-fees}}) to pay your fees online.  
   
 Questions: [{{site.data.members.treasurer}}, Treasurer](mailto:{{site.data.members.treasurer-email}})   
   
@@ -138,7 +138,7 @@ The only required clothing item is the Saline Unisuit by JL Racing. The rowers a
   
 There are numerous other clothing items available.  
   
-[Ordering information>>](http://www.salinecrew.org/?module=Page&pageID=7)  
+[Ordering information](/forms-maps-downloads)  
 
 ![unisuits](/assets/images/unisuit.jpg)
 
@@ -180,7 +180,7 @@ The Fall season consists of longer races up to 5K (like cross country) and the S
 No. You may row in either the Fall or the Spring or both; however, the Fall season is longer and this is when most athletes new to the sport learn to row. The Spring season happens fast and there is not as much time to learn the fundamentals of rowing in the Spring before races start.  
   
 ## How do I get a varsity letter?
-[Download the varsity letter requirements](http://www.salinecrew.org/images/downloads/crewvarsitystandards.pdf)  
+[Download the varsity letter requirements](/assets/forms/crewvarsitystandards.pdf)  
   
 ## When do we practice?
 After school on weekdays or early morning on Saturdays.  
@@ -474,8 +474,8 @@ Row Hard Hornets!!
 Everything a Parent and Rower needs to know about food at Regattas:
 
   1.  Every rower must pay a specified amount each season to cover food and drinks for all rowers as part of their dues. Family members and guests pay an additional “optional” fee which is established each season. This information is presented at the Parent / Rower meeting.  
-  [Family and Guest Regatta Food Form](http://www.salinecrew.org/images/FORMS/2014%20Spring%20Rowing%20Food%20Form.pdf)  
-  [Regatta Food Menu](http://www.salinecrew.org/images/FORMS/spring_2014_menu.pdf)
+  [Family and Guest Regatta Food Form](/assets/forms/2014-spring-rowing-food-form.pdf)  
+  [Regatta Food Menu](/assets/forms/spring-2014-menu.pdf)
 
   2.  We serve approximately 80-100+ people each regatta, depending on number of rowers.  We serve approximately 150 people at each banquet.  
   
