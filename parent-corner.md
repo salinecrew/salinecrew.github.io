@@ -149,76 +149,76 @@ There are numerous other clothing items available.
 
 * * *
 
-## How much does crew cost?
+### How much does crew cost?
 It costs $700.00 to join the team. Plus travel costs for practices & regattas. [Get the specifics](#registration)   
   
 
-## Why does it cost so much?
+### Why does it cost so much?
 Crew is a club sport so it receives no funding from the School athletic budget. The money from fees is used to buy equipment, pay for regatta fees, coaches salaries, transporting the boats and equipment etc.  
   
 
-## Are there scholarships
+### Are there scholarships
 There are some limited scholarship funds available. Check with the [{{site.data.members.coach}}, Coach](mailto:{{site.data.members.coach-email}}).
   
 
-## What safety rules apply?
+### What safety rules apply?
 All athletes must view a safety video and pass a swim test before being allowed on the water. Athletes must listen to the coaches, officials, and use common sense.  
 What if I have never rowed before?  
   
 Most students who join crew have never rowed before. We will teach you what you need to know so don't worry if you're new.  
 
-## What if I am not a good swimmer?
+### What if I am not a good swimmer?
 It is a rare occurrence for a rower to end up in the water. You will wear a life vest if you can't pass the swim test, plus the coaches carry additional flotation devices.  
 
-## Are there cuts?
+### Are there cuts?
 There are no cuts for the team. However, the coach will decide which boats to place athletes in based on their skill, strength and the makeup of the team.  
 What is the difference between fall rowing and spring rowing?  
   
 The Fall season consists of longer races up to 5K (like cross country) and the Spring is Sprint Season with races of 1500 meters (like track).  
   
-## Do you have to row both in the fall and the spring?
+### Do you have to row both in the fall and the spring?
 No. You may row in either the Fall or the Spring or both; however, the Fall season is longer and this is when most athletes new to the sport learn to row. The Spring season happens fast and there is not as much time to learn the fundamentals of rowing in the Spring before races start.  
   
-## How do I get a varsity letter?
+### How do I get a varsity letter?
 [Download the varsity letter requirements](/assets/forms/crewvarsitystandards.pdf)  
   
-## When do we practice?
+### When do we practice?
 After school on weekdays or early morning on Saturdays.  
   
-## Where do we practice?
+### Where do we practice?
 On Ford Lake at the Boathouse site.    
 
-## How do you get to practice?
+### How do you get to practice?
 We carpool over and most drivers are students. [more...](#transporation)  
   
-## Where are the regattas?
+### Where are the regattas?
 In Michigan and Ohio. [Check out the Regatta schedule]({{site.data.links.regatta-schedule}})  
   
-## What equipment do I need?
+### What equipment do I need?
 The only required item is the team uni. We recommend that you dress in layers and wear warm clothing such as under armour and/or spandex (surprisingly comfortable) under your workout clothing.  
   
-## What uniforms do I have to buy?
+### What uniforms do I have to buy?
 For your first season, we provide a tshirt. In subsequent seasons, you need to buy our unisuit which is on our [need link]() . Most athletes also purchase a sweatshirt and sweatpants to wear before and after races.  
 
-## Who are the coaches?
+### Who are the coaches?
 {{site.data.members.coach}}, Head Coach, <{{site.data.members.coach-email}}>  
 
-## Do I have to be a certain height?
+### Do I have to be a certain height?
 There are no height minimums, although taller athletes may have a mechanical advantage. There is also a position called coxswain who is critical to the boat’s success because they are responsible for steering and executing race strategy. The coxswain tends to be shorter and lighter than the other athletes rowing the boat.  
   
-## What is lightweight rowing?
+### What is lightweight rowing?
 For men, lightweight rowers must weigh less than 165 pounds in Fall, 150 pounds or less in spring.  
   
 For women, lightweight rowers are less than 135 pounds in the Fall and 130 pounds in the Spring.  
   
-## Can parents and sibling eat the food at regattas?
+### Can parents and sibling eat the food at regattas?
 Yes, our food coordinator will plan enough for athletes, parents and siblings. The rower's food is included in the combined fee paid at the beginning of each season. The families and guests need to go online and pay the $10.00 per guest per regatta (18 and under are $5). We only ask that you give first priority to athletes as they are on a tight schedule to get prepared and race.  
   
 
-## Who runs the team?  
+### Who runs the team?  
 [The Coaches, Board of Directors and all of the parent volunteers.](/contact-us)  
   
-## Are there bylaws?
+### Are there bylaws?
 [Yes]({{site.data.links.bylaws}})  
     
 If you have questions, Contact [{{site.data.members.president}}]({{site.data.members.president-email}})  
