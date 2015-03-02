@@ -18,7 +18,7 @@ The team is self-funded in part by the parents, the student-rowers themselves, e
 
 Click [here](#join) if you are interested in joining the team. You will be glad you did!
 
-## Rower's Top 10 Reasons To Join Crew
+### Rower's Top 10 Reasons To Join Crew
 
   1.  Crew tans are really *cooool*.
   2.  It's one sport that you can do sitting down, going backwards.
