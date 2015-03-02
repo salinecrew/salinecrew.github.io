@@ -364,7 +364,7 @@ Spring 2015 Season
 
 * * *
   
-## Before the Regatta……
+### Before the Regatta……
   
 **Weather:** During the season <www.weather.com> is your friend! It is great as you can check the forecast in advance and get the hour to hour details which will help you in packing the appropriate clothes.  
   
@@ -403,11 +403,11 @@ Print off heat sheets before you go! For most races these can be found on [www.r
   
 Be sure to print off directions and important phone numbers like the other drivers prior to leaving!  
   
-## The night before the regatta,
+### The night before the regatta,
 
 Set at least two alarms!! If you stay in a hotel, ask for a wake up call, but also set at least one back up!!! I have had the experience where we asked for a wake up call, and they forgot. If we hadn’t set an extra alarm we would have been late (does not make for happy rowers or coaches)!
 
-## Arriving at the regatta…..
+### Arriving at the regatta…..
 
 Plan to arrive early! This will help you get a good parking spot and your rower has alot to do before the first race of the day, even if they don’t race until noon!  
   
@@ -419,7 +419,7 @@ Plan to stay ALL DAY!!! Racing usually starts at 8:00am and doesn’t end until 
   
 *If you think that you have a conflict and your rower may have to leave early, please let the coaches know at least a week in advance. Entries for most regattas have to be in a week before the race, and changes are not usually permitted. A rower leaving early or not attending could mean that 4 or 8 other rowers may not race!!*  
   
-## The tent…..
+### The tent…..
 
 The team has several tents. The big yellow tent is generally reserved for the rowers. Little siblings are usually welcomed as well. This is where they put their gear, sit and relax and be a team.  
   
@@ -427,7 +427,7 @@ There are food tents manned by parent volunteers. All members of the team, inclu
   
 Parents usually hang out here and then get closer to the water to watch their rower. This is a great place to meet new friends!  
   
-## Watching the regatta……..
+### Watching the regatta……..
 
 During the Fall season: These are called “Head Races.” Races are longer (similar to Cross Country), usually 2.5 to 3 miles long. Boats are started in approximately 30 second intervals. Depending on the course, you may only get to see a very small portion of your rower’s race. And, you will not have any idea on how they did until the end of the day. You can watch their “bow number” and see where they are in relation to the other boats, but it is still difficult to figure out really how they did until the results are posted on the board.  
   
@@ -435,7 +435,7 @@ Spring Season: These are called “Sprints”. The course is usually 1500 or 200
   
 After you watch your rower’s race, as happy and proud as you are, don’t approach them. When ready and able they will come to you. – Really they will! After they get off the water, they immediately have a boat meeting with the Coaches. This is a no parent zone! (Same goes for the boat meeting right before their race). The rower will then go get food and use the bathroom and then may find you. But if they don’t remember, it is OK!  
   
-## Other “No parent Zones”:
+### Other “No parent Zones”:
 
   - On the Docks – This is an extremely busy place. 
   - Rigging/Derigging boats – The rowers are very busy during these times and the equipment is large and expensive!
@@ -447,7 +447,7 @@ After you watch your rower’s race, as happy and proud as you are, don’t appr
   
 **T-shirts**: Every regatta has a t-shirt for sale. This will usually cost between $15 - $25. These are nice and good mementos of the season. Often parents have keepsake quilts made out of the shirts when their rower graduates. Some regattas also sell rowing jewelry. These make great gifts!  
   
-## At the end of the regatta……..
+### At the end of the regatta……..
 
   - Take a few moments to make sure your rower has everything, sweats, shirts, hats etc.!!!
   - Help take down the tents and pack up the food trailer.
