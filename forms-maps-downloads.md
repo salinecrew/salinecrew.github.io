@@ -10,11 +10,11 @@ title:  'Forms, Maps and Downloads'
 
 ## Regatta Forms
 
-  - Regatta food - Pay Online - [2014 Fall Parent and Guest food Form (and menu)](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
+  - Regatta food - Pay Online - [2014 Fall Parent and Guest food Form](/assets/forms/2013-saline-crew-2013-spring-regatta-food-family-guest-form.pdf)
 
 ## Fee Payment online: 
 
-Click on [this link](http://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467), and fill in the amount you owe for each rower in your family. Get your rent-a-rower total from Treasurer [Julie Campbell](mailto:julie.campbell@hotmail.com).
+Click on [this link]({{site.data.links.pay-fees}}), and fill in the amount you owe for each rower in your family. Get your rent-a-rower total from Treasurer [{{site.data.members.treasurer}}](mailto:{{site.data.members.treasurer.com}}).
 
   - For new rowers: $375
   - For returning rowers:  $700 - rent-a-rower earnings = fees owed. 
