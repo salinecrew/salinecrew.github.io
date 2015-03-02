@@ -27,5 +27,3 @@ github:
 
 sass:
     style:        ':compressed'
-
-excerpt_separator: "\r\n\r\n"
