@@ -9,7 +9,7 @@ title: Home
     <div class="post-date">{{ post.date | date_to_string }}</div>
     <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
     {{ post.content | strip_html | truncatewords: 50  }}
-    <div class=post-read-more><a href="{{ post.url }}">full article&hellip;</a></div>
+    <div class=post-read-more><a href="{{ post.url }}">more &raquo;</a></div>
   </div>
   {% endfor %}
 </div>
