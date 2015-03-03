@@ -4,6 +4,7 @@
 
 .post-title {
   font-size: 1.3em;
+  margin-bottom: -1.5em;
 }
 
 .post-date {
@@ -24,4 +25,8 @@
 .recent-post {
   line-height: 2;
   border-bottom: solid #ccc 1px;
+}
+
+.post-read-more {
+  text-align: right;
 }
