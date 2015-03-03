@@ -1,13 +1,10 @@
 .top-btn {
-  display: none;
-  position: fixed; bottom: 2pc; right: 3pc;
-  width: 2pc;
-  height: 2pc;
-  font: bold 0.9em/1.2em Arial, Helvetica, sans-serif; color: #bbb; text-transform: uppercase; text-decoration: none;
-  padding: 0.5pc;
-  background-color:black;
-  border-radius: 5px;
-  box-shadow: 5px 5px 1px #333;
-  text-align:center;
+  position: fixed;
+  text-align: center;
+  vertical-align: middle;
+  right: 2pc;
+  bottom: 2pc;
+  display: block;
+  background-color: rgba(0, 0, 0, .5);
 }
 
