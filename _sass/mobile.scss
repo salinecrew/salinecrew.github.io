@@ -17,6 +17,10 @@
 }
 
 @media (max-width: 640px) {
+  html, body {
+    line-height: 1.5;
+  }
+  
   #topbar {
     margin-right: 0.5pc;
   }
@@ -73,8 +77,4 @@
   #banner-small {
     display: block;
   }  
-  
-  .post-date {
-    margin-bottom: -1.1em !important;
-  }
 }
