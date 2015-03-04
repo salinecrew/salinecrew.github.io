@@ -29,6 +29,10 @@
 }
 
 .post-read-more {
-  text-align: right;
-  margin-bottom: 0.5pc;
+  float: right;
+  font-size: xx-large;
+}
+
+.post-read-more a {
+  border-bottom-width: 0;
 }
