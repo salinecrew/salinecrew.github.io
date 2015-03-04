@@ -5,10 +5,10 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post" onclick="javascript:location={{ post.url }}" style="cursor: pointer">
+  <div class="post" onclick="javascript:location.href={{ post.url }}" style="cursor: pointer">
     <div class="post-date">{{ post.date | date_to_string }}</div>
-    <div class=post-read-more><a href="{{ post.url }}">&raquo;</a></div>
     <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <div class=post-read-more><a href="{{ post.url }}">&raquo;</a></div>
     {{ post.content | strip_html | truncatewords: 50  }}
   </div>
   {% endfor %}
