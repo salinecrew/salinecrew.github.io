@@ -27,7 +27,6 @@ _The following information is for general purposes only and subject to change ea
 There are generally four to five regatta's each season. You can read about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You can also link to [view the regatta schedule]({{site.data.links.regatta-schedule}})  
   
   
-[(Top)](#)
 <a name="board"></a>
 
 ## Board of Directors - Spring 2015 through Fall 2015
@@ -94,7 +93,6 @@ For a description of each position, please see [the Bylaws]({{site.data.links.b
   
 [Learn more about all of the volunteer opportunities](#volunteer)  
   
-[(Top)](#)
 <a name="fees"></a>
 
 ## Registration Fees
@@ -127,7 +125,6 @@ The coaches will organize the "in-season" practice transportation car pools. The
   
 _NOTE: We know this is not an inexpensive sport, so we have a program to help the rowers and their families offset the Club fees. Please see the [Rent-A-Rower](/fund-raising#rent) page for more information. The rowers get credit for each hour they work, and it can make a significant difference in the out-of-pocket costs for the fees._  
   
-[(Top)](#)
 <a name="clothing"></a>  
 
 ## Crew Clothing
@@ -142,7 +139,6 @@ There are numerous other clothing items available.
 
 ![unisuits](/assets/images/unisuit.jpg)
 
-[(Top)](#)
 <a name="faq"></a>
 
 ## Frequently Asked Questions
@@ -223,7 +219,6 @@ Yes, our food coordinator will plan enough for athletes, parents and siblings. T
     
 If you have questions, Contact [{{site.data.members.president}}]({{site.data.members.president-email}})  
     
-[(Top)](#)
 <a name="transporation"></a>
 
 ## Transportation
@@ -243,7 +238,6 @@ Practice Transportation - [{{site.data.members.transportation}}]({{site.data.mem
 Regatta Transportation - [{{site.data.members.transportation}}]({{site.data.members.transporation-email}})  
   
   
-[(Top)](#)
 <a name="volunteer"></a>
 
 ## Volunteer Positions & Responsibilities
@@ -357,7 +351,6 @@ Spring 2015 Season
   - Manages clothing order and coordinates with vendors for pricing and timing to ensure clothing order is delivered by season's first regatta.  
   
   
-[(Top)](#)
 <a name="regatta"></a>
 
 ## How to enjoy a Crew Regatta
@@ -461,7 +454,6 @@ Row Hard Hornets!!
 [Download a pdf of this article](/assets/forms/how-to-enjoy-crew-regatta.pdf)
 
 
-[(Top)](#)
 <a name="food"></a>
 
 ## Regatta Food
@@ -525,7 +517,6 @@ Everything a Parent and Rower needs to know about food at Regattas:
   - Fresh vegetables (salads or vegetables & dip)
   - Bottled water, assorted juices, hot chocolate, coffee and tea
 
-[(Top)](#)
 <a name="glossary"></a>
 
 ## Rowing Glossary
@@ -810,7 +801,6 @@ Everything a Parent and Rower needs to know about food at Regattas:
 
 **wherry:** Lightly built boat designed for comfortable rowing rather than racing or utility use.
 
-[(Top)](#)
 <a name="resources"></a>
 
 ## What is a Regatta?
@@ -869,5 +859,4 @@ We have alumni who row here, and Coach Matt's alma mater.
 [MSU Crew](https://www.msu.edu/~msucrew/)  
 We have alumni rowing here. 
 
-[(Top)](#)
 

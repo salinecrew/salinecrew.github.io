@@ -34,7 +34,6 @@ Click [here](#join) if you are interested in joining the team. You will be gl
   9.  Next time you ride in any kind of boat, you can babble on and on using technical boat terms and people will think you're an accomplished seaman.
   10. Being in a crew race is the same as having 8 people run a 7 minute 2k -- in step!
 
-[(Top)](#)
 <a name="join"></a>
 
 ## How to Join Saline Crew
@@ -118,7 +117,6 @@ Saline Crew follows all safety guidelines as established by the US Rowing Associ
 If you have additional inquiries, please attend the March meeting or e-mail <{{site.data.members.president}}>
 
 
-[(Top)](#)
 <a name="history"></a>
 
 ## A Little History and Some Accomplishments
@@ -139,7 +137,6 @@ The team has grown to over 50 athletes participating during each spring season a
   
 Both the girls and boys team have medaled at several Midwest regional regattas (Columbus, Fort Wayne, and Cincinnati) and the Lightweight boys 4+ boat competed at the American Schoolboy Championship in Tennessee in Spring, 2008, finishing 5th nationally. The team has been fortunate to retain excellent coaches and alumni student coaches to assist with the program.
 
-[(Top)](#)
 <a name="mission"></a>
 
 ## Saline Crew Mission

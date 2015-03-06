@@ -13,7 +13,6 @@ We have three levels of fund raising.
   3. Capital campaign - boathouse
 
 
-[(Top)](#)
 <a name="yardoar"></a>
 
 ## Yard Oar
@@ -25,7 +24,6 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
  ![Yard Oar](/assets/images/yard-oar.jpg)  
  "Yard Oar"
 
-[(Top)](#)
 <a name="busch"></a>
 
 ## Busch's Scrip Program
@@ -50,7 +48,6 @@ Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $3
 
 Please contact Stacy Wellings to get your card. call: 734.649.6989
 
-[(Top)](#)
 <a name="boathouse"></a>
 
 ## Why do we need a Boathouse?
@@ -94,7 +91,6 @@ A boathouse would protect Saline Area Schools equipment, and most importantly pr
 The construction of the boathouse would also be an opportunity to create a partnership with the South and West Washtenaw Consortium: Building Trades and allow for student input to create a green facility that benefits all members using the facility.
 
 
-[(Top)](#)
 <a name="individual"></a>
 
 ## Individual Fundraising Options
@@ -112,7 +108,6 @@ A few programs in place include:
   1. Summerfest August - 2 shifts of 6 -8 needed for one hour shifts.
   2. Harvest of the Arts - Date to be determined
 
-[(Top)](#)
 <a name="team"></a>
 
 ## Team Fundraising Options
@@ -125,7 +120,6 @@ We have a number of Fundraising events to help offset some of the club's expense
 
   - Busch's Scrip Program. [Learn more>>](#busch)
 
-[(Top)](#)
 <a name="wish"></a>
 
 ## Equipment Wish List
@@ -149,7 +143,6 @@ The following list contains items needed for the coming year. If you have any i
     [Concept 2 Slides](http://www.concept2.com/us/indoorrowers/accessories/slides.asp)
   - Slings $110 for pair [Slings](http://www.vespoli.com/store/index.php?main_page=product_info&products_id=552)
 
-[(Top)](#)
 <a name="rent"></a>
 
 ## Rent a Rower /Hire a Crew
@@ -184,4 +177,3 @@ email: **[{{site.data.member.rent-a-rower}}](mailto:{{site.data.member.rent-a-ro
 
 All proceeds go the Saline Area Schools/Crew Club rowers to offset their dues.
 
-[(Top)](#)
