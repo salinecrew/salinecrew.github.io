@@ -803,7 +803,7 @@ Everything a Parent and Rower needs to know about food at Regattas:
 
 <a name="resources"></a>
 
-## What is a Regatta?
+## Resources
 
 * * *
 
