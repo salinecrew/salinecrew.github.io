@@ -145,7 +145,7 @@ Both the girls and boys team have medaled at several Midwest regional regattas (
 
 The Saline High School Rowing Team has been created to promote the sport of rowing for all high school student athletes. The team's members will be held to the highest integrity when it comes to academic achievement and athletic performance, striving to become a model athlete in Saline High School and in the Midwest Scholastic Rowing Association.
 
-<a name="mission"></a>
+<a name="vision"></a>
 
 ## Saline Crew Vision
 
