@@ -10,7 +10,7 @@ tagline:          ''
 description:      ''
 url:              http://salinecrew.github.io
 baseurl:          '/'
-paginate:         5
+paginate:         10
 
 author:
   name:           'Mike Ward'
