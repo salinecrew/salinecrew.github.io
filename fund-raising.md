@@ -171,7 +171,7 @@ This is probably one of the easiest ways for a rower to raise funds to reduce th
 
 ### **Contact:**
 
-email: **[{{site.data.member.rent-a-rower}}](mailto:{{site.data.member.rent-a-rower-email}}) or call 734.649.6989**
+email: **[{{site.data.members.rent-a-rower}}](mailto:{{site.data.members.rent-a-rower-email}}) or call {{ site.data.members.rent-a-rower-phone }}**
 
 [Download poster](/assets/forms/rent-a-rower-flier.pdf)  
 
