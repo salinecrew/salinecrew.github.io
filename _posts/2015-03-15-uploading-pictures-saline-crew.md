@@ -14,7 +14,7 @@ If you are looking for a recommendation, I use <http://imgur.com>. It's totally 
 
 Flicker, Picassa, Dropbox and One Drive are all good choices. Just about anything works now a days.
 
-You can also just email me the photos (<{{ site.data.members.webmaster-email }}>). I can upload them, but I'll think less of you for it (kidding).
+You can also just email me the photos (<mailto:{{site.data.members.web-master-email}}>). I can upload them, but I'll think less of you for it (kidding).
 
 Tips:
 
