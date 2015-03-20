@@ -2,7 +2,9 @@
 layout: page
 title:  'Fund Raising'
 ---
-![thinking](/assets/images/thinking.jpg)
+![thinking](https://i.imgur.com/6lrOKQ1.jpg)
+
+*From the Great Gatsby Fundraiser*
 
 The Saline Crew team is a club sport. All of the team's expenses are raised either through dues or fund raising efforts. The team requires help from all of the Saline Rowing Community.
 
