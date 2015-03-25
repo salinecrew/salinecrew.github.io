@@ -22,7 +22,7 @@ We learned a few things we will remember for next time&hellip;
 
   2. We need to encourage more team members to participate.  It's more fun when we do it together.  Encouraging and rooting on team members helps each athlete work harder and perform better.
 
-<a class="pure-button" href="https://www.dropbox.com/sh/s718g90typa2nlz/AAAnjpNxq1JKLe6y6xCLagema?dl=0" target="_blank"> More Photos </a>
+<iframe class="imgur-album" width="100%" height="550" frameborder="0" src="//imgur.com/a/T2SCI/embed"></iframe>
 
 Check out the results from todays [Hungry Eagle Indoor Sprints](https://www.regattacentral.com/regatta/entries/index.jsp?job_id=3955&org_id=0).
 
