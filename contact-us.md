@@ -2,7 +2,7 @@
 layout: page
 title:  'Contact Us'
 ---
-###General Information
+### General Information
 
   - {{site.data.members.president}} - President  
     <mailto:{{site.data.members.president-email}}>
@@ -11,7 +11,7 @@ title:  'Contact Us'
     <mailto:{{site.data.members.coach-email}}>   
     <tel:{{site.data.members.coach-cell}}>
 
-###Spring 2015 Team Captains
+### Spring 2015 Team Captains
 
   - Mike Torssell, Men's Captain
   - Graham Fox, Men's Captain
@@ -20,7 +20,7 @@ title:  'Contact Us'
   - Jenna Jansa, Women's Captain
 
 
-###Volunteers (frequently called)
+### Volunteers (frequently called)
 
   - Food Coordinator, {{site.data.members.food-coordinator}}  
     <mailto:{{site.data.members.food-coordinator-email}}>
@@ -44,7 +44,7 @@ title:  'Contact Us'
     <mailto:{{site.data.members.rent-a-rower-email}}>
 
 
-###Mailing Address
+### Mailing Address
 
 Saline Crew  
 c/o Saline High School  
