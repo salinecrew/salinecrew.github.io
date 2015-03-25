@@ -9,7 +9,7 @@ title:  'Contact Us'
     
   - {{site.data.members.coach}} - Coach  
     <mailto:{{site.data.members.coach-email}}>   
-    <tel:{{site.data.members.coach-cell}}>
+    {{site.data.members.coach-cell}}
 
 
 ### Spring 2015 Team Captains
