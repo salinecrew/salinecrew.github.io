@@ -477,7 +477,6 @@ Everything a Parent and Rower needs to know about food at Regattas:
   ![Parents at the food tent](/assets/images/parents-at-food-tent.jpg)
 
   5.  We have the following equipment we use at each regatta:
-
   - Two three-burner propane stoves and one portable grill
   - One large tent for the rowers and three smaller tents for cooking and eating.
   - Five tables for food preparation and food presentation
@@ -493,7 +492,6 @@ Everything a Parent and Rower needs to know about food at Regattas:
   ![cooking](/assets/images/pam-cooking.jpg)
 
   8.  We are in need of many volunteers to help with the regatta food. Volunteer opportunities will be explained and / or requested at the Parent / Rower meeting each season. The following is a general outline of regatta food volunteer opportunities ([Volunteer Positions & Responsibilities](#volunteer)
-
   - Food Coordinator – Lorna Gibson
   - Shopper – Lorna Gibson
   - Head Cook – Shelley Wolff
@@ -505,7 +503,6 @@ Everything a Parent and Rower needs to know about food at Regattas:
 
   
   9. The following are examples of staples that are available at each regatta:
-
   - Bagels & cream cheese
   - Granola bars
   - Oatmeal
