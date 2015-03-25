@@ -321,6 +321,7 @@ Spring 2015 Season
   - Works with media rep and team photographer  
 
 ### Team Photographer & End of Season Video
+
 #### {{site.data.members.team-photographer}} / {{site.data.members.team-photographer2}}
 
   - Takes pictures at regattas
