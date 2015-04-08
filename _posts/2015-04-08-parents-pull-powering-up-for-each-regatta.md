@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: "Parents PULL - Powering Up for each Regatta"
+published: false
 ---
 
 Keeping our rowers well-nourished while away from home is a big part of the total Crew package. To that end, we have developed a food program for rowers and rower guests alike.  Each season a portion of the rower fees go toward feeding the rowers at each regatta. For an additional, per regatta fee, our club extends the food offering to anyone who comes to watch the regattas, we love a crowd and welcome grandparents, siblings, friends, etc. to cheer our hornets to victory!
