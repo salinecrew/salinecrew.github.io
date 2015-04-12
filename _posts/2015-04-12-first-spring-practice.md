@@ -2,7 +2,7 @@
 layout: post  
 title: 'First Spring Practice at the Lake'
 ---
-Spring and sprung! First practice with the newly completed boat house.
+Spring has sprung! First practice at the lake. Check out that boathouse!
 
 ![boat1](http://i.imgur.com/kSukRyH.png)
 
