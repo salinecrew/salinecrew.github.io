@@ -13,7 +13,7 @@ The endeavor takes many volunteers, from cooks to dish washers and from trailer 
 
 [**Click here to signup on the Volunteer Signup Spreadsheet**](<https://docs.google.com/spreadsheets/d/1wBP7PCc3eJluqOD8FODPnv07FYmErZf5WuvAyhM-rqg/edit?usp=sharing>)
 
-> *You can edit the volunteer list online in Google Sheets. Please do so we have a real-time accounting of who has volunteered for what.*
+> *You can edit the volunteer list online in Google Sheets. Please do so, so we have a real-time accounting of who has volunteered for what.*
 
 Didn’t have time to sign up? No worries, a good rule of thumb is that if you see that someone needs help or that something needs to be done, don’t be shy jump in and contribute.
 
