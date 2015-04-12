@@ -2,7 +2,7 @@
 layout: page
 title:  'Fund Raising'
 ---
-![thinking](https://i.imgur.com/6lrOKQ1.jpg)
+![car](https://i.imgur.com/6lrOKQ1.jpg)
 
 *From the Great Gatsby Fundraiser*
 
