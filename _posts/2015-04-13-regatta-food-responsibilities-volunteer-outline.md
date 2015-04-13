@@ -3,9 +3,6 @@ layout: post
 title: "Regatta Food Responsibilities Volunteer Outline"
 ---
 
-Regatta Food Responsibilities Volunteer Outline
------------------------------------------------
-
 ![parents rowing](http://i.imgur.com/TkgN5NT.png)
 
 ### CALLING ALL CREW PARENT VOLUNTEERS!
