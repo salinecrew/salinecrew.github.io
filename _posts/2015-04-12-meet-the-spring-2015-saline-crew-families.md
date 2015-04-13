@@ -3,6 +3,15 @@ layout: post
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
 
+![IMG_1717](http://i.imgur.com/DSL5Mt8.jpg)
+
+Rower: Victoria Wellings  
+Parents: Doug and Stacy Wellings
+
+Victoria's bio: Coxswain - has been in Crew since 8th grade, is also on the High School Gymnastics team, loves to read 
+
+---
+
 ![Clipboard](http://i.imgur.com/ON8198w.jpg)
 
 Rowers: Peter & Rachel Ward  
