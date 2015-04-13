@@ -66,7 +66,7 @@ help is required to make the day enjoyable for all!
 -   Cold Beverages
     -   Set-up ice baths (currently qty 2) for juice, chocolate milk, water etc.
         and cold beverage cups if needed.
-    -   Hot Beverages
+-   Hot Beverages
     -   Set-up area for air-pots; tea, hot chocolate, creamer, stir sticks,
         sugar & hot beverage cups
     -   Set-out coffee cream – may want small ice bath in warmer weather
