@@ -3,6 +3,15 @@ layout: post
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
 
+![DSC_0013](http://i.imgur.com/0gJ5jAv.jpg)
+
+Rower: Conrad Brill  
+Parents: Randy & Cheryl Brill
+ 
+Conrad’s Bio: 10th grade Varsity rower who also enjoys travel, sushi and the humor of Jimmy Kimmel.  
+
+---
+
 ![IMG_1717](http://i.imgur.com/DSL5Mt8.jpg)
 
 Rower: Victoria Wellings  
