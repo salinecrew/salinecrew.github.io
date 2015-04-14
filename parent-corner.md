@@ -24,7 +24,7 @@ each year.*
     week in January. Parents and / or rowers are expected to provide their own
     transportation. 
     -   **Erging** – Location: Liberty School Practices generally run 3 days per
-        week. \
+        week.
     -   **Weight & Fitness Training** – Location: Saline High School Practices
         generally run 1 to 2 days per week.
 
@@ -34,14 +34,14 @@ each year.*
     the season based on parent transportation consent forms. 
     -   **Erging**– Location: Liberty School (until weather permits on-the-water
         practices at Ford Lake). Practices are Mon- Thurs after school and
-        Saturday morning 9am, when there is not a Regatta.\
+        Saturday morning 9am, when there is not a Regatta.
     -   **Weight & Fitness Training** – Location: Saline High School (until
         weather permits on-the-water practices at Ford Lake). Practices
-        generally run 1 to 2 days per week after school.\
+        generally run 1 to 2 days per week after school.
     -   **Rowing**- Location: Ford Lake – once weather permits, all weekly
         practices will be on the water at the lake. Mon- Thurs after school and
         Saturday morning, 9am, when there is not a Regatta. During inclement
-        weather, practices will be held at Liberty School.\
+        weather, practices will be held at Liberty School.
     -   **Regatta's**
 
 There are generally four to five regatta's each season. You can read about ["How
@@ -59,64 +59,63 @@ Board of Directors - Spring 2015 through Fall 2015
 For a description of each position, please see [the
 Bylaws]({{site.data.links.bylaws}})
 
--   {{site.data.members.president}} - President\
+-   {{site.data.members.president}} - President  
     [mailto:{{site.data.members.president-email}}](mailto:{{site.data.members.president-email}})
 
--   {{site.data.members.vice-president}} - Vice President\
+-   {{site.data.members.vice-president}} - Vice President  
     [mailto:{{site.data.members.vice-president-email}}](mailto:{{site.data.members.vice-president-email}})
 
--   {{site.data.members.treasurer}} - Treasurer\
+-   {{site.data.members.treasurer}} - Treasurer  
     [mailto:{{site.data.members.treasurer-email}}](mailto:{{site.data.members.treasurer-email}})
 
--   {{site.data.members.secretary}} - Secretary\
+-   {{site.data.members.secretary}} - Secretary  
     [mailto:{{site.data.members.secretary-email}}](mailto:{{site.data.members.secretary-email}})
 
--   {{site.data.members.equipment-manager}} - Equipment Manager\
+-   {{site.data.members.equipment-manager}} - Equipment Manager  
     [mailto:{{site.data.members.equipment-manager-email}}](mailto:{{site.data.members.equipment-manager-email}})
 
--   {{site.data.members.alumni-liason}} - Alumni Liason\
+-   {{site.data.members.alumni-liason}} - Alumni Liason  
     [mailto:{{site.data.members.alumni-liason-email}}](mailto:{{site.data.members.alumni-liason-email}})
 
--   {{site.data.members.fundraising}} - Fund Raising\
+-   {{site.data.members.fundraising}} - Fund Raising  
     [mailto:{{site.data.members.fundraising-email}}](mailto:{{site.data.members.fundraising-email}})
 
--   {{site.data.members.member-at-large}} - Member at Large\
+-   {{site.data.members.member-at-large}} - Member at Large  
     [mailto:{{site.data.members.member-at-large-email}}](mailto:{{site.data.members.member-at-large-email}})
 
 **Spring 2015 Volunteer Committee Chairs**
 
--   Regatta Food Coordinator - {{site.data.members.food-coordinator}}\
+-   Regatta Food Coordinator - {{site.data.members.food-coordinator}}  
     [mailto:{{site.data.members.food-coordinator-email}}](mailto:{{site.data.members.food-coordinator-email}})
 
--   Regatta Transporation - {{site.data.members.transportation}}\
+-   Regatta Transporation - {{site.data.members.transportation}}  
     [mailto:{{site.data.members.transportation-email}}](mailto:{{site.data.members.transportation-email}})
 
--   Crew Clothing - {{site.data.members.crew-clothing}}\
+-   Crew Clothing - {{site.data.members.crew-clothing}}  
     [mailto:{{site.data.members.crew-clothing-email}}](mailto:{{site.data.members.crew-clothing-email}})
 
--   Rent a Rower/Hire a Crew - {{site.data.members.rent-a-rower}}\
+-   Rent a Rower/Hire a Crew - {{site.data.members.rent-a-rower}}  
     [mailto:{{site.data.members.rent-a-rower-email}}](mailto:{{site.data.members.rent-a-rower-email}})
 
--   Website Maintenance - {{site.data.members.web-master}}\
+-   Website Maintenance - {{site.data.members.web-master}}  
     [mailto:{{site.data.members.web-master-email}}](mailto:{{site.data.members.web-master-email}})
 
--   Food Trailer Towing - {{site.data.members.food-trailer-towing}}\
+-   Food Trailer Towing - {{site.data.members.food-trailer-towing}}  
     [mailto:{{site.data.members.food-trailer-towing-email}}](mailto:{{site.data.members.food-trailer-towing-email}})
 
 -   Boat Trailer Towing -
-    [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
-    /
+    [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}})  
     [{{site.data.members.boat-trailer-towing2}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
 
--   Publicity Liason - {{site.data.members.publicity-liason}}\
+-   Publicity Liason - {{site.data.members.publicity-liason}}  
     [mailto:{{site.data.members.publicity-liason-email}}](mailto:{{site.data.members.publicity-liason-email}})
 
--   Boat Maintenance & Repair - {{site.data.members.boat-maintenance}}\
+-   Boat Maintenance & Repair - {{site.data.members.boat-maintenance}}  
     [mailto:{{site.data.members.boat-maintenance-email}}](mailto:{{site.data.members.boat-maintenance-email}})
 
--   Team Photographer and Banquet Video\
+-   Team Photographer and Banquet Video  
     {{site.data.members.team-photographer}} -
-    [mailto:{{site.data.members.team-photographer-email}}](mailto:{{site.data.members.team-photographer-email}})\
+    [mailto:{{site.data.members.team-photographer-email}}](mailto:{{site.data.members.team-photographer-email}})  
     {{site.data.members.team-photographer2}} -
     [mailto:{{site.data.members.team-photographer2-email}}](mailto:{{site.data.members.team-photographer2-email}})
 
@@ -134,14 +133,14 @@ run by the families of the participating athletes.
 
 **NOTE: Saline Crew is not part of Saline Area Schools "pay to play".**
 
-**NEW ROWERS - 1st Season ONLY - \$375** (Program Registration Fees : \$325,
-Rower Regatta Food \$50.00)
+**NEW ROWERS - 1st Season ONLY - 375** (Program Registration Fees : 325, Rower
+Regatta Food $50.00)
 
 Fees are payable at the beginning of each season (note that there are two
 seasons, fall and spring). Seasonal dues pay for coaching salaries, insurance,
 gas, regatta fees, rower regatta food, boat maintenance, and other seasonal
-expenses. Dues for the Spring 2014 season are **\$700.00** (Program Registration
-Fees : \$650.00, Rower Regatta Food \$50.00)
+expenses. Dues for the Spring 2014 season are **$700.00** (Program
+Registration Fees : 650.00, Rower Regatta Food 50.00)
 
 Multiple Rower Discount (rowers from the same family):
 
@@ -154,8 +153,8 @@ Please follow [this link]({{site.data.links.pay-fees}}) to pay your fees onlin
 Questions: [{{site.data.members.treasurer}},
 Treasurer](mailto:{{site.data.members.treasurer-email}}) 
 
-**ADDITIONAL FEE:** Practice Transportation Fee of \$75 Applies to "In-Season"
-Practices Only. if applicable\*
+**ADDITIONAL FEE:** Practice Transportation Fee of $75 Applies to "In-Season"
+Practices Only. if applicable*
 
 *Parents and/or rowers who are providing their own transportation to and from
 practice do not need to pay the practice transportation fee. Also, if your rower
@@ -163,8 +162,8 @@ is an approved driver, the practice transportation fee does not apply.*
 
 The coaches will organize the "in-season" practice transportation car pools.
 They will assign rowers to specific cars and distribute funds to assigned
-drivers. Transportation Fee \$75.00:\*\* Payable to CASH\*\* (Please give the
-cash and/or check to Coach Matt)
+drivers. Transportation Fee $75.00: **Payable to CASH** (Please give the cash
+and/or check to Coach Matt)
 
 *NOTE: We know this is not an inexpensive sport, so we have a program to help
 the rowers and their families offset the Club fees. Please see
@@ -197,8 +196,8 @@ Frequently Asked Questions
 
 ### How much does crew cost?
 
-It costs \$700.00 to join the team. Plus travel costs for practices &
-regattas. [Get the specifics](#registration) 
+It costs $700.00 to join the team. Plus travel costs for practices &
+regattas. [Get the specifics](join-crew#join) 
 
 ### Why does it cost so much?
 
@@ -215,8 +214,9 @@ There are some limited scholarship funds available. Check with the
 
 All athletes must view a safety video and pass a swim test before being allowed
 on the water. Athletes must listen to the coaches, officials, and use common
-sense.\
-What if I have never rowed before?
+sense.
+
+### What if I have never rowed before?
 
 Most students who join crew have never rowed before. We will teach you what you
 need to know so don't worry if you're new.
@@ -230,8 +230,9 @@ flotation devices.
 ### Are there cuts?
 
 There are no cuts for the team. However, the coach will decide which boats to
-place athletes in based on their skill, strength and the makeup of the team.\
-What is the difference between fall rowing and spring rowing?
+place athletes in based on their skill, strength and the makeup of the team.
+
+### What is the difference between fall rowing and spring rowing?
 
 The Fall season consists of longer races up to 5K (like cross country) and the
 Spring is Sprint Season with races of 1500 meters (like track).
@@ -279,7 +280,8 @@ sweatshirt and sweatpants to wear before and after races.
 
 ### Who are the coaches?
 
-{{site.data.members.coach}}, Head Coach, \<{{site.data.members.coach-email}}\>
+{{site.data.members.coach}}, Head Coach, 
+<{{site.data.members.coach-email}}>
 
 ### Do I have to be a certain height?
 
@@ -301,8 +303,8 @@ pounds in the Spring.
 
 Yes, our food coordinator will plan enough for athletes, parents and siblings.
 The rower's food is included in the combined fee paid at the beginning of each
-season. The families and guests need to go online and pay the \$10.00 per guest
-per regatta (18 and under are \$5). We only ask that you give first priority to
+season. The families and guests need to go online and pay the $10.00 per guest
+per regatta (18 and under are $5). We only ask that you give first priority to
 athletes as they are on a tight schedule to get prepared and race.
 
 ### Who runs the team?
@@ -357,76 +359,64 @@ Spring 2015 Season
 
 ### President - {{site.data.members.president}}
 
--   Presides over all board meetings\
--   Sets agendas\
--   Main Liaison with the coaches\
--   Main Liaison with Saline High School and Community Ed\
+-   Presides over all board meetings
+-   Sets agendas
+-   Main Liaison with the coaches
+-   Main Liaison with Saline High School and Community Ed
 -   Delegates duties and jobs to other Board Members and crew team volunteers
 
 ### Vice President - {{site.data.members.vice-president}}
 
--   Coordinates volunteers for fall and spring season\
--   Gives volunteer report at board meetings\
--   Attends all school related meetings\
--   Works with the “Food Committee”\
+-   Coordinates volunteers for fall and spring season
+-   Gives volunteer report at board meetings
+-   Attends all school related meetings
+-   Works with the “Food Committee”
 -   Assists in coordinating the banquet
 
 ### Treasurer - {{site.data.members.treasurer}}
 
--   Maintains crew budget\
--   Submits appropriate paperwork to the school\
--   Submits crew team bills/reimbursement\
--   Prepares monthly/seasonal reports\
--   Sends correspondence to donors/sponsors\
+-   Maintains crew budget
+-   Submits appropriate paperwork to the school
+-   Submits crew team bills/reimbursement
+-   Prepares monthly/seasonal reports
+-   Sends correspondence to donors/sponsors
 -   Main Liaison with Saline High School and Community Ed
 
 ### Secretary - {{site.data.members.secretary}}
 
--   Maintains board meeting minutes\
--   Maintains crew team roster with phone numbers/email/addresses\
--   Sends correspondence as appropriate\
--   Maintains all crew documents\
+-   Maintains board meeting minutes
+-   Maintains crew team roster with phone numbers/email/addresses
+-   Sends correspondence as appropriate
+-   Maintains all crew documents
 -   Reserves library meeting rooms
 
 ### Equipment Manager - {{site.data.members.equipment-manager}}
 
--   Ensures trailers have appropriate tags and inspections\
--   Submits forms to treasurer and secretary as appropriate\
--   Arranges for repairs/maintenance to crew equipment including:\
--   Trailers\
--   Tool Box\
--   Low Boys\
--   Ties\
--   Launches/Trailers\
--   Slings\
--   A-Frames\
--   Riggers\
--   Boats/Riggers/Seats – in conjunction with the coaches\
--   Safety Equipment\
--   Gets Logo on Trailer\
+-   Ensures trailers have appropriate tags and inspections
+-   Submits forms to treasurer and secretary as appropriate
+-   Arranges for repairs/maintenance to crew equipment
 -   Keeps maintenance records for all equipment.
 
 ### Fund Raising Chair - {{site.data.members.fundraising}}
 
 -   Establishes fund raising activities for the year – including Capital
-    Campaign\
--   Enlists help for events\
--   Obtains crew sponsors/donors\
--   Submits all paperwork/expenses/donations to Treasurer\
--   Works with Secretary for correspondence to all sponsors/donors\
+    Campaign
+-   Enlists help for events
+-   Obtains crew sponsors/donors
+-   Submits all paperwork/expenses/donations to Treasurer
+-   Works with Secretary for correspondence to all sponsors/donors
 -   Works on advertising for fund raising events
 
 ### Media Representative/Publicist - {{site.data.members.publicity-liason}}
 
--   Writes articles for the Saline Reporter and submits in timely fashion\
--   Works with team photographer\
--   Assists with Web site management\
+-   Writes articles for the Saline Reporter and submits in timely fashion
+-   Works with team photographer
+-   Assists with Web site management
 -   Develop/update crew team brochure for community distribution
 
 ### Web Master - {{site.data.members.web-master}}
 
--   Updates website based on changes provided from Saline Crew Board and
-    coaches\
+-   Updates website based on changes provided from Saline Crew Board and coaches
 -   Works with media rep and team photographer
 
 ### Team Photographer & End of Season Video
@@ -434,25 +424,25 @@ Spring 2015 Season
 #### {{site.data.members.team-photographer}} / {{site.data.members.team-photographer2}}
 
 -   Takes pictures at regattas
--   Works with web master and media rep\
+-   Works with web master and media rep
 -   Puts together end of the season video and DVD
 
 ### Food Coordinator - {{site.data.members.food-coordinator}}
 
--   Oversees food committee and volunteers for each season\
+-   Oversees food committee and volunteers for each season
 -   Monitors budget
 
 ### Regatta Transportation - {{site.data.members.transportation}}
 
--   Ensures there are enough drivers for each regatta\
--   Provides driving directions to each driver\
--   Provides list of phone numbers to each driver for emergency contact\
+-   Ensures there are enough drivers for each regatta
+-   Provides driving directions to each driver
+-   Provides list of phone numbers to each driver for emergency contact
 -   Works with Coach & Captains
 
 ### Banquet Coordinator - {{site.data.members.banquet-coordinator}}
 
--   Organizes and arranges Team Banquet\
--   Including Food\
+-   Organizes and arranges Team Banquet
+-   Including Food
 -   Develops the “Program” - Will need to work with coaches and VP
 
 ### Crew Clothing - {{site.data.members.crew-clothing}}
@@ -467,7 +457,7 @@ How to enjoy a Crew Regatta
 
 --------------------------------------------------------------------------------
 
-### Before the Regatta……
+### Before the Regatta...
 
 **Weather:** During the season <www.weather.com> is your friend! It is great as
 you can check the forecast in advance and get the hour to hour details which
@@ -513,7 +503,7 @@ team sweatshirt and many items get left behind.
 Print off heat sheets before you go! For most races these can be found on
 [www.regattacentral.com](http://www.regattacentral.com) click on the event and
 then on the tab on the left labeled “heat sheet” a few days before the regatta.
-Highlight your team’s/rower’s races. Some regattas will sell them for \$2 or \$3
+Highlight your team’s/rower’s races. Some regattas will sell them for $2 or $3
 at the site, but they go fast.
 
 Be sure to print off directions and important phone numbers like the other
@@ -526,7 +516,7 @@ also set at least one back up!!! I have had the experience where we asked for a
 wake up call, and they forgot. If we hadn’t set an extra alarm we would have
 been late (does not make for happy rowers or coaches)!
 
-### Arriving at the regatta…..
+### Arriving at the regatta...
 
 Plan to arrive early! This will help you get a good parking spot and your rower
 has alot to do before the first race of the day, even if they don’t race until
@@ -610,9 +600,9 @@ the banquet!
 anyway!!!! Especially as they approach!
 
 **T-shirts**: Every regatta has a t-shirt for sale. This will usually cost
-between \$15 - \$25. These are nice and good mementos of the season. Often
-parents have keepsake quilts made out of the shirts when their rower graduates.
-Some regattas also sell rowing jewelry. These make great gifts!
+between $15 - $25. These are nice and good mementos of the season. Often parents
+have keepsake quilts made out of the shirts when their rower graduates. Some
+regattas also sell rowing jewelry. These make great gifts!
 
 ### At the end of the regatta……..
 
@@ -641,7 +631,7 @@ Regatta Food
 
 --------------------------------------------------------------------------------
 
-![food tent and trailer](/assets/images/foodtent.jpg)\
+![food tent and trailer](/assets/images/foodtent.jpg)  
 *food tent and trailer*
 
 Everything a Parent and Rower needs to know about food at Regattas:
@@ -649,10 +639,11 @@ Everything a Parent and Rower needs to know about food at Regattas:
 1.  Every rower must pay a specified amount each season to cover food and drinks
     for all rowers as part of their dues. Family members and guests pay an
     additional “optional” fee which is established each season. This information
-    is presented at the Parent / Rower meeting.\
-     [Family and Guest Regatta Food
-    Form](/assets/forms/2014-spring-rowing-food-form.pdf)\
-     [Regatta Food Menu](/assets/forms/spring-2014-menu.pdf)
+    is presented at the Parent / Rower meeting.
+
+    [Family and Guest Regatta Food
+    Form](/assets/forms/2014-spring-rowing-food-form.pdf)  
+    [Regatta Food Menu](/assets/forms/spring-2014-menu.pdf)
 
 2.  We serve approximately 80-100+ people each regatta, depending on number of
     rowers.  We serve approximately 150 people at each banquet.
@@ -662,8 +653,9 @@ Everything a Parent and Rower needs to know about food at Regattas:
 
 4.  Food is served 'tail-gate' style, with breakfast served as soon as possible
     upon arrival and set-up.  Lunch is served at approximately 11:30, with
-    rowers eating at various times depending on when they row.\
-     ![Parents at the food tent](/assets/images/parents-at-food-tent.jpg)
+    rowers eating at various times depending on when they row.
+
+    ![Parents at the food tent](/assets/images/parents-at-food-tent.jpg)
 
 5.  We have the following equipment we use at each regatta:
 
@@ -677,14 +669,15 @@ Everything a Parent and Rower needs to know about food at Regattas:
 -   Assorted pots & pans
 -   Trailer to haul all equipment and food to each regatta
 
-6.  All rower family members are responsible for set-up of the tents before the
+1.  All rower family members are responsible for set-up of the tents before the
     regatta.
 
-7.  All rower family members are responsible for clean-up of site(s), take down
-    of tents and loading the equipment trailer.\
-     ![cooking](/assets/images/pam-cooking.jpg)
+2.  All rower family members are responsible for clean-up of site(s), take down
+    of tents and loading the equipment trailer.
 
-8.  We are in need of many volunteers to help with the regatta food. Volunteer
+    ![cooking](/assets/images/pam-cooking.jpg)
+
+3.  We are in need of many volunteers to help with the regatta food. Volunteer
     opportunities will be explained and / or requested at the Parent / Rower
     meeting each season. The following is a general outline of regatta food
     volunteer opportunities ([Volunteer Positions &
@@ -700,18 +693,17 @@ Everything a Parent and Rower needs to know about food at Regattas:
 -   People willing to check drink/food supply during regattas.
 -   People willing to bring baked goods to each regatta
 
-9.  The following are examples of staples that are available at each regatta:
+1.  The following are examples of staples that are available at each regatta:
 
 -   Bagels & cream cheese
 -   Granola bars
 -   Oatmeal
 -   Nuts, crackers or
 -   Chex mix type handy-to-grab snacks
--   Boiled eggs
 -   Ramen Noodles
 -   Fresh fruit
 -   Fresh vegetables (salads or vegetables & dip)
--   Bottled water, assorted juices, hot chocolate, coffee and tea
+-   Bottled water, hot chocolate, coffee and tea
 
 <a name="glossary"></a>
 
@@ -1112,55 +1104,55 @@ consists of longer races (like cross country) and the Spring is "Sprint Season"
 (like track). Most new rowers join in the Fall to get experience, learn to row,
 and prepare for the head to head competition in the Spring.
 
-**Regatta Central**\
-<https://www.regattacentral.com/index.jsp>\
+**Regatta Central**  
+<https://www.regattacentral.com/index.jsp>  
 Info can be found here for most of the regattas we attend.
 
-**Saline Crew Alumni**\
-<http://www.salinecrewalumni.webnode.com/>\
+**Saline Crew Alumni**  
+<http://www.salinecrewalumni.webnode.com/>  
 For past members of the Saline Crew team.
 
-**Wyandotte Boat Club**\
-[Wyandotte Boat Club](http://www.wyandotteboatclub.com/wbcregattas.html)\
+**Wyandotte Boat Club**  
+[Wyandotte Boat Club](http://www.wyandotteboatclub.com/wbcregattas.html)  
 We go here three times per year or more.   
 
-**Ann Arbor Rowing Club**\
-<http://www.a2crew.com/>\
+**Ann Arbor Rowing Club**  
+<http://www.a2crew.com/>  
 Our neighbor club, where many of our members row during the summer.   A friend
 that has supported our growth from conception.  
 
-**USRA**\
-<http://www.usrowing.org/index.aspx>\
+**USRA**  
+<http://www.usrowing.org/index.aspx>  
 The United States Rowing Organization, great site for lots of rowing info.   
 
-**Row 2K**\
-<http://www.row2k.com/>\
+**Row 2K**  
+<http://www.row2k.com/>  
 Great Rowing site for up-to-date rowing info.
 
-**Vespoli Boats**\
-<http://www.vespoli.com/>\
+**Vespoli Boats**  
+<http://www.vespoli.com/>  
 The boat company that makes our boats  
 
-**Concept 2**\
-<http://www.concept2.com/us/default.asp>\
+**Concept 2**  
+<http://www.concept2.com/us/default.asp>  
 The company that we buy our “ergs” and oars from. Great site for rowing training
 info.  
 
-**EMU crew**\
-<http://emucrew.com/default.aspx>\
+**EMU crew**  
+<http://emucrew.com/default.aspx>  
 We have alumni who row here and Coaches who rowed here.  
 
 Also we share Ford Lake with them and they have been very supportive of us.   
 
-**U of M Women’s Crew**\
-[M GoBlue](http://www.mgoblue.com/rowing-w/page.aspx?id=12128)\
+**U of M Women’s Crew**  
+[M GoBlue](http://www.mgoblue.com/rowing-w/page.aspx?id=12128)  
 Another program that has been very supportive of us and offers rowing camps in
 the summer.  They are also our neighbors on Belleville Lake.
 
-**GVSU Crew**\
-[GVSU Crew](http://www.grandvalleyrowing.com/newsite/index.php/home)\
+**GVSU Crew**  
+[GVSU Crew](http://www.grandvalleyrowing.com/newsite/index.php/home)  
 We have alumni who row here, and Coach Matt's alma mater.
 
-**MSU Crew**\
-[MSU Crew](https://www.msu.edu/~msucrew/)\
+**MSU Crew**  
+[MSU Crew](https://www.msu.edu/~msucrew/)  
 We have alumni rowing here. 

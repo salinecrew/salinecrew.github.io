@@ -23,16 +23,16 @@ Click on [this link]({{site.data.links.pay-fees}}), and fill in the amount you
 owe for each rower in your family. Get your rent-a-rower total from
 Treasurer [{{site.data.members.treasurer}}](mailto:{{site.data.members.treasurer.com}}).
 
--   For new rowers: \$375
--   For returning rowers:  \$700 - rent-a-rower earnings = fees owed. 
--   For sibling returning rowers: \$375 - rent-a-rower earnings = fees owed. 
+-   For new rowers: $375
+-   For returning rowers:  $700 - rent-a-rower earnings = fees owed. 
+-   For sibling returning rowers: $375 - rent-a-rower earnings = fees owed. 
 
 Forms Required to be a Crew Member
 ----------------------------------
 
 -   **Saline Schools Participation form:**  [Fill out this form
-    online](https://spreadsheets.google.com/viewform?formkey=dEMtRjVJTmxUcnluT1d1SVlUVXRXTHc6MQ).\
-     **Saline Crew is a club sport and not part of "pay to play"** 
+    online](https://spreadsheets.google.com/viewform?formkey=dEMtRjVJTmxUcnluT1d1SVlUVXRXTHc6MQ).
+    **Saline Crew is a club sport and not part of "pay to play"** 
 
     The following forms are to be completed and turned in at the mandatory
     parent / rower meeting each season (or as otherwise noted):
