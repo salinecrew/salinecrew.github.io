@@ -3,6 +3,36 @@ layout: post
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
 
+![unnamed](http://i.imgur.com/M1MmHvJ.jpg)
+
+Rower: Laura Penny\
+Parents: Michael and Cecilyne Penny
+
+Laura's Bio: 10th grade, varsity rower, enjoys playing the French horn,
+traveling, and learning French
+
+--------------------------------------------------------------------------------
+
+![10514575\_10155074979410655\_754302460516617605\_n](http://i.imgur.com/l32fk4j.jpg)
+
+Rower: Oliver Mepham\
+Parents: Shaun, and Amanda Mepham
+
+Oliver's Bio: 4th year rower, enjoys getting big, Yugioh, and long walks on the
+beach. Aspires to be a vending machine repair man
+
+--------------------------------------------------------------------------------
+
+![089](http://i.imgur.com/PaHXlGp.jpg)
+
+John, Morgan Bergren, and Nicole
+
+Morgan is in 9th grade and currently a novice rower on the team. Morgan loves
+animals and volunteer's at the human society every week. She is also actively
+involved with the agricultural science program at school.
+
+--------------------------------------------------------------------------------
+
 ![DSC\_0013](http://i.imgur.com/0gJ5jAv.jpg)
 
 Rower: Conrad Brill\
