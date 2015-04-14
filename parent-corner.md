@@ -104,7 +104,7 @@ Bylaws]({{site.data.links.bylaws}})
     [mailto:{{site.data.members.food-trailer-towing-email}}](mailto:{{site.data.members.food-trailer-towing-email}})
 
 -   Boat Trailer Towing -
-    [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}})  
+    [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}}),
     [{{site.data.members.boat-trailer-towing2}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
 
 -   Publicity Liason - {{site.data.members.publicity-liason}}  
@@ -114,10 +114,8 @@ Bylaws]({{site.data.links.bylaws}})
     [mailto:{{site.data.members.boat-maintenance-email}}](mailto:{{site.data.members.boat-maintenance-email}})
 
 -   Team Photographer and Banquet Video  
-    {{site.data.members.team-photographer}} -
-    [mailto:{{site.data.members.team-photographer-email}}](mailto:{{site.data.members.team-photographer-email}})  
-    {{site.data.members.team-photographer2}} -
-    [mailto:{{site.data.members.team-photographer2-email}}](mailto:{{site.data.members.team-photographer2-email}})
+    [{{site.data.members.team-photographer}}](mailto:{{site.data.members.team-photographer-email}}), 
+    [{{site.data.members.team-photographer2}}](mailto:{{site.data.members.team-photographer2-email}})
 
 [Learn more about all of the volunteer opportunities](#volunteer)
 
@@ -133,14 +131,14 @@ run by the families of the participating athletes.
 
 **NOTE: Saline Crew is not part of Saline Area Schools "pay to play".**
 
-**NEW ROWERS - 1st Season ONLY - 375** (Program Registration Fees : 325, Rower
+**NEW ROWERS - 1st Season ONLY - $375** (Program Registration Fees : $325, Rower
 Regatta Food $50.00)
 
 Fees are payable at the beginning of each season (note that there are two
 seasons, fall and spring). Seasonal dues pay for coaching salaries, insurance,
 gas, regatta fees, rower regatta food, boat maintenance, and other seasonal
 expenses. Dues for the Spring 2014 season are **$700.00** (Program
-Registration Fees : 650.00, Rower Regatta Food 50.00)
+Registration Fees : $650.00, Rower Regatta Food $50.00)
 
 Multiple Rower Discount (rowers from the same family):
 
@@ -509,14 +507,14 @@ at the site, but they go fast.
 Be sure to print off directions and important phone numbers like the other
 drivers prior to leaving!
 
-### The night before the regatta,
+### The night before the regatta
 
 Set at least two alarms!! If you stay in a hotel, ask for a wake up call, but
 also set at least one back up!!! I have had the experience where we asked for a
 wake up call, and they forgot. If we hadn’t set an extra alarm we would have
 been late (does not make for happy rowers or coaches)!
 
-### Arriving at the regatta...
+### Arriving at the regatta
 
 Plan to arrive early! This will help you get a good parking spot and your rower
 has alot to do before the first race of the day, even if they don’t race until
@@ -543,7 +541,7 @@ regattas have to be in a week before the race, and changes are not usually
 permitted. A rower leaving early or not attending could mean that 4 or 8 other
 rowers may not race!!*
 
-### The tent…..
+### The Tent
 
 The team has several tents. The big yellow tent is generally reserved for the
 rowers. Little siblings are usually welcomed as well. This is where they put
@@ -557,7 +555,7 @@ water and hot chocolate.
 Parents usually hang out here and then get closer to the water to watch their
 rower. This is a great place to meet new friends!
 
-### Watching the regatta……..
+### Watching the regatta
 
 During the Fall season: These are called “Head Races.” Races are longer (similar
 to Cross Country), usually 2.5 to 3 miles long. Boats are started in
@@ -604,7 +602,7 @@ between $15 - $25. These are nice and good mementos of the season. Often parents
 have keepsake quilts made out of the shirts when their rower graduates. Some
 regattas also sell rowing jewelry. These make great gifts!
 
-### At the end of the regatta……..
+### At the end of the regatta
 
 -   Take a few moments to make sure your rower has everything, sweats, shirts,
     hats etc.!!!

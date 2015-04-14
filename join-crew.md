@@ -42,8 +42,7 @@ you did!
 7.  You learn how to take care of blisters.
 8.  You get to catch "crabs".
 
-    ![ejectingcrab](/assets/images/crab.jpg)
-
+    ![ejectingcrab](/assets/images/crab.jpg)  
     *The rare and exotic ejecting crab maneuver*
 
 9.  Next time you ride in any kind of boat, you can babble on and on using
