@@ -657,51 +657,51 @@ Everything a Parent and Rower needs to know about food at Regattas:
 
 5.  We have the following equipment we use at each regatta:
 
--   Two three-burner propane stoves and one portable grill
--   One large tent for the rowers and three smaller tents for cooking and
-    eating.
--   Five tables for food preparation and food presentation
--   Three large coolers, and two large drink dispensers
--   Two large chafing dishes
--   All disposable plates/cups/bowls/utensils
--   Assorted pots & pans
--   Trailer to haul all equipment and food to each regatta
+    -   Two three-burner propane stoves and one portable grill
+    -   One large tent for the rowers and three smaller tents for cooking and
+        eating.
+    -   Five tables for food preparation and food presentation
+    -   Three large coolers, and two large drink dispensers
+    -   Two large chafing dishes
+    -   All disposable plates/cups/bowls/utensils
+    -   Assorted pots & pans
+    -   Trailer to haul all equipment and food to each regatta
 
-1.  All rower family members are responsible for set-up of the tents before the
+6.  All rower family members are responsible for set-up of the tents before the
     regatta.
 
-2.  All rower family members are responsible for clean-up of site(s), take down
+7.  All rower family members are responsible for clean-up of site(s), take down
     of tents and loading the equipment trailer.
 
     ![cooking](/assets/images/pam-cooking.jpg)
 
-3.  We are in need of many volunteers to help with the regatta food. Volunteer
+8.  We are in need of many volunteers to help with the regatta food. Volunteer
     opportunities will be explained and / or requested at the Parent / Rower
     meeting each season. The following is a general outline of regatta food
     volunteer opportunities ([Volunteer Positions &
     Responsibilities](#volunteer)
 
--   Food Coordinator – Lorna Gibson
--   Shopper – Lorna Gibson
--   Head Cook – Shelley Wolff
--   Food Trailer Organizers (regatta prep. / packing) - Lorna Gibson/Cheryl
-    Brill
--   Food Trailer Transportation – VOLUNTEER NEEDED!
--   People willing to help cook breakfast and/or lunch.
--   People willing to check drink/food supply during regattas.
--   People willing to bring baked goods to each regatta
+    -   Food Coordinator – Lorna Gibson
+    -   Shopper – Lorna Gibson
+    -   Head Cook – Shelley Wolff
+    -   Food Trailer Organizers (regatta prep. / packing) - Lorna Gibson/Cheryl
+        Brill
+    -   Food Trailer Transportation – VOLUNTEER NEEDED!
+    -   People willing to help cook breakfast and/or lunch.
+    -   People willing to check drink/food supply during regattas.
+    -   People willing to bring baked goods to each regatta
 
-1.  The following are examples of staples that are available at each regatta:
+9.  The following are examples of staples that are available at each regatta:
 
--   Bagels & cream cheese
--   Granola bars
--   Oatmeal
--   Nuts, crackers or
--   Chex mix type handy-to-grab snacks
--   Ramen Noodles
--   Fresh fruit
--   Fresh vegetables (salads or vegetables & dip)
--   Bottled water, hot chocolate, coffee and tea
+    -   Bagels & cream cheese
+    -   Granola bars
+    -   Oatmeal
+    -   Nuts, crackers or
+    -   Chex mix type handy-to-grab snacks
+    -   Ramen Noodles
+    -   Fresh fruit
+    -   Fresh vegetables (salads or vegetables & dip)
+    -   Bottled water, hot chocolate, coffee and tea
 
 <a name="glossary"></a>
 
