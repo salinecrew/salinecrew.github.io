@@ -195,7 +195,7 @@ Frequently Asked Questions
 ### How much does crew cost?
 
 It costs $700.00 to join the team. Plus travel costs for practices &
-regattas. [Get the specifics](join-crew#join) 
+regattas. [Get the specifics](/join-crew#join) 
 
 ### Why does it cost so much?
 
