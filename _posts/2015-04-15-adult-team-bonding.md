@@ -1,6 +1,7 @@
 ---
 layout: post  
 title: 'Adult Team Bonding'
+date: 2015-04-15 00:30:00
 ---
 Saline Rowing Parents,
 
