@@ -9,6 +9,8 @@ It has been some time since the team last had a parent social event to kick-off
 the rowing season, and Kelly and I would like to bring it back. We'll call it
 adult team bonding!
 
+![images.duckduckgo](http://i.imgur.com/ZpqkXP0.jpg)
+
 Saturday is our first regatta of the spring season, and while we know it will be
 a long day, please consider joining us this Saturday night at our home for some
 snacks and beer and wine to celebrate the start of the season as well as get to
