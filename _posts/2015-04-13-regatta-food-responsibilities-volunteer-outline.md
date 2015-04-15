@@ -15,10 +15,7 @@ is a place for rowers to “fuel-up” on healthier food items that may not
 otherwise be available. Additionally, Regatta venues are often in remote areas
 and therefore other options may not be convenient.
 
-Volunteer sign-up for each Regatta venue, [Regatta Volunteer
-Sign-up](https://docs.google.com/spreadsheets/d/1wBP7PCc3eJluqOD8FODPnv07FYmErZf5WuvAyhM-rqg/edit#gid=995762576).
-Please use this shared spreadsheet as it will serve as a management tool for
-coordinating volunteers.
+Volunteer sign-up for each Regatta venue, [Regatta Volunteer Signup](<http://www.signupgenius.com/go/20f0a4dafab2ba2f49-regatta>).
 
 Please review the following volunteer responsibilities and decide where you will
 be able to contribute. The volunteers are needed for EACH Regatta. Everyone’s
@@ -92,5 +89,4 @@ help is required to make the day enjoyable for all!
 
 9)  Re-load Trailer: **(4) VOLUNTEERS NEEDED + ALL PARENTS**
 
-[Regatta Volunteer
-Sign-up](https://docs.google.com/spreadsheets/d/1wBP7PCc3eJluqOD8FODPnv07FYmErZf5WuvAyhM-rqg/edit#gid=995762576)
+[Regatta Volunteer Signup](<http://www.signupgenius.com/go/20f0a4dafab2ba2f49-regatta>)
