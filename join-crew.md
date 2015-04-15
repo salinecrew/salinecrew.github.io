@@ -90,9 +90,9 @@ $50.00)
 
 **NOTE:**  Program Registration Fees for a rowers FIRST SEASON are $325.
 
-**Practice Transportation Fees in Season only. $75.00** if applicable*
+**Practice Transportation Fees in Season only. $75.00** if applicable\*
 
-**Parents and/or rowers who are providing their own transportation to and from
+\**Parents and/or rowers who are providing their own transportation to and from
 practice do not need to pay the transportation fee.*
 
 The coaches will organize the practice transportation car pools. They will
@@ -135,9 +135,9 @@ Parents must participate in the carpool to drive students to practice unless
 they give permission to their student to be driven by student drivers. Be
 prepared to sign up to drive at least one day a week when you attend the
 rower/parent meeting. Parents must sign the Transportation and Authorization
-form*.
+form\*.
 
-**Parents and/or rowers who are providing transportation to and from practice
+\**Parents and/or rowers who are providing transportation to and from practice
 do not need to contribute to gas.  If you are in the team carpools, there is a
 additional fee as outlined in the fee schedule.*
 
@@ -165,7 +165,7 @@ Association <http://www.usrowing.org/>
 ### Contact us if you have questions
 
 If you have additional inquiries, please attend the March meeting or e-mail
-<{{site.data.members.president}}>
+[{{site.data.members.president}}]({{site.data.members.president}})
 
 <a name="history"></a>
 

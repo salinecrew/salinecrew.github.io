@@ -114,7 +114,7 @@ Bylaws]({{site.data.links.bylaws}})
     [mailto:{{site.data.members.boat-maintenance-email}}](mailto:{{site.data.members.boat-maintenance-email}})
 
 -   Team Photographer and Banquet Video  
-    [{{site.data.members.team-photographer}}](mailto:{{site.data.members.team-photographer-email}}), 
+    [{{site.data.members.team-photographer}}](mailto:{{site.data.members.team-photographer-email}}),
     [{{site.data.members.team-photographer2}}](mailto:{{site.data.members.team-photographer2-email}})
 
 [Learn more about all of the volunteer opportunities](#volunteer)
@@ -137,8 +137,8 @@ Regatta Food $50.00)
 Fees are payable at the beginning of each season (note that there are two
 seasons, fall and spring). Seasonal dues pay for coaching salaries, insurance,
 gas, regatta fees, rower regatta food, boat maintenance, and other seasonal
-expenses. Dues for the Spring 2014 season are **$700.00** (Program
-Registration Fees : $650.00, Rower Regatta Food $50.00)
+expenses. Dues for the Spring 2014 season are **$700.00** (Program Registration
+Fees : $650.00, Rower Regatta Food $50.00)
 
 Multiple Rower Discount (rowers from the same family):
 
@@ -152,9 +152,9 @@ Questions: [{{site.data.members.treasurer}},
 Treasurer](mailto:{{site.data.members.treasurer-email}}) 
 
 **ADDITIONAL FEE:** Practice Transportation Fee of $75 Applies to "In-Season"
-Practices Only. if applicable*
+Practices Only. if applicable\*
 
-*Parents and/or rowers who are providing their own transportation to and from
+\**Parents and/or rowers who are providing their own transportation to and from
 practice do not need to pay the practice transportation fee. Also, if your rower
 is an approved driver, the practice transportation fee does not apply.*
 
@@ -163,7 +163,7 @@ They will assign rowers to specific cars and distribute funds to assigned
 drivers. Transportation Fee $75.00: **Payable to CASH** (Please give the cash
 and/or check to Coach Matt)
 
-*NOTE: We know this is not an inexpensive sport, so we have a program to help
+\**NOTE: We know this is not an inexpensive sport, so we have a program to help
 the rowers and their families offset the Club fees. Please see
 the [Rent-A-Rower](/fund-raising#rent) page for more information. The rowers get
 credit for each hour they work, and it can make a significant difference in the
@@ -278,8 +278,8 @@ sweatshirt and sweatpants to wear before and after races.
 
 ### Who are the coaches?
 
-{{site.data.members.coach}}, Head Coach, 
-<{{site.data.members.coach-email}}>
+{{site.data.members.coach}}, Head Coach  
+[{{site.data.members.coach-email}}](mailto:{{site.data.members.coach-email}})
 
 ### Do I have to be a certain height?
 
