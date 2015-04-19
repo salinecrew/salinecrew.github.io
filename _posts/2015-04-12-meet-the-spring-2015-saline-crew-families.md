@@ -3,6 +3,15 @@ layout: post
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
 
+![Campbell](http://i.imgur.com/3feE2Ma.jpg)
+
+Rower: Justin  
+Parents: Julie and Mike, sister Elise.
+
+Justin is a freshman novice rower and also plays the tuba/sousaphone in the Marching Band and Pep Band.  Justin likes to travel, especially if there's an ocean involved, and going on our frequent multi-family camping weekends (although our camping season has shortened to only summer since he's gotten involved in crew).  In the little spare time Justin has, he's usually found playing video games online with his friends. 
+
+---
+
 ![Penny](http://i.imgur.com/M1MmHvJ.jpg)
 
 Rower: Laura Penny  
