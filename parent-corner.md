@@ -32,13 +32,13 @@ each year.*
     begins through early-November. Spring Season: Begins in March and ends in
     May/June. Rowers will carpool to practices as assigned at the beginning of
     the season based on parent transportation consent forms. 
-    -   **Erging**– Location: Liberty School (until weather permits on-the-water
-        practices at Ford Lake). Practices are Mon- Thurs after school and
-        Saturday morning 9am, when there is not a Regatta.
+    -   **Erging** – Location: Liberty School (until weather permits
+        on-the-water practices at Ford Lake). Practices are Mon- Thurs after
+        school and Saturday morning 9am, when there is not a Regatta.
     -   **Weight & Fitness Training** – Location: Saline High School (until
         weather permits on-the-water practices at Ford Lake). Practices
         generally run 1 to 2 days per week after school.
-    -   **Rowing**- Location: Ford Lake – once weather permits, all weekly
+    -   **Rowing** - Location: Ford Lake – once weather permits, all weekly
         practices will be on the water at the lake. Mon- Thurs after school and
         Saturday morning, 9am, when there is not a Regatta. During inclement
         weather, practices will be held at Liberty School.
@@ -541,7 +541,7 @@ regattas have to be in a week before the race, and changes are not usually
 permitted. A rower leaving early or not attending could mean that 4 or 8 other
 rowers may not race!!*
 
-### The Tent
+### The tent
 
 The team has several tents. The big yellow tent is generally reserved for the
 rowers. Little siblings are usually welcomed as well. This is where they put
@@ -579,7 +579,7 @@ is a no parent zone! (Same goes for the boat meeting right before their race).
 The rower will then go get food and use the bathroom and then may find you. But
 if they don’t remember, it is OK!
 
-### Other “No parent Zones”:
+### Other “No parent Zones”
 
 -   On the Docks – This is an extremely busy place. 
 -   Rigging/Derigging boats – The rowers are very busy during these times and
