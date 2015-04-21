@@ -8,7 +8,7 @@ title: 'Meet the Spring 2015 Saline Crew Families'
 Rower: Eddie Pfannes  
 Parents: Ed and Heidi Pfannes
 
-Eddies Bio:  Eddie is a novice 9th Grader.  He is working on his Eagle Rank in Boy Scouts, and he plays trombone in the marching band.  He is also glad to have met the rowers on the team.
+Eddie is a novice 9th Grader.  He is working on his Eagle Rank in Boy Scouts, and he plays trombone in the marching band.  He is also glad to have met the rowers on the team.
 
 ---
 
