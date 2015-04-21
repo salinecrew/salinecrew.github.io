@@ -41,7 +41,7 @@ Saline District Library
     responsibility for job’s day of the regatta. Will post on cork board on
     trailer
 
-### Captain Report
+### Captains Report
 
 -   close to being in boat house
 -   about half team came to spring break practices
@@ -62,7 +62,7 @@ Saline District Library
 -   Spring Team needs/requests: Replace the trailer, Matt will put a list
     together for the next
 
-### Transportation coordinator
+### Transportation Coordinator
 
 -   Need to get information out to the group once we know for sure we are not
     going to the London ON regatta
