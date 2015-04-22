@@ -2,24 +2,41 @@
 layout: post  
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
+![Gragg](http://i.imgur.com/k6GYKEK.jpg)
+
+Rower: Megan Gragg  
+Parents: Jeff and Sara
+
+Megan is a 9th grade novice rower. Besides crew, Megan loves to read and listen
+to all genres of music. She is especially in to anything she can get on vinyl
+for her record player.
+
+--------------------------------------------------------------------------------
 
 ![Pfannes](http://i.imgur.com/tCP0UI3.jpg)
 
 Rower: Eddie Pfannes  
 Parents: Ed and Heidi Pfannes
 
-Eddie is a novice 9th Grader.  He is working on his Eagle Rank in Boy Scouts, and he plays trombone in the marching band.  He is also glad to have met the rowers on the team.
+Eddie is a novice 9th Grader. He is working on his Eagle Rank in Boy Scouts, and
+he plays trombone in the marching band. He is also glad to have met the rowers
+on the team.
 
----
+--------------------------------------------------------------------------------
 
 ![Campbell](http://i.imgur.com/3feE2Ma.jpg)
 
 Rower: Justin  
 Parents: Julie and Mike, sister Elise.
 
-Justin is a freshman novice rower and also plays the tuba/sousaphone in the Marching Band and Pep Band.  Justin likes to travel, especially if there's an ocean involved, and going on our frequent multi-family camping weekends (although our camping season has shortened to only summer since he's gotten involved in crew).  In the little spare time Justin has, he's usually found playing video games online with his friends. 
+Justin is a freshman novice rower and also plays the tuba/sousaphone in the
+Marching Band and Pep Band. Justin likes to travel, especially if there's an
+ocean involved, and going on our frequent multi-family camping weekends
+(although our camping season has shortened to only summer since he's gotten
+involved in crew). In the little spare time Justin has, he's usually found
+playing video games online with his friends.
 
----
+--------------------------------------------------------------------------------
 
 ![Penny](http://i.imgur.com/M1MmHvJ.jpg)
 
