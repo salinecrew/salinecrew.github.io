@@ -681,12 +681,12 @@ Everything a Parent and Rower needs to know about food at Regattas:
     volunteer opportunities ([Volunteer Positions &
     Responsibilities](#volunteer)
 
-    -   Food Coordinator – Lorna Gibson
-    -   Shopper – Lorna Gibson
-    -   Head Cook – Shelley Wolff
-    -   Food Trailer Organizers (regatta prep. / packing) - Lorna Gibson/Cheryl
-        Brill
-    -   Food Trailer Transportation – VOLUNTEER NEEDED!
+    -   Food Coordinator – {{site.data.members.food-coordinator}}
+    -   Shopper – {{site.data.members.food-shopper}}
+    -   Head Cook – {{site.data.members.food-head-cook}}
+    -   Food Trailer Organizers (regatta prep. / packing) -
+        {{site.data.members.equipment-manager}}
+    -   Food Trailer Transportation – {{site.data.members.food-trailer-towing}}
     -   People willing to help cook breakfast and/or lunch.
     -   People willing to check drink/food supply during regattas.
     -   People willing to bring baked goods to each regatta
