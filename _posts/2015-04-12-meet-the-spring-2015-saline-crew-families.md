@@ -5,7 +5,8 @@ title: 'Meet the Spring 2015 Saline Crew Families'
 
 ![Fric](http://i.imgur.com/toihfsJ.jpg)
 
-Rower: Emma Frick Parents: Chris and Kelly Frick
+Rower: Emma Frick  
+Parents: Chris and Kelly Frick
 
 Emma is a 10th grade Varsity rower. She has occasionally served as a coxswain,
 although she prefers her regular seat in the bow. She also dances tap at Dance
