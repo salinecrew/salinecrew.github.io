@@ -20,7 +20,8 @@ equipment maintenance, repairs and updates as well as for boat house expenses.
                   Prize for best costume!
 
 Space limited to 150 guests. Please purchase tickets early, as we may not be
-able to offer tickets sales at the door.
+able to offer tickets sales at the door. *We'll have more details purchases
+shortly*.
 
     TENATIVE Evening Schedule:
 
