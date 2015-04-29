@@ -2,8 +2,18 @@
 layout: post  
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
+![Inge](http://i.imgur.com/G1LQNCV.png)
+![Inge](http://i.imgur.com/T105Im5.png)
 
-![Fric](http://i.imgur.com/toihfsJ.jpg)
+Rower: Jocelynn Inge  
+Parent: Judy Inge
+
+Jocelynn is a novice sophomore. She is in rowing, likes water skiing,
+volleyball, cooking.
+
+--------------------------------------------------------------------------------
+
+![Frick](http://i.imgur.com/toihfsJ.jpg)
 
 Rower: Emma Frick  
 Parents: Chris and Kelly Frick
