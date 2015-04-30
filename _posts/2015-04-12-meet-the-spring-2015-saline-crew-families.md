@@ -6,7 +6,7 @@ title: 'Meet the Spring 2015 Saline Crew Families'
 ![Inge](http://i.imgur.com/T105Im5.png)
 
 Rower: Jocelynn Inge  
-Parent: Judy Inge
+Parents: Jeffrey and Judy Inge
 
 Jocelynn is a novice sophomore. She is in rowing, likes water skiing,
 volleyball, cooking.
