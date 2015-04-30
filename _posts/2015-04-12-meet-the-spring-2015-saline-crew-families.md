@@ -2,8 +2,16 @@
 layout: post  
 title: 'Meet the Spring 2015 Saline Crew Families'
 ---
-![Inge](http://i.imgur.com/G1LQNCV.png)
-![Inge](http://i.imgur.com/T105Im5.png)
+
+![image1](http://i.imgur.com/EgFRndA.jpg)
+
+Alle/Sass Fiske is a varsity rower. She enjoys in depth conversations with her
+monkey Congo in her car, peace signs, freestyle dance battles, and juice boxes.
+In the time she has left over, she makes Dubsmashes.
+
+--------------------------------------------------------------------------------
+
+![Inge](http://i.imgur.com/G1LQNCV.png) ![Inge](http://i.imgur.com/T105Im5.png)
 
 Rower: Jocelynn Inge  
 Parents: Jeffrey and Judy Inge
