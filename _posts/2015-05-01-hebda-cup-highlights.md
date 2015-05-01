@@ -5,7 +5,7 @@ title: "Hebda Cup Highlights"
 I was a chilly day on Detroit River with temperatures hovering in the 40's,
 winds blowing 15-20 mph.
 
-[Final Results](assets/forms/2015-hebda-cup-results.pdf)
+[Final Results](/assets/forms/2015-hebda-cup-results.pdf)
 
 I'm told the heat results will be posted sometime later.
 
