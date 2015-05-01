@@ -2,7 +2,7 @@
 layout: post  
 title: "Hebda Cup Highlights"
 ---
-I was a chilly day on Detroit River with temperatures hovering in the 40's,
+I was a chilly day on the Detroit River with temperatures hovering in the 40's,
 winds blowing 15-20 mph.
 
 [Final Results](/assets/forms/2015-hebda-cup-results.pdf)
