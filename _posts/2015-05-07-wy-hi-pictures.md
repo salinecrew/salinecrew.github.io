@@ -23,8 +23,14 @@ Chris Frick
 
 ### Pictures
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Oz4zG">
-<a href="//imgur.com/a/Oz4zG">2015-05-02-Wy-Hi</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![](https://i.imgur.com/KZGZEkT.jpg)
+
+![](https://i.imgur.com/ivEKd0l.jpg)
+
+![](https://i.imgur.com/t247uFj.jpg)
+
+![](https://i.imgur.com/ge8jfEJ.jpg)
+
 
 [Additional Pictures](https://salinecrew.shutterfly.com/)
 
