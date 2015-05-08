@@ -4,6 +4,8 @@ title: "Salt Springs Sprints 2015"
 ---
 Important Links:
 
+-   [Race Schedule and
+    Results](https://docs.google.com/spreadsheets/d/1sPfrl-BZZAwGDOhFW4Cqzq0HjrOSvvoy276ygZuo_ZI/edit?usp=sharing)
 -   [Sign Up Genius - We need your
     help!](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-salt)
 -   [Salt Springs Sprints Events
