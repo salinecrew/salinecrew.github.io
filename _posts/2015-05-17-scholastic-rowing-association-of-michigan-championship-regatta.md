@@ -2,8 +2,8 @@
 layout: post  
 title: "Scholastic Rowing Association of Michigan Championship Regatta"
 ---
-As weather goes, we had a great day. A little wet in the morning but by race
-time, the rain stopped. Overcast skies kept the temperatures in the 70's most of
+As weather goes, we had a great day. A little wet in the morning, but by race
+time the rain stopped. Overcast skies kept the temperatures in the 70's most of
 the day making for comfortable conditions.
 
 ![champion-2](http://i.imgur.com/BPKE6fv.jpg)
