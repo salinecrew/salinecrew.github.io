@@ -9,22 +9,22 @@ Ann Arbor -
 
 **Apr 25, 2015**  
 Hebda Cup -
-[Results](http://salinecrew.org/assets/forms/2015-hebda-cup-results.pdf)  
+[Results](http://salinecrew.org/assets/forms/2015-hebda-cup-results.pdf) - 
 [Post](<http://salinecrew.org/2015/05/01/hebda-cup-highlights/>)
 
 **May 2, 2015**  
 Wy-Hi -
-[Results](http://wyandotteboatclub.com/home/2015/04/23/hebda-cup-heat-sheet/)  
+[Results](http://wyandotteboatclub.com/home/2015/04/23/hebda-cup-heat-sheet/) - 
 [Post](<http://salinecrew.org/2015/05/07/wy-hi-pictures/>)
 
 **May 9, 2015**  
 Salt Springs Sprints -
-[Results](https://docs.google.com/spreadsheets/d/1sPfrl-BZZAwGDOhFW4Cqzq0HjrOSvvoy276ygZuo_ZI/edit?usp=sharing)  
+[Results](https://docs.google.com/spreadsheets/d/1sPfrl-BZZAwGDOhFW4Cqzq0HjrOSvvoy276ygZuo_ZI/edit?usp=sharing) - 
 [Post](<http://salinecrew.org/2015/05/11/salt-springs-sprints-press/>)
 
 **May 16, 2015**  
 Grand Rapids High School State Championships -
-[Results](http://salinecrew.org/assets/forms/2015-championship-regatta-all-results-grouped-by-event.pdf)  
+[Results](http://salinecrew.org/assets/forms/2015-championship-regatta-all-results-grouped-by-event.pdf) - 
 [Post](<http://salinecrew.org/2015/05/17/scholastic-rowing-association-of-michigan-championship-regatta/>)
 
 **May 30, 2015**  
