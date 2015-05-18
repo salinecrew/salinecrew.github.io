@@ -12,3 +12,5 @@ rallied to make this happen. Truly a community effort.
 [Press Release](/assets/forms/boathousegrandopeningrelease.pdf)
 
 [Ypislanti Heritage](<http://www.heritage.com/articles/2015/05/17/ypsilanti_courier/news/doc55552e7216cc0014960050.txt>)
+
+[EMU Eagle News](<http://www.emueagles.com/news/2015/5/15/WROW_0515151646.aspx?path=wrow>)
