@@ -2,7 +2,7 @@
 layout: post  
 title: "Boat House Grand Opening"
 ---
-![grand-opening](http://i.imgur.com/ceaIqCt.jpg)
+![passthru_imagecredit_rowing](http://i.imgur.com/iOcpcYp.jpg)
 
 It was inspiring to hear the history of the many people and institutions that
 rallied to make this happen. Truly a community effort.
