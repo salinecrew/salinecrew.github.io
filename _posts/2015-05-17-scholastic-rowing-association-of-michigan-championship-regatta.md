@@ -19,6 +19,8 @@ outstanding result. Go Hornets!
 
 [MLive Article - Same text, different pictures](http://highschoolsports.mlive.com/news/article/3113027724245472950/saline-hornet-rowers-bring-home-medals-from-state-championships/)
 
+[Saline Post](<http://thesalinepost.com/article/section/sports/blog/hornet-crew/saline-crew-wins-2-races-earns-several-medals-state>)
+
 Heidi and Nicole will have lots of pictures for us soon. In the meantime, you're
 stuck with one my videos :).
 
