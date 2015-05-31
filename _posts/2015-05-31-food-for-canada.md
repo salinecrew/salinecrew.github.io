@@ -3,7 +3,7 @@ layout: post
 title: "Food for Canada"
 ---
 
-![nofood](C:/Users/mike/Desktop/nofood.jpg)
+![nofood](http://i.imgur.com/ORkG7Ar.jpg)
 
 The food trailer will not be utilized at the Canadian Regatta. It will be up to
 each family to provide food and beverages for their rower.
