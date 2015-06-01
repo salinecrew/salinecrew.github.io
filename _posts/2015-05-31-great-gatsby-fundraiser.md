@@ -11,6 +11,7 @@ Crew parents,
 - [Great Gatsby Regatta 2015 Invite](http://salinecrew.org/assets/forms/2015-gatsby-invite.pdf)
 - [Sponsor Form](http://salinecrew.org/assets/forms/2015-gatsby-sponsor-form.pdf)
 - [Business Owner Letter](http://salinecrew.org/assets/forms/2015-gatsby-business-owner-letter.pdf)
+- [Commitment Form](http://salinecrew.org/assets/forms/2015-gatsby-commitment-form.pdf)
 
 
 We need your help securing the items our guests will be bidding on at the
