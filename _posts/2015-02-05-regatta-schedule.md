@@ -28,7 +28,7 @@ Grand Rapids High School State Championships -
 [Post](<http://salinecrew.org/2015/05/17/scholastic-rowing-association-of-michigan-championship-regatta/>)
 
 **May 30, 2015**  
-Scrimmage
+Scrimmage - [Post](<http://salinecrew.org/2015/05/31/scrimmage-at-ford-lake/>)
 
 **Jun 6 - 7, 2015**  
 Canadian School Rowing Championship (St Catherines, Ontario) - Varsity and
