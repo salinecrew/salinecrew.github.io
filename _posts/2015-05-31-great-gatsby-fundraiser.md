@@ -14,7 +14,7 @@ Crew parents,
 
 
 We need your help securing the items our guests will be bidding on at the
-auction. So we have put together a [Buiness List (Signup
+auction. So we have put together a [Business List (Signup
 Genius)](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor) sheet as we do
 not want to "double dip" any of the local businesses. If you are unsure how to
 contact a business for an auction donation, please feel free to contact me,
