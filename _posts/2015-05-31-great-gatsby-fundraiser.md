@@ -1,7 +1,6 @@
 ---
 layout: post  
-title: "Great Gatsby Fundraiser"  
-published: false
+title: "Great Gatsby Fundraiser"
 ---
 
 Crew parents,
@@ -10,9 +9,9 @@ Crew parents,
 Important Links:
 
 - [Business List (Signup Genius)](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor)
-- [Great Gatsby Regatta 2015 Invite](http://salinecrew.org/forms/2015-gatsby-invite.pdf)
-- [Sponsor Form](http://salinecrew.org/forms/2015-gatsby-sponsor-form.pdf)
-- [Business Owner Letter](http://salinecrew.org/forms/2015-business-owner-letter.pdf)
+- [Great Gatsby Regatta 2015 Invite](http://salinecrew.org/assets/forms/2015-gatsby-invite.pdf)
+- [Sponsor Form](http://salinecrew.org/assets/forms/2015-gatsby-sponsor-form.pdf)
+- [Business Owner Letter](http://salinecrew.org/assets/forms/2015-business-owner-letter.pdf)
 
 </div>
 
