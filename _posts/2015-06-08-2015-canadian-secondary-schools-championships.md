@@ -12,7 +12,7 @@ This was my first year at CSSRA. It's a great venue and wonderful setting. I do
 think next year I'll try to organize some after event activities at the local
 watering holes now that I know what's what.
 
-We didn't get to see the starts from where we were positioned. There different
+We didn't get to see the starts from where we were positioned. They're different
 in that the boats are held in position from a fixed dock. This
 [video](https://youtu.be/O3-bZFBmbVc) shows how it's done.
 
