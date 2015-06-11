@@ -10,8 +10,8 @@ Tuesday, June 2, 2015, 7pm
 
 -   President: Chris Frick
 -   Coach: Matt LeBlanc
--   Vice President: Mark Eby Transport
--   Coor: Carol Torssell\*
+-   Vice President: Mark Eby 
+-   Transport Coor: Carol Torssell\*
 -   Secretary: Sheryl Wagner
 -   Captains:
     -   Michael Torrsell\*
