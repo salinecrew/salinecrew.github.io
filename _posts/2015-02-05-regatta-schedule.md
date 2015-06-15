@@ -39,9 +39,12 @@ select novice rowers - [Post](<http://salinecrew.org/2015/06/08/2015-canadian-se
 
 ## Summer
 
-**June 27** - Michigan state games @ Grand Rapids
+**June 27**   
+Michigan state games @ Grand Rapids
 
-**July 11** -  Wyandotte
+**July 11**   
+Wyandotte
 
-**July 25** - Michigan Club Inv. Ann Arbor
+**July 25**  
+Michigan Club Inv. Ann Arbor
  
