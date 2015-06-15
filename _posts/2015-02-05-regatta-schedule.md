@@ -2,6 +2,9 @@
 layout: post
 title:  "2015 Regatta Schedule"
 ---
+
+## Spring
+
 **Apr 18, 2015**  
 Ann Arbor -
 [Results](https://docs.google.com/spreadsheets/d/11GS0M-BJpz4nOtYQWp12cJ2dFjyH0Pted8KJufuPyBw/edit#gid=1),
@@ -33,3 +36,12 @@ Scrimmage - [Post](<http://salinecrew.org/2015/05/31/scrimmage-at-ford-lake/>)
 **Jun 6 - 7, 2015**  
 Canadian School Rowing Championship (St Catherines, Ontario) - Varsity and
 select novice rowers - [Post](<http://salinecrew.org/2015/06/08/2015-canadian-secondary-schools-championships/>)
+
+## Summer
+
+**June 27** - Michigan state games @ Grand Rapids
+
+**July 11** -  Wyandotte
+
+**July 25** - Michigan Club Inv. Ann Arbor
+ 
