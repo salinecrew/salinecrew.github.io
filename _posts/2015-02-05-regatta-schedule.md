@@ -32,4 +32,4 @@ Scrimmage - [Post](<http://salinecrew.org/2015/05/31/scrimmage-at-ford-lake/>)
 
 **Jun 6 - 7, 2015**  
 Canadian School Rowing Championship (St Catherines, Ontario) - Varsity and
-select novice rowers
+select novice rowers - [Post](<http://salinecrew.org/2015/06/08/2015-canadian-secondary-schools-championships/>)
