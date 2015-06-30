@@ -3,9 +3,10 @@ layout: post
 title: "Great Gatsby Fundraiser"
 ---
 
-[![buy-tickets-now-icon](http://i.imgur.com/KP3ECIz.png)](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
+[![buy-tickets-now-icon](http://i.imgur.com/aGeFHe2.png)](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
 
 Crew parents,
+
 
 **Important Links**
 
