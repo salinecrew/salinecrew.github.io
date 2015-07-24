@@ -80,9 +80,7 @@ Crew Clothing 
 Crew Treasurer
 --------------
 
--   [Reimbursement for Mileage
-    Form](/assets/forms/2015-mileage-reimp.pdf) (use this one, even
-    if it says 2011)
+-   [Reimbursement for Mileage Form](/assets/forms/2015-mileage-reimb.pdf)
 -   [Reimbursement Form](/assets/forms/crew-fund-request.pdf) (for other than
     mileage reimbursement)
 
