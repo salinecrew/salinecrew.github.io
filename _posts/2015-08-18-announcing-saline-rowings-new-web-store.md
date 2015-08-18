@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Announcing Saline Rowing's New Web Store'
+title: "Announcing Saline Rowing's New Web Store"
 ---
 
 Hello Rowers and Families!
