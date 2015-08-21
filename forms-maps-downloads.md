@@ -13,7 +13,7 @@ Important Docs
 Regatta Forms
 -------------
 
--   Regatta food - Pay Online - [2014 Fall Parent and Guest
+-   Regatta food - Pay Online - [Fall Parent and Guest
     food Form](/assets/forms/2013-saline-crew-2013-spring-regatta-food-family-guest-form.pdf)
 
 Fee Payment online: 
@@ -37,14 +37,14 @@ Forms Required to be a Crew Member
     The following forms are to be completed and turned in at the mandatory
     parent / rower meeting each season (or as otherwise noted):
 
-    -   [2014 Rowers Info
+    -   [Rowers Info
         Form](https://docs.google.com/forms/d/1iJLMX1Kcgj5D1nVZLIGiQSxIwgd107wT9lYbTz6XN80/viewform?usp=send_form) **(now
         online**) 
 
     -   [Crew Team Transportation Authorization
         Form](/assets/forms/transportation-authorization-form.pdf) 
 
-    -   [2014 US Rowing Liability Release
+    -   [US Rowing Liability Release
         Form](/assets/forms/2014-us-rowing-waiver.pdf)  (update **each calendar
         year**)
 
