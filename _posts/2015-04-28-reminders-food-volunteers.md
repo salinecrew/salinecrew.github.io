@@ -20,7 +20,7 @@ weekend. Please check the sign up genius on the team site and volunteer today.
 Signup](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-regatta)
 
 [About Regatta
-Volunteering](http://salinecrew.org/2015/04/13/regatta-food-responsibilities-volunteer-outline/)
+Volunteering](http://salinerowing.org/2015/04/13/regatta-food-responsibilities-volunteer-outline/)
 
 Thanks again for all of our help!
 

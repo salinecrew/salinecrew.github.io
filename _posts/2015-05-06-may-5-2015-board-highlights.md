@@ -32,7 +32,7 @@ of the highlights from the meeting.
     Thursday, May 14 at 4:00. The invitation has been added to our team website.
     All are welcome. Our club will be hosting a grand opening this summer to
     show off the boathouse to alumni and current club members. [Look for
-    information in the near future](<http://salinecrew.org/2015/05/06/boat-house-grand-opening/>).
+    information in the near future](<http://salinerowing.org/2015/05/06/boat-house-grand-opening/>).
     
     ![gatsby](http://i.imgur.com/W1QGJAs.jpg)
 

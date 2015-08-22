@@ -6,7 +6,7 @@ title: "2015 Canadian Secondary Schools Championships"
 ![Hats-Off-Warm-Fuzzy](http://i.imgur.com/RTtslJE.jpg)
 
 Hats off to our Senior Men's 8 making the finals! Official results can be found
-[here](http://salinecrew.org/assets/forms/2015%20CSSRA%20Sunday%20Final%20Results.pdf)
+[here](http://salinerowing.org/assets/forms/2015%20CSSRA%20Sunday%20Final%20Results.pdf)
 
 This was my first year at CSSRA. It's a great venue and wonderful setting. I do
 think next year I'll try to organize some after event activities at the local

@@ -29,7 +29,7 @@ Genius](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-salt) and volunteer
 today. We need help from everyone to make this event a success for all of the
 competitors and make them want to come back next year. A link has been added to
 the team site for information on the Salt Springs Sprints. Continue to check the
-team site <http://salinecrew.org> for updates throughout the week.
+team site <http://salinerowing.org> for updates throughout the week.
 
 Thank you for your support of the team and GO HORNETS!
 
