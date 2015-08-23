@@ -1,15 +1,15 @@
 ---
 layout: page
-title:  'Join Crew'
+title:  'Join Saline Rowing'
 ---
-What is Crew?
--------------
+What is Saline Rowing?
+----------------------
 
 --------------------------------------------------------------------------------
 
 <iframe id="join-crew-video" src="//player.vimeo.com/video/43685328?title=0&amp;byline=0&amp;portrait=0" frameborder="0">
 </iframe>
-The Saline High School Crew Club is a club sport for both men and women. The
+The Saline High School Rowing Club is a club sport for both men and women. The
 club was founded in 2004 and is managed by a board of directors, comprised of
 parents, coaches and team captains.
 
@@ -30,9 +30,9 @@ Interested?
 Click [here](#join) if you are interested in joining the team. You will be glad
 you did!
 
-### Rower's Top 10 Reasons To Join Crew
+### Rower's Top 10 Reasons To Join Saline Rowing
 
-1.  Crew tans are really *cooool*.
+1.  Rowing tans are really *cooool*.
 2.  It's one sport that you can do sitting down, going backwards.
 3.  You'll have a new love for water...no matter how cold it is.
 4.  It's a total body workout that will get you in shape for bikini weather
@@ -47,39 +47,41 @@ you did!
 
 9.  Next time you ride in any kind of boat, you can babble on and on using
     technical boat terms and people will think you're an accomplished seaman.
-10. Being in a crew race is the same as having 8 people run a 7 minute 2k -- in
-    step!
+10. Being in a rowing race is the same as having 8 people run a 7 minute 2k --
+    in step!
 
 <a name="join"></a>
 
-How to Join Saline Crew
------------------------
+How to Join Saline Rowing
+-------------------------
 
 --------------------------------------------------------------------------------
 
 ![hoody](/assets/images/hoody.jpg)
 
-Follow the instructions below to join the Saline High School Crew for the
+Follow the instructions below to join the Saline High School Rowing for the
 season. Please plan ahead, especially when it comes to filling out the required
 forms, as some forms require testing.
 
-To become a member of the Saline Crew, you must:
+To become a member of the Saline Rowing, you must:
 
 1.  Complete the swim test.
-2.  Complete all the [forms](/forms-maps-downloads) on the Crew Forms page.
-    Forms must be turned in no later than the first day of practice. 
+2.  Complete all the [forms](/forms-maps-downloads) on the Downloads and
+    Forms page. Forms must be turned in no later than the first day of
+    practice. 
 3.  Attend the mandatory Rower/Parent meeting in the Saline High School Commons.
     Bring your checkbook and your calendar to write down practice and regatta
     dates and times. This would also be a good time to turn in the forms you
     filled out in step 2.
 4.  Pay fees for the season.
-5.  Order the Crew Unisuit  (required for Regatta's)
-6.  Attend the first day of practice. Check the calendar and/or
+5.  Order the Rower Unisuit  (required for Regatta's)
+6.  Order the Rower Cap  (required for Regatta's)
+7.  Attend the first day of practice. Check the calendar and/or
     schedule [online](/parent-corner#practice).
 
 ### Fees
 
-Saline Crew is a club sport, and, like other club sports, it is supported and
+Saline Rowing is a club sport, and, like other club sports, it is supported and
 run by the families of the participating athletes.
 
 Fees are payable at the beginning of the season. Seasonal dues pay for coaches
@@ -99,7 +101,7 @@ The coaches will organize the practice transportation car pools. They will
 assign rowers to specific cars and distribute funds to assigned drivers.
 Transportation Fee $75.00: **Payable to CASH**
 
-**NOTE: Dues checks should be made payable to Saline Area Schools/CREW**
+**NOTE: Dues checks should be made payable to Saline Area Schools/Rowing Club**
 
 Send payment for registration to:
 
@@ -147,18 +149,18 @@ All rowers must pass a swim test before they are allowed to practice on the
 water. The swim test can be taken at the Saline Recreation Center (refer to the
 swim test form for more information).
 
-Saline Crew follows all safety guidelines as established by the US Rowing
+Saline Rowing follows all safety guidelines as established by the US Rowing
 Association <http://www.usrowing.org/>
 
-### Forms Required to be a Crew Member
+### Forms Required to be a Saline Rowing Member
 
 [View the full list of forms required](/forms-maps-downloads)
 
-### Documents Supporting Crew Practice
+### Saline Rowing Practice
 
 [Map](/assets/forms/directions-to-ford-lake.pdf) 
 
-### Crew Clothing
+### Rower Clothing
 
 [need link]()
 
@@ -176,12 +178,12 @@ A Little History and Some Accomplishments
 
 ![Paddle](/assets/images/oar_hornet_gupy.jpg)
 
-Saline High Crew began as the result of a student promoting rowing to other high
-school students. The transfer student had recently moved from a Grand Rapids
-high school with an established rowing program and was interested in continuing
-to participate in this water sport. Saline was fortunate to have 2 teachers that
-had university coaching and rowing experience that were able to organize and
-lead a new program.
+Saline High Rowing began as the result of a student promoting rowing to other
+high school students. The transfer student had recently moved from a Grand
+Rapids high school with an established rowing program and was interested in
+continuing to participate in this water sport. Saline was fortunate to have 2
+teachers that had university coaching and rowing experience that were able to
+organize and lead a new program.
 
 The team began with a parent board of 5 volunteers, 14 student athletes and the
 generosity of a Lenawee County family that donated usage of their property,
@@ -212,8 +214,8 @@ alumni student coaches to assist with the program.
 
 <a name="mission"></a>
 
-Saline Crew Mission
--------------------
+Saline Rowing Mission
+---------------------
 
 --------------------------------------------------------------------------------
 
@@ -225,8 +227,8 @@ Midwest Scholastic Rowing Association.
 
 <a name="vision"></a>
 
-Saline Crew Vision
-------------------
+Saline Rowing Vision
+--------------------
 
 --------------------------------------------------------------------------------
 

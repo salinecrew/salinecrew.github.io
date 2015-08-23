@@ -5,10 +5,9 @@ title:  'Parent Corner'
 ![Parents Cheering](/assets/images/cheering-them-on.jpg)
 
 We have tried to provide you with everything you need to know about Saline's
-Rowing Team, Saline Crew. You will find answers to frequently asked questions,
-board members, volunteer opportunities and needs. You can also check here for
-crew clothing requirements and transportation for both the regattas and
-practices.
+Rowing Team. You will find answers to frequently asked questions, board members,
+volunteer opportunities and needs. You can also check here for rower clothing
+requirements and transportation for both the regattas and practices.
 
 <a name="practice"></a>
 
@@ -23,15 +22,15 @@ each year.*
 1.  **Winter Conditioning/ Highly encouraged** – Typically begins the second
     week in January. Parents and / or rowers are expected to provide their own
     transportation. 
-    -   **Erging** – Location: Liberty School Practices generally run 3 days per
-        week.
+    -   **Erging** – Location: Liberty School Practices generally run 3 days
+        per week.
     -   **Weight & Fitness Training** – Location: Saline High School Practices
         generally run 1 to 2 days per week.
 
 2.  **Mandatory “In-Season” Practices** – Fall Season: Begins just after school
-    begins through early-November. Spring Season: Begins in March and ends in
-    May/June. Rowers will carpool to practices as assigned at the beginning of
-    the season based on parent transportation consent forms. 
+    begins through early-November. Spring Season: Begins in March and ends
+    in May/June. Rowers will carpool to practices as assigned at the beginning
+    of the season based on parent transportation consent forms. 
     -   **Erging** – Location: Liberty School (until weather permits
         on-the-water practices at Ford Lake). Practices are Mon- Thurs after
         school and Saturday morning 9am, when there is not a Regatta.
@@ -45,7 +44,7 @@ each year.*
     -   **Regatta's**
 
 There are generally four to five regatta's each season. You can read about ["How
-to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, crew alumni parent. You
+to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, Rower alumni parent. You
 can also link to [view the regatta
 schedule]({{site.data.links.regatta-schedule}})
 
@@ -91,7 +90,7 @@ Bylaws]({{site.data.links.bylaws}})
 -   Regatta Transporation - {{site.data.members.transportation}}  
     [mailto:{{site.data.members.transportation-email}}](mailto:{{site.data.members.transportation-email}})
 
--   Crew Clothing - {{site.data.members.crew-clothing}}  
+-   Rower Clothing - {{site.data.members.crew-clothing}}  
     [mailto:{{site.data.members.crew-clothing-email}}](mailto:{{site.data.members.crew-clothing-email}})
 
 -   Rent a Rower/Hire a Crew - {{site.data.members.rent-a-rower}}  
@@ -126,10 +125,10 @@ Registration Fees
 
 --------------------------------------------------------------------------------
 
-Saline Crew is a club sport, and, like other club sports, it is supported and
+Saline Rowing is a club sport, and, like other club sports, it is supported and
 run by the families of the participating athletes.
 
-**NOTE: Saline Crew is not part of Saline Area Schools "pay to play".**
+**NOTE: Saline Rowing is not part of Saline Area Schools "pay to play".**
 
 **NEW ROWERS - 1st Season ONLY - $375** (Program Registration Fees : $325, Rower
 Regatta Food $50.00)
@@ -171,13 +170,15 @@ out-of-pocket costs for the fees.*
 
 <a name="clothing"></a>
 
-Crew Clothing
--------------
+Rower Clothing
+--------------
 
 --------------------------------------------------------------------------------
 
-The only required clothing item is the Saline Unisuit by JL Racing. The rowers
-are required to wear the Unisuit at all regattas.
+The only required clothing items are the Saline Unisuit by JL Racing and a white
+cap available at
+[http://hornetcoutry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1).
+The rowers are required to wear the unisuit and white cap at all regattas.
 
 There are numerous other clothing items available.
 
@@ -185,23 +186,23 @@ There are numerous other clothing items available.
 
 ![unisuits](/assets/images/unisuit.jpg)
 
-<a name="faq"></a>
+[http://hornetcoutry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1)
 
 Frequently Asked Questions
 --------------------------
 
 --------------------------------------------------------------------------------
 
-### How much does crew cost?
+### How much does rowing cost?
 
 It costs $700.00 to join the team. Plus travel costs for practices &
 regattas. [Get the specifics](/join-crew#join) 
 
 ### Why does it cost so much?
 
-Crew is a club sport so it receives no funding from the School athletic budget.
-The money from fees is used to buy equipment, pay for regatta fees, coaches
-salaries, transporting the boats and equipment etc.
+Rowing is a club sport so it receives no funding from the School athletic
+budget. The money from fees is used to buy equipment, pay for regatta fees,
+coaches salaries, transporting the boats and equipment etc.
 
 ### Are there scholarships
 
@@ -216,8 +217,8 @@ sense.
 
 ### What if I have never rowed before?
 
-Most students who join crew have never rowed before. We will teach you what you
-need to know so don't worry if you're new.
+Most students who join rowing have never rowed before. We will teach you what
+you need to know so don't worry if you're new.
 
 ### What if I am not a good swimmer?
 
@@ -361,7 +362,7 @@ Spring 2015 Season
 -   Sets agendas
 -   Main Liaison with the coaches
 -   Main Liaison with Saline High School and Community Ed
--   Delegates duties and jobs to other Board Members and crew team volunteers
+-   Delegates duties and jobs to other Board Members and rowing team volunteers
 
 ### Vice President - {{site.data.members.vice-president}}
 
@@ -373,9 +374,9 @@ Spring 2015 Season
 
 ### Treasurer - {{site.data.members.treasurer}}
 
--   Maintains crew budget
+-   Maintains Saline Rowing's budget
 -   Submits appropriate paperwork to the school
--   Submits crew team bills/reimbursement
+-   Submits Saline Rowing team bills/reimbursement
 -   Prepares monthly/seasonal reports
 -   Sends correspondence to donors/sponsors
 -   Main Liaison with Saline High School and Community Ed
@@ -383,16 +384,16 @@ Spring 2015 Season
 ### Secretary - {{site.data.members.secretary}}
 
 -   Maintains board meeting minutes
--   Maintains crew team roster with phone numbers/email/addresses
+-   Maintains Saline Rowing team roster with phone numbers/email/addresses
 -   Sends correspondence as appropriate
--   Maintains all crew documents
+-   Maintains all Saline Rowing documents
 -   Reserves library meeting rooms
 
 ### Equipment Manager - {{site.data.members.equipment-manager}}
 
 -   Ensures trailers have appropriate tags and inspections
 -   Submits forms to treasurer and secretary as appropriate
--   Arranges for repairs/maintenance to crew equipment
+-   Arranges for repairs/maintenance to Saline Rowing equipment
 -   Keeps maintenance records for all equipment.
 
 ### Fund Raising Chair - {{site.data.members.fundraising}}
@@ -400,7 +401,7 @@ Spring 2015 Season
 -   Establishes fund raising activities for the year – including Capital
     Campaign
 -   Enlists help for events
--   Obtains crew sponsors/donors
+-   Obtains Saline Rowing sponsors/donors
 -   Submits all paperwork/expenses/donations to Treasurer
 -   Works with Secretary for correspondence to all sponsors/donors
 -   Works on advertising for fund raising events
@@ -410,11 +411,12 @@ Spring 2015 Season
 -   Writes articles for the Saline Reporter and submits in timely fashion
 -   Works with team photographer
 -   Assists with Web site management
--   Develop/update crew team brochure for community distribution
+-   Develop/update Saline Rowing team brochure for community distribution
 
 ### Web Master - {{site.data.members.web-master}}
 
--   Updates website based on changes provided from Saline Crew Board and coaches
+-   Updates website based on changes provided from Saline Rowing Board and
+    coaches
 -   Works with media rep and team photographer
 
 ### Team Photographer & End of Season Video
@@ -443,15 +445,15 @@ Spring 2015 Season
 -   Including Food
 -   Develops the “Program” - Will need to work with coaches and VP
 
-### Crew Clothing - {{site.data.members.crew-clothing}}
+### Rower Clothing - {{site.data.members.crew-clothing}}
 
 -   Manages clothing order and coordinates with vendors for pricing and timing
     to ensure clothing order is delivered by season's first regatta.
 
 <a name="regatta"></a>
 
-How to enjoy a Crew Regatta
----------------------------
+How to enjoy a Saline Rowing Regatta
+------------------------------------
 
 --------------------------------------------------------------------------------
 
@@ -607,8 +609,8 @@ regattas also sell rowing jewelry. These make great gifts!
 -   Take a few moments to make sure your rower has everything, sweats, shirts,
     hats etc.!!!
 -   Help take down the tents and pack up the food trailer.
--   Most rowers sleep on the way home! Make sure you can stay awake for the
-    drive.
+-   Most rowers sleep on the way home! Make sure you can stay awake for
+    the drive.
 -   Most importantly! Congratulate your rower on a great day!!! No matter the
     outcome!!
 
@@ -646,8 +648,8 @@ Everything a Parent and Rower needs to know about food at Regattas:
 2.  We serve approximately 80-100+ people each regatta, depending on number of
     rowers.  We serve approximately 150 people at each banquet.
 
-3.  Rowers and family members are served breakfast, lunch and snacks at each
-    regatta.
+3.  Rowers and family members are served breakfast, lunch and snacks at
+    each regatta.
 
 4.  Food is served 'tail-gate' style, with breakfast served as soon as possible
     upon arrival and set-up.  Lunch is served at approximately 11:30, with
@@ -658,8 +660,8 @@ Everything a Parent and Rower needs to know about food at Regattas:
 5.  We have the following equipment we use at each regatta:
 
     -   Two three-burner propane stoves and one portable grill
-    -   One large tent for the rowers and three smaller tents for cooking and
-        eating.
+    -   One large tent for the rowers and three smaller tents for cooking
+        and eating.
     -   Five tables for food preparation and food presentation
     -   Three large coolers, and two large drink dispensers
     -   Two large chafing dishes
@@ -667,8 +669,8 @@ Everything a Parent and Rower needs to know about food at Regattas:
     -   Assorted pots & pans
     -   Trailer to haul all equipment and food to each regatta
 
-6.  All rower family members are responsible for set-up of the tents before the
-    regatta.
+6.  All rower family members are responsible for set-up of the tents before
+    the regatta.
 
 7.  All rower family members are responsible for clean-up of site(s), take down
     of tents and loading the equipment trailer.
@@ -1106,9 +1108,9 @@ and prepare for the head to head competition in the Spring.
 <https://www.regattacentral.com/index.jsp>  
 Info can be found here for most of the regattas we attend.
 
-**Saline Crew Alumni**  
+**Saline Rowing Alumni**  
 <http://www.salinecrewalumni.webnode.com/>  
-For past members of the Saline Crew team.
+For past members of the Saline Rowing team.
 
 **Wyandotte Boat Club**  
 [Wyandotte Boat Club](http://www.wyandotteboatclub.com/wbcregattas.html)  
@@ -1136,7 +1138,7 @@ The boat company that makes our boats  
 The company that we buy our “ergs” and oars from. Great site for rowing training
 info.  
 
-**EMU crew**  
+**EMU Crew**  
 <http://emucrew.com/default.aspx>  
 We have alumni who row here and Coaches who rowed here.  
 
