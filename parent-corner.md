@@ -316,7 +316,7 @@ athletes as they are on a tight schedule to get prepared and race.
 [Yes]({{site.data.links.bylaws}})
 
 If you have questions, Contact
-[{{site.data.members.president}}]({{site.data.members.president-email}})
+[{{site.data.members.president}}](mailto:{{site.data.members.president-email}})
 
 <a name="transporation"></a>
 
@@ -343,7 +343,7 @@ cooperation and communication from parents to be sure all of rowers have
 transportation. Please be sure to do your part.
 
 Transportation -
-[{{site.data.members.transportation}}]({{site.data.members.transportation-email}})
+[{{site.data.members.transportation}}](mailto:{{site.data.members.transportation-email}})
 
 <a name="volunteer"></a>
 
