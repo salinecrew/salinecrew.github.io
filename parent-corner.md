@@ -178,7 +178,7 @@ Rower Clothing
 The only required clothing items are the Saline Unisuit by [JL
 Racing](http://www.jlracing.com/page.SalineHighSchoolCrew.html) and a white cap
 available at
-[http://hornetcoutry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1).
+[http://hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1).
 The rowers are required to wear the unisuit and white cap at all regattas.
 
 There are numerous other clothing items available.
@@ -187,7 +187,7 @@ There are numerous other clothing items available.
 
 ![unisuits](/assets/images/unisuit.jpg)
 
-[http://hornetcoutry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1)
+[http://hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1)
 
 Frequently Asked Questions
 --------------------------
