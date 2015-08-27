@@ -175,8 +175,9 @@ Rower Clothing
 
 --------------------------------------------------------------------------------
 
-The only required clothing items are the Saline Unisuit by JL Racing and a white
-cap available at
+The only required clothing items are the Saline Unisuit by [JL
+Racing](http://www.jlracing.com/page.SalineHighSchoolCrew.html) and a white cap
+available at
 [http://hornetcoutry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1).
 The rowers are required to wear the unisuit and white cap at all regattas.
 
@@ -341,11 +342,8 @@ Transportation coordination is a very important role and requires a lot of
 cooperation and communication from parents to be sure all of rowers have
 transportation. Please be sure to do your part.
 
-Practice Transportation -
-[{{site.data.members.transportation}}]({{site.data.members.transporation-email}})
-
-Regatta Transportation -
-[{{site.data.members.transportation}}]({{site.data.members.transporation-email}})
+Transportation -
+[{{site.data.members.transportation}}]({{site.data.members.transportation-email}})
 
 <a name="volunteer"></a>
 
