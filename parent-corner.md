@@ -82,7 +82,7 @@ Bylaws]({{site.data.links.bylaws}})
 -   {{site.data.members.member-at-large}} - Member at Large  
     [mailto:{{site.data.members.member-at-large-email}}](mailto:{{site.data.members.member-at-large-email}})
 
-**Spring 2015 Volunteer Committee Chairs**
+**Fall 2015 Volunteer Committee Chairs**
 
 -   Regatta Food Coordinator - {{site.data.members.food-coordinator}}  
     [mailto:{{site.data.members.food-coordinator-email}}](mailto:{{site.data.members.food-coordinator-email}})
@@ -136,7 +136,7 @@ Regatta Food $50.00)
 Fees are payable at the beginning of each season (note that there are two
 seasons, fall and spring). Seasonal dues pay for coaching salaries, insurance,
 gas, regatta fees, rower regatta food, boat maintenance, and other seasonal
-expenses. Dues for the Spring 2014 season are **$700.00** (Program Registration
+expenses. Dues for the Fall 2015 season are **$700.00** (Program Registration
 Fees : $650.00, Rower Regatta Food $50.00)
 
 Multiple Rower Discount (rowers from the same family):
@@ -352,7 +352,7 @@ Volunteer Positions & Responsibilities
 
 --------------------------------------------------------------------------------
 
-Spring 2015 Season
+Fall 2015 Season
 
 ### President - {{site.data.members.president}}
 
