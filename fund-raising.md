@@ -23,8 +23,9 @@ Yard Oar
 
 --------------------------------------------------------------------------------
 
-Yard Oar - Contact [Sheryl](mailto:sherylmo17@gmail.com) for ordering info. $35
-suggested donation (for the boathouse)
+Yard Oar -
+Contact [{{site.data.members.secretary}}](mailto:{{site.data.members.secretary-email}}) for
+ordering info. $35 suggested donation (for the boathouse)
 
  ![Yard Oar](/assets/images/yard-oar.jpg)  
  "Yard Oar"
@@ -55,7 +56,8 @@ scrip program offers Saline Crew a very easy way to raise funds for the team. 
 -   3% on recharges paid with a credit card.
 -   It is that easy. 
 
-Please contact Stacy Wellings to get your card. call: 734.649.6989
+Please contact
+[{{site.data.members.secretary}}](mailto:{{site.data.members.secretary-email}})
 
 <a name="boathouse"></a>
 
@@ -190,7 +192,7 @@ Equipment Wish List
 
 The following list contains items needed for the coming year. If you have any
 ideas for providing or acquiring any of these items or if you can help find a
-good resource, please send an e-mail to Shelley Wolff 
+good resource, please send an e-mail to \[{{site\] 
 
 ![Boat House Interior](/assets/images/boathousinterior.jpg)
 
