@@ -93,6 +93,6 @@ New Parents
 Gatsby Thank You notes
 ----------------------
 
--   [Donor Thank You](/assets/images/2013-thank-you-donor.png)
--   [Guest Thank You](/assets/images/2013-thank-you-guest.png)
+-   [2015 Donor Thank You](/assets/forms/gatsby-thank-you-for-contributing.pdf)
+-   [2015 Guest Thank You](/assets/forms/gatsby-thank-you-for-attending.pdf)
 
