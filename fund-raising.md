@@ -192,7 +192,8 @@ Equipment Wish List
 
 The following list contains items needed for the coming year. If you have any
 ideas for providing or acquiring any of these items or if you can help find a
-good resource, please send an e-mail to \[{{site\] 
+good resource, please send an e-mail to
+[{{site.data.members.equipment-manager}}](mailto:{{site.data.members.equipment-manager-email}})
 
 ![Boat House Interior](/assets/images/boathousinterior.jpg)
 
