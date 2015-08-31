@@ -57,6 +57,6 @@ Fall
 
 -   **Oct 24**, The Leelanau Chase
 
--   **Oct 31** *Alternate Race*, Heaf of the Eagle, Indianapolis IN
+-   **Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN
 
 
