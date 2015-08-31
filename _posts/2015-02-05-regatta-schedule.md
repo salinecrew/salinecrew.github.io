@@ -29,9 +29,9 @@ Spring
 -   **May 30**, Scrimmage -
     [Post](http://salinerowing.org/2015/05/31/scrimmage-at-ford-lake/)
 
--   **Jun 6 - 7**, Canadian School Rowing Championship (St Catherines, Ontario) -
-    Varsity and select novice rowers -
-    [Post](http://salinerowing.org/2015/06/08/2015-canadian-secondary-schools-championships/)
+-   **Jun 6 - 7**, Canadian School Rowing Championship (St Catherines, Ontario)
+    -   Varsity and select novice rowers -
+        [Post](http://salinerowing.org/2015/06/08/2015-canadian-secondary-schools-championships/)
 
 Summer
 ------
@@ -41,5 +41,22 @@ Summer
 -   **July 11**, Wyandotte
 
 -   **July 25**, Michigan Club Inv. Ann Arbor
+
+Fall
+----
+
+-   **Sept 12**, Detroit Boat Club
+
+-   **Sept 26**, Frog Town Regatta, Toledo OH
+
+-   **Oct 3**, Home Race @ Ford Lake
+
+-   **Oct 10**, Head of the Grand, Lansing MI
+
+-   **Oct 17-18** *Select Boats*, Head of the Charles, Boston MA
+
+-   **Oct 24**, The Leelanau Chase
+
+-   **Oct 31** *Alternate Race*, Heaf of the Eagle, Indianapolis IN
 
 
