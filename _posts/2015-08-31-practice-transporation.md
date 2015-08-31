@@ -35,8 +35,8 @@ transportation using the following link:
 <http://doodle.com/h56gabzwbie7svaa>
 
 If you have any questions regarding this process or if the doodle poll link is
-not working you can call or email as
-needed [(734-646-9151](tel:%28734-646-9151)) or <gaugina@gmail.com>.
+not working you can call or email as needed [734-646-9151](tel:734-646-9151) or
+<gaugina@gmail.com>.
 
 As the practice season starts before the novices have their meeting, the first
 couple of weeks of transportation may be a little unorganized. We will attempt
