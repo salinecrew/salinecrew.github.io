@@ -45,17 +45,17 @@ Summer
 Fall
 ----
 
--   **Sept 12**, Detroit Boat Club
+-   **Sept 12**, Detroit Boat Club (8:30 - 1:00)
 
--   **Sept 26**, Frog Town Regatta, Toledo OH
+-   **Sept 26**, Frog Town Regatta, Toledo OH (7:00 - 5:00)
 
--   **Oct 3**, Home Race @ Ford Lake
+-   **Oct 3**, Home Race @ Ford Lake (9:00 - 12:00)
 
--   **Oct 10**, Head of the Grand, Lansing MI
+-   **Oct 10**, Head of the Grand, Lansing MI (7:00 - 2:00)
 
 -   **Oct 17-18** *Select Boats*, Head of the Charles, Boston MA
 
--   **Oct 24**, The Leelanau Chase
+-   **Oct 24**, The Leelanau Chase (7:00 - 5:00)
 
 -   **Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN
 
