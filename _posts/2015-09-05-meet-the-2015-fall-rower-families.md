@@ -6,7 +6,7 @@ title: "Meet the 2015 Fall Rower Families"
 Time for family picture updates. I know we did this in the Spring but guess
 what? Your kids grow (especially when you feed them)! And of course we get new
 families. While you can use the Spring picture again, if you want to run with
-the cool <s>kids</s> parents, use a new one. A brief description about you
+the cool <s>kids</s> parents, use a new one. A brief description about your
 kid(s) is also encouraged.
 
 This is a great reference at regattas when meeting someone for the first time
