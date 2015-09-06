@@ -16,7 +16,16 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
-![Ward Family](http://i.imgur.com/73a1RoS.jpg)
+![Nowicki Family](http://i.imgur.com/nYMbHvx.jpg)
+
+Nowicki Family  
+Rower is Ted, junior  
+Parents: Matt and Jennifer  
+siblings are Madeline (19) and Jack (12)
+
+--------------------------------------------------------------------------------
+
+![ward](http://i.imgur.com/BanTBWU.jpg)
 
 Rowers: Peter & Rachel Ward  
 Parents: Jean & Mike Ward
@@ -25,8 +34,8 @@ Peter’s bio: 2nd year rower, 10th grade, 1st degree black belt in Taekwondo,
 enjoys skate boarding, is a whiz at a wide variety of Rubik’s cubes, and loves
 cars.
 
-Rachel’s bio: 2nd rower, 10th grade, 1st degree black belt in Taekwondo, enjoys
-skate boarding, art (drawing, painting, sculpting), & she’s the one with the
-blue stripe in her hair.
+Rachel’s bio: 2nd year rower, 10th grade, 1st degree black belt in Taekwondo,
+enjoys skate boarding, art (drawing, painting, sculpting), & she’s the one with
+the blue stripe in her hair.
 
 Peter and Rachel both went to Germany this summer (German Exchange Program)
