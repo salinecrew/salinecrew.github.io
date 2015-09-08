@@ -20,8 +20,8 @@ Go Hornets!
 
 Judy Inge
 
-> Host Hotel: Country Inn & Suites – Traverse City 420 Munson Ave Traverse City,
-> Michigan 49684
+> Host Hotel: Country Inn & Suites – Traverse City 420 Munson Ave., Traverse
+> City, Michigan 49684
 >
 > Toll-Free Reservations: [1-800-982-3297](tel:1-800-982-3297)
 >
