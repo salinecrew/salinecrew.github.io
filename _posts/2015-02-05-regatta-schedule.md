@@ -45,7 +45,7 @@ Summer
 Fall
 ----
 
--   **Sept 12**, Detroit Boat Club (8:30 - 1:00)
+-   **Sept 13**, Detroit Boat Club (8:30 - 1:00)
 
 -   **Sept 26**, Frog Town Regatta, Toledo OH (7:00 - 5:00)
 
