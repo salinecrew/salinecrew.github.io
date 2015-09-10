@@ -16,6 +16,18 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
+![Bridgett Bradley-Piche Family](http://i.imgur.com/KbOfPG2.jpg)
+
+Mackenzie is in her second year of rowing. She truly enjoys being on the water,
+as well as she has found rowing to be a great sport for her entire family. Her
+father, Steven, can often be heard at the Regattas yelling ROW HORNETS! While
+her mom, Bridgett is significantly quieter, she too enjoys watching the kids
+race. Mackenzie has made some very great friends and she looks forward to
+getting her Varsity Letter this fall. Mackenzie also enjoys theater and she is
+also very active with her church.
+
+--------------------------------------------------------------------------------
+
 ![Nowicki Family](http://i.imgur.com/nYMbHvx.jpg)
 
 Nowicki Family  
@@ -25,7 +37,7 @@ siblings are Madeline (19) and Jack (12)
 
 --------------------------------------------------------------------------------
 
-![ward](http://i.imgur.com/BanTBWU.jpg)
+![ward Family](http://i.imgur.com/BanTBWU.jpg)
 
 Rowers: Peter & Rachel Ward  
 Parents: Jean & Mike Ward
