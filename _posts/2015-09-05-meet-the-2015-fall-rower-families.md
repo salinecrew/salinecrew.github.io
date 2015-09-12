@@ -16,6 +16,20 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
+![Wellings Family](http://i.imgur.com/SkpODzZ.jpg)
+
+Rower - Victoria  
+Parent - Doug and Stacy
+
+Siblings, Kauri (28), Ariana (22), Ryan (20) rowed at Saline for 4 years, Austin
+and Morgan
+
+Victoria is a Senior and has been coxing for Saline since 8th grade, she has
+also been on the High School Gymnastics team for 4 years. Victoria has been
+coxing for both the Fall and Spring seasons.
+
+--------------------------------------------------------------------------------
+
 ![Bridgett Bradley-Piche Family](http://i.imgur.com/KbOfPG2.jpg)
 
 Mackenzie is in her second year of rowing. She truly enjoys being on the water,
