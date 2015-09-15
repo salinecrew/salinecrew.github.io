@@ -16,6 +16,19 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
+![wagner](http://i.imgur.com/7zZolqB.jpg)
+
+Rower: Kyle & Alex  
+Parent : Sheryl  
+Sibling : Katie (14) freshman
+
+Kyle (17) is a senior & has been rowing for the past 3 years .
+
+Alex (16) is a junior & this is her 3rd year of rowing. Alex has also been on
+the Saline high school gymnastics team since her freshman year
+
+--------------------------------------------------------------------------------
+
 ![Wellings Family](http://i.imgur.com/SkpODzZ.jpg)
 
 Rower - Victoria  
