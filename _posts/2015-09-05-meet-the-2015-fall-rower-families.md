@@ -16,7 +16,17 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
-![wagner](http://i.imgur.com/7zZolqB.jpg)
+![Ryan Stack](http://i.imgur.com/SMbl7lE.jpg)
+
+Ryan Stack is a Sophomore this year and a second year rower. He earned his
+Varsity letter at the end of his Freshman year. Ryan is also on the Drum Line
+for the SHS Marching band. Ryan has two younger brothers at Saline Middle
+School: Ben is an eighth grader and Colin is a 6th grader. His parents are Sue
+and Ken.
+
+--------------------------------------------------------------------------------
+
+![Wagner family](http://i.imgur.com/7zZolqB.jpg)
 
 Rower: Kyle & Alex  
 Parent : Sheryl  
