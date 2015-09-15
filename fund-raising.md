@@ -24,7 +24,7 @@ Yard Oar
 --------------------------------------------------------------------------------
 
 Yard Oar -
-Contact [{{site.data.members.secretary}}](mailto:{{site.data.members.secretary-email}}) for
+Contact [{{site.data.members.secretary}}](mailto:apjansa@yahoo.com) for
 ordering info. $35 suggested donation (for the boathouse)
 
  ![Yard Oar](/assets/images/yard-oar.jpg)  
