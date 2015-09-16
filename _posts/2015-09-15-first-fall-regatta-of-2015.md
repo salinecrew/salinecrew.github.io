@@ -9,4 +9,5 @@ highly stylized photo of the event.
 
 ![2015-09-13-DBC](http://i.imgur.com/8hdGt0u.jpg)
 
-This and many other photos can be found at <http://salinecrew.shutterfly.com>.
+This and many other photos can be found at <http://salinecrew.shutterfly.com>
+and <https://salinerowing20152016.shutterfly.com>

@@ -16,6 +16,16 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
+![Alle Fiske](http://i.imgur.com/d8fdRIe.jpg)
+
+Alle/Sass Fiske is a varsity rower and captain on the Saline Crew team. She
+enjoys in depth conversations with her monkey Congo, peace signs, eating only
+the jelly out of jelly filled donuts, and long walks on the shores of Ford Lake.
+She aspires to be a professional banana-phone telemarketer, although this may
+prove difficult because she has to seal her identity from Third Eye.
+
+--------------------------------------------------------------------------------
+
 ![Ryan Stack](http://i.imgur.com/SMbl7lE.jpg)
 
 Ryan Stack is a Sophomore this year and a second year rower. He earned his
