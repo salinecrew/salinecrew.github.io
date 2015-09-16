@@ -14,6 +14,16 @@ This is a great reference at regattas when meeting someone for the first time
 
 Email your pictures and bios to <mike@wardfam.org>
 
+---
+
+![Brill Family](http://i.imgur.com/t0aeboC.jpg)
+
+Parents: Cheryl & Randy
+
+Conrad Brill: Is a junior who loves to travel, eat sushi and watch comedy.
+
+Aidan Brill: Is an 8th grader who will be coxswaining novice boats this fall.  He loves Lacrosse, X-Box and traveling.
+
 --------------------------------------------------------------------------------
 
 ![Alle Fiske](http://i.imgur.com/d8fdRIe.jpg)
