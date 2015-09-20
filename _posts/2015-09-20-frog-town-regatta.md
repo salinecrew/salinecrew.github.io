@@ -18,8 +18,8 @@ go to [Signup Genius](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-2015).
 Also, I'm pretty sure we have more than 9 families participating this year. Send
 me your family photos/bios now! (<mike@wardfam.org>)
 
-Even if your rower is not eligible to race you should consider attending. The
-first race of the year is always, shall we say, entertaining.
+Even if your rower is not eligible to race consider attending. The first race of
+the year is always, shall we say, entertaining.
 
 ![2694235\_orig](http://i.imgur.com/8qbHrDU.jpg)
 
