@@ -10,7 +10,7 @@ It's almost time for our first big fall regatta!
 > [PaySchools](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
 
 The Regatta Central Web site has [detailed
-directions](https://www.regattacentral.com/regatta/?job_id=3933).
+directions](https://www.regattacentral.com/regatta/directions.jsp?job_id=3933&org_id=0).
 
 Don't forget to volunteer. **We really need everyone to pitch in**. To sign up,
 go to [Signup Genius](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-2015).
