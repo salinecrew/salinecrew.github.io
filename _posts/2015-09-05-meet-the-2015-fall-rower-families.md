@@ -14,7 +14,16 @@ This is a great reference at regattas when meeting someone for the first time
 
 Email your pictures and bios to <mike@wardfam.org>
 
----
+--------------------------------------------------------------------------------
+
+![Christen Family](http://i.imgur.com/ErThUct.jpg)
+
+Parents: Bill and Tammy
+
+Benjamin (Ben) Christen: Ben is a freshman and likes to play card games and
+spend time with his friends.
+
+--------------------------------------------------------------------------------
 
 ![Brill Family](http://i.imgur.com/t0aeboC.jpg)
 
@@ -22,7 +31,8 @@ Parents: Cheryl & Randy
 
 Conrad Brill: Is a junior who loves to travel, eat sushi and watch comedy.
 
-Aidan Brill: Is an 8th grader who will be coxswaining novice boats this fall.  He loves Lacrosse, X-Box and traveling.
+Aidan Brill: Is an 8th grader who will be coxswaining novice boats this fall. He
+loves Lacrosse, X-Box and traveling.
 
 --------------------------------------------------------------------------------
 
