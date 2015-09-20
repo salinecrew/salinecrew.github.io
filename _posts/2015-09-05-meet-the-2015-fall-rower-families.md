@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "Meet the 2015 Fall Rower Families"
+title: "Meet the 2015 Fall Rowing Families"
 ---
 
 Time for family picture updates. I know we did this in the Spring but guess
