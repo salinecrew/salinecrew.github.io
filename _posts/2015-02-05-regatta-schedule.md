@@ -55,7 +55,7 @@ Fall
 
 -   **Oct 17-18** *Select Boats*, Head of the Charles, Boston MA
 
--   **Oct 24**, The Leelanau Chase (7:00 - 5:00)
+-   **Oct 25**, The Leelanau Chase (7:00 - 5:00)
 
 -   **Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN
 
