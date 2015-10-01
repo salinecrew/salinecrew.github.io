@@ -16,6 +16,20 @@ Email your pictures and bios to <mike@wardfam.org>
 
 --------------------------------------------------------------------------------
 
+![FrickFamily 2015](http://i.imgur.com/cJWFpbc.jpg)
+
+Rower: Emma Frick - 11th Grade
+
+Parents: Chris and Kelly Frick  
+Brother: John (JP) Frick - 7th grade
+
+Emma is an 11th grade Varsity rower. She loves sweeping, likes skulling and
+tolerates erging. In addition to rowing, Emma also dances tap at Dance Alliance
+studio, is involved with SADD and the Saline H.S. Link Crew. Emma also loves
+Chinese food, Kanye West and regatta T-shirts.
+
+--------------------------------------------------------------------------------
+
 ![Christen Family](http://i.imgur.com/ErThUct.jpg)
 
 Parents: Bill and Tammy
