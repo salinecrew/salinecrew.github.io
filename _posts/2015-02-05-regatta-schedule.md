@@ -45,11 +45,11 @@ Summer
 Fall
 ----
 
--   **Sept 13**, Detroit Boat Club (8:30 - 1:00)
+-   **Sept 13**, Detroit Boat Club (8:30 - 1:00) [Post](<http://salinerowing.org/2015/09/15/first-fall-regatta-of-2015/>)
 
--   **Sept 26**, Frog Town Regatta, Toledo OH (7:00 - 5:00)
+-   **Sept 26**, Frog Town Regatta, Toledo OH (7:00 - 5:00) [Post](<http://salinerowing.org/2015/10/01/frog-island-regatta-results/>)
 
--   **Oct 3**, Home Race @ Ford Lake (9:00 - 12:00)
+-   **Oct 3**, Home Race @ Ford Lake (9:00 - 12:00) - CANCELED
 
 -   **Oct 10**, Head of the Grand, Lansing MI (7:00 - 2:00)
 
