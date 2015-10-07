@@ -1,7 +1,9 @@
 ---
 layout: post
-title:  "2015 Regatta Schedule"
+title: 2015 Regatta Schedule
+published: true
 ---
+
 
 Spring
 ------
@@ -55,6 +57,4 @@ Fall
 
 -   **Oct 25**, The Leelanau Chase (7:00 - 5:00)
 
--   **Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN
-
-
+-   <s>**Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN</s>
