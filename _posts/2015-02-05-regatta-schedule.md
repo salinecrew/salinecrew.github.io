@@ -57,4 +57,4 @@ Fall
 
 -   **Oct 25**, The Leelanau Chase (7:00 - 5:00)
 
--   <s>**Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN</s>
+-   ~~**Oct 31** *Alternate Race*, Head of the Eagle, Indianapolis IN~~
