@@ -20,7 +20,7 @@ I'm running this experiment on my own dime for now to see if it's something the
 club will actually use. In addition to email and twitter, I'll send all
 announcements by SMS using this service.
 
-If you would like to participate, simply send a text message to:
+If you want to participate, simply send a text message to:
 
 **1-734-887-6769**
 
