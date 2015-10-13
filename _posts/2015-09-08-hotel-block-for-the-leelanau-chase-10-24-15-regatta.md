@@ -1,12 +1,12 @@
 ---
 layout: post  
-title: "Hotel Block for the Leelanau Chase 10/24/15 Regatta"
+title: "Hotel Block for the Leelanau Chase 10/25/15 Regatta"
 ---
 
 Hi everyone,
 
 I have made a group block for our Saline Rowing team at the Country Inn and
-Suites in Traverse City for the Leelanau Chase regatta 10/24/15.  I have all the
+Suites in Traverse City for the Leelanau Chase regatta 10/25/15.  I have all the
 information to make your reservation below. 
 
 Please note that the reservations should be made by **9/23/15** to get the group
@@ -26,9 +26,9 @@ Judy Inge
 >
 > Group Name: Saline Rowing Team  
 >
-> Arrival Date:  10/23/15 
+> Arrival Date:  10/24/15 
 >
-> Departure Date:  10/24/15 
+> Departure Date:  10/25/15 
 >
 > Room Type: Double Queens 
 >
