@@ -27,7 +27,7 @@ Please go to the Payschools link on the team site (link below) to sign
 up before 10 PM Tuesday.  I would recommend taking advantage of the food that we
 prepare as food options near the regatta are non-existent.  
 
-[Payschools](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
+[PaySchools](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
 
 **<ins>Lodging for Leelanau Chase:</ins>**  
 There are plenty of hotel options for the race this weekend in Traverse City but
