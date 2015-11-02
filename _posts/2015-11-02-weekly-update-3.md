@@ -61,10 +61,10 @@ Once on the list, you can text to the following number
 
 **1-734-887-6769**
 
-The first word of the text message (body, not subject) must be All. The
-service strips the All from your message. If you don't start your
-message with All, it will only go to the list's administrator (Mike
-Ward).
+The first word of the text message (body, not subject) must be **All**.
+The service strips the **All** from your message. If you don't start
+your message with **All**, it will only go to the list's administrator
+(Mike Ward).
 
 **An Alumni Needs Our Help:**  
 Katie Stimac, a Saline Rowing Alumni and past Alumni Board Member was
