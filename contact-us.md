@@ -11,7 +11,7 @@ title:  'Contact Us'
     [mailto:{{site.data.members.coach-email}}](mailto:{{site.data.members.coach-email}})  
     {{site.data.members.coach-cell}}
 
-### Spring 2015 Team Captains
+### 2015/2016 Team Captains
 
 -   Matt Eby, Men's Captain
 -   Phillip Cauley, Men's Captain
