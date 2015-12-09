@@ -13,10 +13,10 @@ title:  'Contact Us'
 
 ### Spring 2015 Team Captains
 
--   Mike Torssell, Men's Captain
--   Graham Fox, Men's Captain
+-   Matt Eby, Men's Captain
+-   Phillip Cauley, Men's Captain
 -   Victoria Wellings, Cox's Captain
--   Sarah Loughman, Women's Captain
+-   Alle Fiske, Women's Captain
 -   Jenna Jansa, Women's Captain
 
 ### Volunteers (frequently called)
