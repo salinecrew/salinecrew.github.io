@@ -52,7 +52,7 @@ the week of April 4-8.  If you did not sign up but are interested,
 please send an email to Chris Frick and pay your deposit on the team
 payschools link below no later than November 10
 
-[PaySchools](https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467)
+[PaySchools]
 
 **Leelanau Chase Results:**  
 Regatta results
@@ -60,7 +60,7 @@ link: <https://www.regattacentral.com/regatta/results/4092_7678.pdf>
 
 Pictures links: <https://salinerowing20152016.shutterfly.com/>
 
-![new boat trailer](http://i.imgur.com/NhPAM8j.jpg)
+![new boat trailer]
 
 Please let me know if you have any questions and thank you to everyone
 for making this a great and successful fall season!
@@ -68,3 +68,6 @@ for making this a great and successful fall season!
 Go Hornets!
 
 Chris Frick
+
+  [PaySchools]: https://www.payschools.com/cat.asp?id=C740BA23A6504DACBD07791491B63467
+  [new boat trailer]: http://i.imgur.com/NhPAM8j.jpg
