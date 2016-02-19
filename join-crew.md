@@ -87,8 +87,7 @@ run by the families of the participating athletes.
 Fees are payable at the beginning of the season. Seasonal dues pay for coaches
 salaries, insurance, gas, regatta fees, rower regatta food, boat maintenance,
 end-of-season banquet, and other seasonal expenses. Dues for the Fall 2013
-season are **$700.00**(Program Registration Fees : $650.00, Rower Regatta Food
-$50.00)
+season are **$700.00**
 
 **NOTE:**  Program Registration Fees for a rowers FIRST SEASON are $325.
 
