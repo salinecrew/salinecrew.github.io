@@ -11,7 +11,9 @@ title: "2016 Regatta Schedule"
 
 -   **May 7**, Wy-Hi in Wyandotte
 
--   **May 13-14**, Midwest Championships in Zanesville, Ohio
+-   **May 13-14**,  
+Midwest Championships in Zanesville, Ohio  
+Home Regatta, Ann Arbor
 
 -   **May 21-22** ,State Championship in Grand Rapids
 
