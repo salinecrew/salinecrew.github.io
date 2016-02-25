@@ -150,7 +150,7 @@ Multiple Rower Discount (rowers from the same family/household):
 -   2nd rower - $375
 -   3rd and above - $215
 
-Please follow [this link](%7B%7Bsite.data.links.pay-fees%7D%7D) to pay
+Please follow [this link]({{site.data.links.pay-fees}}) to pay
 your fees online.
 
 Questions: [{{site.data.members.treasurer}},
@@ -183,9 +183,9 @@ Rower Clothing
 ------------------------------------------------------------------------
 
 The only required clothing items are the Saline Unisuit by [JL
-Racing](http://www.jlracing.com/page.SalineHighSchoolCrew.html) and a
+Racing]({{site.data.links.jl-racing}}) and a
 white cap available at
-[http://hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1).
+[http://hornetcountry.com]({{site.data.links.hornet-country}}).
 The rowers are required to wear the unisuit and white cap at all
 regattas.
 
@@ -195,7 +195,7 @@ There are numerous other clothing items available.
 
 ![unisuits](/assets/images/unisuit.jpg)
 
-[http://hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1)
+[http://hornetcountry.com]({{site.data.links.hornet-country}})
 
 Frequently Asked Questions
 --------------------------
