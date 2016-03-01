@@ -29,11 +29,8 @@ Ice Cube. At least 15 people need to participate.
 **Coaches Report:**
 
 -   Practice update: good attendance at practice (upper 30’s/lower 40’s)
-
 -   Matt is researching a more secure option for the launch motors
-
 -   Ben Reid will join the Spring 2016 coaching staff
-
 -   Spring schedule: The ***tentative*** schedule is as follows:
 
 > April 23 in Ann Arbor
