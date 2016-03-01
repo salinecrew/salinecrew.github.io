@@ -7,9 +7,9 @@ Hello Rowers and Families!
 
 Upon the board's approval of the new logos and the web store, we are excited to
 announce the grand opening of Saline Rowing's new web store through Kings of
-Merch at [hornetcountry.com](http://hornetcountry.com/) under the club tab:
+Merch at [hornetcountry.com]({{site.data.links.hornet-country}}) under the club tab:
 
-[www.hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1)
+[www.hornetcountry.com]({{site.data.links.hornet-country}})
 
 ![logo\_web-resized](http://i.imgur.com/PsLOJNA.png)
 

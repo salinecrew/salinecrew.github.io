@@ -75,8 +75,8 @@ Rower Clothing 
 ---------------
 
 -   Team clothing:
-    [hornetcountry.com](http://www.hornetcountry.com/shop/category/Rowing?c=1359258&ctype=0&pn=1) 
--   Unisuit: [JL Racing](http://www.jlracing.com/page.SalineHighSchoolCrew.html)
+    [hornetcountry.com]({{site.data.links.hornet-country}}) 
+-   Unisuit: [JL Racing]({{site.data.links.jl-racing}})
 
 Rowing Treasurer
 ----------------
