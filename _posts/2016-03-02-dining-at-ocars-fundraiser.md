@@ -9,6 +9,8 @@ title: "Dining at Ocars Fundraiser"
 
 ### ALL DAY DINING AT
 
+![](http://www.oscarssportsgrill.com/image/101582372.jpg)
+
 6877 State Rd., Saline
 
 20% of all sales donated to our club
