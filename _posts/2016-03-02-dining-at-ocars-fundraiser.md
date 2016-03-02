@@ -21,4 +21,4 @@ title: "Dining at Ocars Fundraiser"
 
 Bring your family and friends!!!
 
-Present [this flyer](</assets/formsDining at Oscar's.pdf>) at time of purchase
+Present [this flyer](</assets/forms/Dining at Oscar's.pdf>) at time of purchase
