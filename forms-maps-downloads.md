@@ -39,7 +39,7 @@ Forms Required to be a Rowing Member
     parent / rower meeting each season (or as otherwise noted):
 
     -   [Rowers Info
-        Form](https://docs.google.com/forms/d/1iJLMX1Kcgj5D1nVZLIGiQSxIwgd107wT9lYbTz6XN80/viewform?usp=send_form) **(now
+        Form]([https://docs.google.com/forms/d/1iJLMX1Kcgj5D1nVZLIGiQSxIwgd107wT9lYbTz6XN80/viewform?usp=send_form](http://goo.gl/forms/DbkkWUbmzK)) **(now
         online**) 
 
     -   [Rower Team Transportation Authorization
