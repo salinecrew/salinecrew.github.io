@@ -38,9 +38,7 @@ Forms Required to be a Rowing Member
     The following forms are to be completed and turned in at the mandatory
     parent / rower meeting each season (or as otherwise noted):
 
-    -   [Rowers Info
-        Form]([https://docs.google.com/forms/d/1iJLMX1Kcgj5D1nVZLIGiQSxIwgd107wT9lYbTz6XN80/viewform?usp=send_form](http://goo.gl/forms/DbkkWUbmzK)) **(now
-        online**) 
+    -   [Rowers Info Form](http://goo.gl/forms/1hC9pacG9U) **(now online**) 
 
     -   [Rower Team Transportation Authorization
         Form](/assets/forms/transportation-authorization-form.pdf) 
