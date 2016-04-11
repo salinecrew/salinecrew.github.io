@@ -24,7 +24,7 @@ Yard Oar
 --------------------------------------------------------------------------------
 
 Yard Oar -
-Contact [{{site.data.members.fundraising}}]{{site.data.members.fundraising-email}}) for
+Contact [{{site.data.members.fundraising}}]({{site.data.members.fundraising-email}}) for
 ordering info. $35 suggested donation (for the boathouse)
 
  ![Yard Oar](/assets/images/yard-oar.jpg)  
