@@ -24,7 +24,7 @@ Yard Oar
 --------------------------------------------------------------------------------
 
 Yard Oar -
-Contact [{{site.data.members.secretary}}](mailto:apjansa@yahoo.com) for
+Contact [{{site.data.members.fundraising}}]{{site.data.members.fundraising-email}}) for
 ordering info. $35 suggested donation (for the boathouse)
 
  ![Yard Oar](/assets/images/yard-oar.jpg)  
@@ -57,7 +57,7 @@ scrip program offers Saline Crew a very easy way to raise funds for the team. 
 -   It is that easy. 
 
 Please contact
-[{{site.data.members.secretary}}](mailto:{{site.data.members.secretary-email}})
+[{{site.data.members.fundraising}}](mailto:{{site.data.members.fundraising-email}})
 
 <a name="boathouse"></a>
 
