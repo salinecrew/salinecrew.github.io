@@ -43,7 +43,7 @@ The "Adult Team Bonding" is this weekend! Kelly and I, will be hosting
 the team parents at our house on Saturday, April 23 for the early season
 festivities. This is a great chance for parents to meet each other and
 socialize outside of the flurry of activity surrounding a regatta.
-Please join us from 7:00 - 9:00 pm (address below). Just bring yourself
+Please join us from 7:00 - 9:00 pm. Just bring yourself
 and lively spirits. We will provide the the rest including beer, wine,
 pop and snacks. Please RSVP to me at <christopherdfrick@gmail.com>.
 
