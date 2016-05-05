@@ -77,3 +77,9 @@ Go Hornets!
 ## Race Schedule
 
 TBA
+
+## Volunteers
+
+We need you! Many hands make for light work.
+
+[SignUpGenius](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-20161)
