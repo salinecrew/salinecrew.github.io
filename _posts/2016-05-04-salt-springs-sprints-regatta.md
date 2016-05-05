@@ -3,7 +3,7 @@ layout: post
 title: "Salt Springs Sprints"
 ---
 
-![center-nb](http://i.imgur.com/vXjjyfX.png)
+![Salts Springs Sprints](http://i.imgur.com/vXjjyfX.png "center-nb")
 
 ### Salt Springs Sprints Information Sheet
 
@@ -65,7 +65,7 @@ We look forward to seeing you May 14.
 
 ### T-Shirts
 
-![center-nb](http://i.imgur.com/GmmE3QA.png)
+![Sample T-Shirt](http://i.imgur.com/GmmE3QA.png "center-nb")
 
 ORDER your souvenir t-shirt for our home regatta "Salt Springs Sprints"
 ONLINE BY midnight SUNDAY, 5/8/16 to GUARANTEE YOU GET YOUR DESIRED
