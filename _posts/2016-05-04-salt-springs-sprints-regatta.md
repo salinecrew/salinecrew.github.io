@@ -3,9 +3,7 @@ layout: post
 title: "Salt Springs Sprints"
 ---
 
-![center-nb](http://i.imgur.com/vXjjyfX.png "Salt Sprints Sprints!")
-
-### Salt Springs Sprints Information Sheet
+## Salt Springs Sprints Information Sheet
 
 My name is Chris Frick and I am the president of the Saline Rowing Club.
 On May 14, our club will host the Second Annual Salt Springs Sprints
@@ -20,7 +18,7 @@ There are 3 locations you will need to know about.
     trailers, coaches and food trailer help only **(no parents
     or spectators)**.
 
-    [Map](https://www.google.com/maps/place/10049+Textile+Rd,+Ypsilanti,+MI+48197/@42.20)
+    [Boathouse Map](https://www.google.com/maps/place/10049+Textile+Rd,+Ypsilanti,+MI+48197/@42.20)
 
 -   **Rower Drop‐Off** – located at 9999 Textile Road, Ypsilanti,
     Michigan 48197.  This is located next to the boathouse.  There is no
@@ -33,7 +31,7 @@ There are 3 locations you will need to know about.
     spectators.  **Because this is a City of Ypsilanti park, vehicles
     will be charged $3 to enter the park.**
 
-    [Map](https://www.google.com/maps/place/9999+Textile+Rd,+Ypsilanti,+MI+48197/@42.203)
+    [Ford Lake Park Map](https://www.google.com/maps/place/9999+Textile+Rd,+Ypsilanti,+MI+48197/@42.203)
 
 The boathouse site is not large enough to accommodate rowers, coaches,
 spectators, boats, boat trailers and all of the associated
@@ -63,7 +61,7 @@ Matt LeBlanc, can be reached at <leblancrowing@gmail.com>.
 
 We look forward to seeing you May 14.
 
-### T-Shirts
+## T-Shirts
 
 ![center-nb](http://i.imgur.com/GmmE3QA.png "Sample T-Shirt")
 
@@ -76,4 +74,6 @@ below. Pick up your order at the boathouse at the regatta on 5/14/16.
 
 Go Hornets!
 
-### Race Schedule
+## Race Schedule
+
+TBA
