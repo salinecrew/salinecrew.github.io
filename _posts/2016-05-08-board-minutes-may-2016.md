@@ -31,7 +31,9 @@ Website:
 -   We discussed whether or not to keep the texting service. A final
     decision hasn’t been made yet.
 
--   Photography: Cheryl emailed Heidi regarding uploading videos to our
+Photography:
+
+-   Cheryl emailed Heidi regarding uploading videos to our
     Shutterfly account.
 
 **Captain Report:**
