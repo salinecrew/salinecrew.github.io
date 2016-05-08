@@ -20,17 +20,19 @@ Captain: Alle Fiske
 
 **Committee Planning:**
 
-Website: If parents would like videos of their kids uploaded to the
-website, they need to post the videos to YouTube first. After the videos
-are posted to YouTube, Mike can post them to the website.
+Website:
 
-Mike will be preparing a page on the website for the home regatta.
+-   If parents would like videos of their kids uploaded to the website,
+    they need to post the videos to YouTube first. After the videos are
+    posted to YouTube, Mike can post them to the website.
 
-We discussed whether or not to keep the texting service. A final
-decision hasn’t been made yet.
+-   Mike will be preparing a page on the website for the home regatta.
 
-Photography: Cheryl emailed Heidi regarding uploading videos to our
-Shutterfly account.
+-   We discussed whether or not to keep the texting service. A final
+    decision hasn’t been made yet.
+
+-   Photography: Cheryl emailed Heidi regarding uploading videos to our
+    Shutterfly account.
 
 **Captain Report:**
 
