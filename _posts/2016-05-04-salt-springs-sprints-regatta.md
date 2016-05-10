@@ -3,7 +3,8 @@ layout: post
 title: "Salt Springs Sprints"
 ---
 
-## Salt Springs Sprints Information Sheet
+Salt Springs Sprints Information Sheet
+--------------------------------------
 
 My name is Chris Frick and I am the president of the Saline Rowing Club.
 On May 14, our club will host the Second Annual Salt Springs Sprints
@@ -18,7 +19,8 @@ There are 3 locations you will need to know about.
     trailers, coaches and food trailer help only **(no parents
     or spectators)**.
 
-    [Boathouse Map](https://www.google.com/maps/place/10049+Textile+Rd,+Ypsilanti,+MI+48197/@42.20)
+    [Boathouse
+    Map](https://www.google.com/maps/place/10049+Textile+Rd,+Ypsilanti,+MI+48197/@42.20)
 
 -   **Rower Drop‐Off** – located at 9999 Textile Road, Ypsilanti,
     Michigan 48197.  This is located next to the boathouse.  There is no
@@ -31,7 +33,8 @@ There are 3 locations you will need to know about.
     spectators.  **Because this is a City of Ypsilanti park, vehicles
     will be charged $3 to enter the park.**
 
-    [Ford Lake Park Map](https://www.google.com/maps/place/9999+Textile+Rd,+Ypsilanti,+MI+48197/@42.203)
+    [Ford Lake Park
+    Map](https://www.google.com/maps/place/9999+Textile+Rd,+Ypsilanti,+MI+48197/@42.203)
 
 The boathouse site is not large enough to accommodate rowers, coaches,
 spectators, boats, boat trailers and all of the associated
@@ -54,31 +57,28 @@ serving coffee and muffins from 7:30 am – 10 am.  After that there will
 not be any concessions at Ford Lake Park.  Spectators are welcome and
 encouraged to pack a food and beverages for themselves during the event.
 
-Entry Fees for this event is $250 per team.
+Entry Fees for this event is \$250 per team.
 
 My contact information is <christopherdfrick@gmail.com>.  Our coach,
 Matt LeBlanc, can be reached at <leblancrowing@gmail.com>.
 
 We look forward to seeing you May 14.
 
-## T-Shirts
+T-Shirts
+--------
 
 ![center-nb](http://i.imgur.com/GmmE3QA.png "Sample T-Shirt")
 
-ORDER your souvenir t-shirt for our home regatta "Salt Springs Sprints"
-ONLINE BY midnight SUNDAY, 5/8/16 to GUARANTEE YOU GET YOUR DESIRED
-COLOR & SIZE. Classic & Tie-Dye versions available. Click on the link
-below. Pick up your order at the boathouse at the regatta on 5/14/16.
+A limited quantity of souvenir T-Shirts will be for sale at the
+boathouse and Ford Lake Park. Go Hornets!
 
-<http://saltsprings.mykings.net/>
-
-Go Hornets!
-
-## Race Schedule
+Race Schedule
+-------------
 
 TBA
 
-## Volunteers
+Volunteers
+----------
 
 We need you! Many hands make for light work.
 
