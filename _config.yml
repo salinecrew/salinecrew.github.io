@@ -4,9 +4,9 @@
 permalink:        pretty
 
 # Setup
-title:            'Saline Crew'
-tagline:          ''
-description:      ''
+title:            'Saline Rowing'
+tagline:          'We Row, Do You?'
+description:      'Saline Rowing Club, Saline, Michigan'
 url:              http://salinerowing.org
 baseurl:          '/'
 paginate:         10
@@ -23,3 +23,6 @@ github:
 
 sass:
     style:        ':compressed'
+
+gems:
+  - jekyll-seo-tag
