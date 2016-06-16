@@ -7,7 +7,7 @@ Date: **Tuesday, August 16th**
 Time: **6PM - 10PM**  
 Venue: **Mac Arcadian Seafood Shack**
 
-Tickets will be available on PaySchools June 1st.
+Tickets will be available on PaySchools June 20th.
 
 [Signup Genius Donor List](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor2)
 
