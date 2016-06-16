@@ -9,7 +9,7 @@ Venue: **Mac Arcadian Seafood Shack**
 
 Tickets will be available on PaySchools June 1st.
 
-[Donor List](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor2)
+[Signup Genius Donor List](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor2)
 
 Documents:  
 [Sponsor Form]({{site.link.url}}/assets/forms/Great-Gatsby-2016-Sponsor-Form.pdf) |
