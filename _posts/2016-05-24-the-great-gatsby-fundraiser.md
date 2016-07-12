@@ -5,7 +5,7 @@ title: "The Great Gatsby Fundraiser"
 
 Date: **Tuesday, August 16th**  
 Time: **6PM - 10PM**  
-Venue: **Mac Arcadian Seafood Shack**
+Venue: **Mac Acadian Seafood Shack**
 
 Tickets will be available on PaySchools June 20th.
 
