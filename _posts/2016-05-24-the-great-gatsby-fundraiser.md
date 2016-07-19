@@ -6,7 +6,7 @@ title: "The Great Gatsby Fundraiser"
 ![Gatsby Poster Full](http://i.imgur.com/RayJjJC.jpg "center")
 
 Date: **Tuesday, August 16th**  
-Time: **6PM - 10PM**  
+Time: **6:30PM - 10PM**  
 Venue: **Mac Acadian Seafood Shack**
 
 Tickets will be available on [online June 20th](https://saline.revtrak.net/tek9.asp?pg=products&grp=20).
