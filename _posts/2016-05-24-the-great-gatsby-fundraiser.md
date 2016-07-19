@@ -3,6 +3,9 @@ layout: post
 title: "The Great Gatsby Fundraiser"
 ---
 
+![Gatsby-2016](http://i.imgur.com/epvrMqE.jpg)
+
+
 Date: **Tuesday, August 16th**  
 Time: **6PM - 10PM**  
 Venue: **Mac Acadian Seafood Shack**
