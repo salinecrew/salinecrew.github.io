@@ -7,7 +7,7 @@ Date: **Tuesday, August 16th**
 Time: **6PM - 10PM**  
 Venue: **Mac Acadian Seafood Shack**
 
-Tickets will be available on PaySchools June 20th.
+Tickets will be available on [online June 20th](https://saline.revtrak.net/tek9.asp?pg=products&grp=20).
 
 [Signup Genius Donor List](http://www.signupgenius.com/go/20f0a4dafab2ba2f49-donor2)
 
