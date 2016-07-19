@@ -3,7 +3,7 @@ layout: post
 title: "The Great Gatsby Fundraiser"
 ---
 
-![center](http://i.imgur.com/RayJjJC.jpg)
+![Gatsby Poster Full](http://i.imgur.com/RayJjJC.jpg "center")
 
 Date: **Tuesday, August 16th**  
 Time: **6PM - 10PM**  
