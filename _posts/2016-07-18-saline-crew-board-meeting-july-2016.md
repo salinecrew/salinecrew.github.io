@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Saline Crew Board Mmeeting, July 2016  
+title: Saline Crew Board Meeting, July 2016  
 ---
 
 
