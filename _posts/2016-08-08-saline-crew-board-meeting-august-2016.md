@@ -31,7 +31,7 @@ that we are looking for a carpool coordinator for the fall season. It
 was suggested that maybe the captains coordinate rides to and from
 practice.
 
-Captain Report:
+**Captain Report**
 
 -   The captains are planning a team outing for the end of the month.
 
