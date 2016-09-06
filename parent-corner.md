@@ -50,7 +50,7 @@ change each year.*
 There are generally four to five regatta's each season. You can read
 about ["How to Enjoy A Regatta"](#enjoy) as written by Kathy Cook, Rower
 alumni parent. You can also link to [view the regatta
-schedule](%7B%7Bsite.data.links.regatta-schedule%7D%7D)
+schedule]({{site.data.links.regatta-schedule}})
 
 <a name="board"></a>
 
@@ -60,65 +60,65 @@ Board of Directors - Spring 2015 through Fall 2015
 ------------------------------------------------------------------------
 
 For a description of each position, please see [the
-Bylaws](%7B%7Bsite.data.links.bylaws%7D%7D)
+Bylaws]({{site.data.links.bylaws}})
 
 -   {{site.data.members.president}} - President  
-    [mailto:{{site.data.members.president-email}}](mailto:%7B%7Bsite.data.members.president-email%7D%7D)
+    [mailto:{{site.data.members.president-email}}](mailto:{{site.data.members.president-email}})
 
 -   {{site.data.members.vice-president}} - Vice President  
-    [mailto:{{site.data.members.vice-president-email}}](mailto:%7B%7Bsite.data.members.vice-president-email%7D%7D)
+    [mailto:{{site.data.members.vice-president-email}}](mailto:{{site.data.members.vice-president-email}})
 
 -   {{site.data.members.treasurer}} - Treasurer  
-    [mailto:{{site.data.members.treasurer-email}}](mailto:%7B%7Bsite.data.members.treasurer-email%7D%7D)
+    [mailto:{{site.data.members.treasurer-email}}](mailto:{{site.data.members.treasurer-email}})
 
 -   {{site.data.members.secretary}} - Secretary  
-    [mailto:{{site.data.members.secretary-email}}](mailto:%7B%7Bsite.data.members.secretary-email%7D%7D)
+    [mailto:{{site.data.members.secretary-email}}](mailto:{{site.data.members.secretary-email}})
 
 -   {{site.data.members.equipment-manager}} - Equipment Manager  
-    [mailto:{{site.data.members.equipment-manager-email}}](mailto:%7B%7Bsite.data.members.equipment-manager-email%7D%7D)
+    [mailto:{{site.data.members.equipment-manager-email}}](mailto:{{site.data.members.equipment-manager-email}})
 
 -   {{site.data.members.alumni-liason}} - Alumni Liason  
-    [mailto:{{site.data.members.alumni-liason-email}}](mailto:%7B%7Bsite.data.members.alumni-liason-email%7D%7D)
+    [mailto:{{site.data.members.alumni-liason-email}}](mailto:{{site.data.members.alumni-liason-email}})
 
 -   {{site.data.members.fundraising}} - Fund Raising  
-    [mailto:{{site.data.members.fundraising-email}}](mailto:%7B%7Bsite.data.members.fundraising-email%7D%7D)
+    [mailto:{{site.data.members.fundraising-email}}](mailto:{{site.data.members.fundraising-email}})
 
 -   {{site.data.members.member-at-large}} - Member at Large  
-    [mailto:{{site.data.members.member-at-large-email}}](mailto:%7B%7Bsite.data.members.member-at-large-email%7D%7D)
+    [mailto:{{site.data.members.member-at-large-email}}](mailto:{{site.data.members.member-at-large-email}})
 
 **Fall 2015 Volunteer Committee Chairs**
 
 -   Regatta Food Coordinator - {{site.data.members.food-coordinator}}  
-    [mailto:{{site.data.members.food-coordinator-email}}](mailto:%7B%7Bsite.data.members.food-coordinator-email%7D%7D)
+    [mailto:{{site.data.members.food-coordinator-email}}](mailto:{{site.data.members.food-coordinator-email}})
 
 -   Regatta Transporation - {{site.data.members.transportation}}  
-    [mailto:{{site.data.members.transportation-email}}](mailto:%7B%7Bsite.data.members.transportation-email%7D%7D)
+    [mailto:{{site.data.members.transportation-email}}](mailto:{{site.data.members.transportation-email}})
 
 -   Rower Clothing - {{site.data.members.crew-clothing}}  
-    [mailto:{{site.data.members.crew-clothing-email}}](mailto:%7B%7Bsite.data.members.crew-clothing-email%7D%7D)
+    [mailto:{{site.data.members.crew-clothing-email}}](mailto:{{site.data.members.crew-clothing-email}})
 
 -   Rent a Rower/Hire a Crew - {{site.data.members.rent-a-rower}}  
-    [mailto:{{site.data.members.rent-a-rower-email}}](mailto:%7B%7Bsite.data.members.rent-a-rower-email%7D%7D)
+    [mailto:{{site.data.members.rent-a-rower-email}}](mailto:{{site.data.members.rent-a-rower-email}})
 
 -   Website Maintenance - {{site.data.members.web-master}}  
-    [mailto:{{site.data.members.web-master-email}}](mailto:%7B%7Bsite.data.members.web-master-email%7D%7D)
+    [mailto:{{site.data.members.web-master-email}}](mailto:{{site.data.members.web-master-email}})
 
 -   Food Trailer Towing - {{site.data.members.food-trailer-towing}}  
-    [mailto:{{site.data.members.food-trailer-towing-email}}](mailto:%7B%7Bsite.data.members.food-trailer-towing-email%7D%7D)
+    [mailto:{{site.data.members.food-trailer-towing-email}}](mailto:{{site.data.members.food-trailer-towing-email}})
 
 -   Boat Trailer Towing -
-    [{{site.data.members.boat-trailer-towing}}](mailto:%7B%7Bsite.data.members.boat-trailer-towing-email2%7D%7D),
-    [{{site.data.members.boat-trailer-towing2}}](mailto:%7B%7Bsite.data.members.boat-trailer-towing-email2%7D%7D)
+    [{{site.data.members.boat-trailer-towing}}](mailto:{{site.data.members.boat-trailer-towing-email2}}),
+    [{{site.data.members.boat-trailer-towing2}}](mailto:{{site.data.members.boat-trailer-towing-email2}})
 
 -   Publicity Liason - {{site.data.members.publicity-liason}}  
-    [mailto:{{site.data.members.publicity-liason-email}}](mailto:%7B%7Bsite.data.members.publicity-liason-email%7D%7D)
+    [mailto:{{site.data.members.publicity-liason-email}}](mailto:{{site.data.members.publicity-liason-email}})
 
 -   Boat Maintenance & Repair - {{site.data.members.boat-maintenance}}  
-    [mailto:{{site.data.members.boat-maintenance-email}}](mailto:%7B%7Bsite.data.members.boat-maintenance-email%7D%7D)
+    [mailto:{{site.data.members.boat-maintenance-email}}](mailto:{{site.data.members.boat-maintenance-email}})
 
 -   Team Photographer and Banquet Video  
-    [{{site.data.members.team-photographer}}](mailto:%7B%7Bsite.data.members.team-photographer-email%7D%7D),
-    [{{site.data.members.team-photographer2}}](mailto:%7B%7Bsite.data.members.team-photographer2-email%7D%7D)
+    [{{site.data.members.team-photographer}}](mailto:{{site.data.members.team-photographer-email}}),
+    [{{site.data.members.team-photographer2}}](mailto:{{site.data.members.team-photographer2-email}})
 
 [Learn more about all of the volunteer opportunities](#volunteer)
 
@@ -154,7 +154,7 @@ Please follow [this link]({{site.data.links.pay-fees}}) to pay
 your fees online.
 
 Questions: [{{site.data.members.treasurer}},
-Treasurer](mailto:%7B%7Bsite.data.members.treasurer-email%7D%7D) 
+Treasurer](mailto:{{site.data.members.treasurer-email}}) 
 
 **ADDITIONAL FEE:** Practice Transportation Fee of \\\$75 Applies to
 "In-Season" Practices Only. if applicable\*
@@ -218,7 +218,7 @@ etc.
 
 There are some limited scholarship funds available. Check with the
 [{{site.data.members.coach}},
-Coach](mailto:%7B%7Bsite.data.members.coach-email%7D%7D).
+Coach](mailto:{{site.data.members.coach-email}}).
 
 ### What safety rules apply?
 
@@ -276,7 +276,7 @@ We carpool over and most drivers are students. [more...](#transporation)
 ### Where are the regattas?
 
 In Michigan and Ohio. [Check out the Regatta
-schedule](%7B%7Bsite.data.links.regatta-schedule%7D%7D)
+schedule]({{site.data.links.regatta-schedule}})
 
 ### What equipment do I need?
 
@@ -287,14 +287,14 @@ layers and wear warm clothing such as under armour and/or spandex
 ### What uniforms do I have to buy?
 
 For your first season, we provide a tshirt. In subsequent seasons, you
-need to buy our unisuit which is on our [need link]() . Most athletes
+need to buy our unisuit which is on our [Boat House Team Stores]({{site.data.links.jl-racing}}). Most athletes
 also purchase a sweatshirt and sweatpants to wear before and after
 races.
 
 ### Who are the coaches?
 
 {{site.data.members.coach}}, Head Coach  
-&lt;%7B%7Bsite.data.members.coach-email%7D%7D&gt;
+<{{site.data.members.coach-email}}>;
 
 ### Do I have to be a certain height?
 
@@ -317,7 +317,7 @@ For women, lightweight rowers are less than 135 pounds in the Fall and
 Yes, our food coordinator will plan enough for athletes, parents and
 siblings. The rower's food is included in the combined fee paid at the
 beginning of each season. The families and guests need to go online and
-pay the \\\$10.00 per guest per regatta (18 and under are \\\$5). We
+pay the \$10.00 per guest per regatta (18 and under are \$5). We
 only ask that you give first priority to athletes as they are on a tight
 schedule to get prepared and race.
 
@@ -328,10 +328,10 @@ volunteers.](/contact-us)
 
 ### Are there bylaws?
 
-[Yes](%7B%7Bsite.data.links.bylaws%7D%7D)
+[Yes]({{site.data.links.bylaws}})
 
 If you have questions, Contact
-[{{site.data.members.president}}](mailto:%7B%7Bsite.data.members.president-email%7D%7D)
+[{{site.data.members.president}}](mailto:{{site.data.members.president-email}})
 
 <a name="transporation"></a>
 
@@ -359,7 +359,7 @@ of cooperation and communication from parents to be sure all of rowers
 have transportation. Please be sure to do your part.
 
 Transportation -
-[{{site.data.members.transportation}}](mailto:%7B%7Bsite.data.members.transportation-email%7D%7D)
+[{{site.data.members.transportation}}](mailto:{{site.data.members.transportation-email}})
 
 <a name="volunteer"></a>
 

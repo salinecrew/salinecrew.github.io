@@ -74,7 +74,7 @@ Rower Clothing 
 
 -   Team clothing:
     [hornetcountry.com]({{site.data.links.hornet-country}}) 
--   Unisuit: [JL Racing]({{site.data.links.jl-racing}})
+-   Unisuit: [Boat House Team Stores]({{site.data.links.jl-racing}})
 
 Rowing Treasurer
 ----------------
