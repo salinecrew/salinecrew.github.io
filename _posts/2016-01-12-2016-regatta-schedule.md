@@ -17,23 +17,16 @@ title: "2016 Regatta Schedule"
 
 -   **June 3-5** – St. Catharines, Canada
 
--   **September 24** – Frogtown in Toledo
+-   **September 24** – Frogtown Regatta - Toledo, OH
 
--   **October 1** – Skyline in Ann Arbor. Huron High School may be there
-    as well. This will be a scrimmage.
+-   **October 1** – Home scrimmage with Ann Arbor Skyline and Ann Arbor
+    Huron
 
--   **October 8** – Columbus Fall Classic in Columbus, OH. We will
-    probably not attend this regatta. However, Matt is looking to have a
-    local regatta, maybe at the Detroit Boat Club.
+-   **October 8** – MSU Regatta - Lansing, MI
 
--   **October 22** – Head of the Charles in Boston, MA. There is a
-    lottery system to get into the regatta. We hope to have a few boats
-    race there.
+-   **October 23** – Head of The Charles - Boston, MA (boys and girls
+    varsity 8 only)
 
--   **October 29** – There are three regattas that day: 1) Leelanau
-    Chase in Traverse City, 2) Speakman in Columbus, OH, and 3) Head of
-    the Eagle in Indiana. We will most likely attend the Leelanau Chase
-    in Traverse City.
+-   **October 30** – Leelanau Chase, Leelanau, MI
 
-The Head of the Grand regatta in Lansing is not posted yet. It may be
-October 15.
+
