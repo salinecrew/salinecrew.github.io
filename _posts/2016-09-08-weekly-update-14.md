@@ -1,6 +1,6 @@
 ---
 layout: post  
-title:  Weekly Update #14  
+title:  Weekly Update \#14  
 ...
 
 The Fall 2016 season is officially underway as the rowers head to the
