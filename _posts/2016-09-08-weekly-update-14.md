@@ -47,9 +47,9 @@ Leelanau Chase regattas on on a Sunday.
 -   October 8 - MSU Regatta - Lansing, MI
 -   October 23 - Head of the Charles - Boston, MA (boys and girls
     varsity 8s ONLY)
--   October 30 - Leelanau Chase, Leelanau, MI Head of the Charles
-    Regatta
+-   October 30 - Leelanau Chase, Leelanau, MI 
 
+**Head of the Charles Regatta**  
 The team was able to secure an invitation to the Head of the Charles
 regatta for the boys and girls varsity 8 boats only. Over the next few
 weeks, rowers will be competing for spots on these boats. Once the
