@@ -13,11 +13,11 @@ title:  'Contact Us'
 
 ### 2015/2016 Team Captains
 
--   Matt Eby, Men's Captain
--   Phillip Cauley, Men's Captain
--   Victoria Wellings, Cox's Captain
--   Alle Fiske, Women's Captain
--   Jenna Jansa, Women's Captain
+-   Andrew Dame, Men's Captain
+-   Ted Nowicki, Men's Captain
+-   Jacob Ball, Cox's Captain
+-   Emma Frick, Women's Captain
+-   Alex Wagner, Women's Captain
 
 ### Volunteers (frequently called)
 
