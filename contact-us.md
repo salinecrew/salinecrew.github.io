@@ -42,6 +42,9 @@ title:  'Contact Us'
 -   Rent-A-Rower/Hire-A-Crew - {{site.data.members.rent-a-rower}}  
     [mailto:{{site.data.members.rent-a-rower-email}}](mailto:{{site.data.members.rent-a-rower-email}})
 
+-   Secretary - {{site.data.members.secretary}}  
+    [mailto:{{site.data.members.secretary-email}}](mailto:{{site.data.members.secretary-email}})
+    
 ### Mailing Address
 
 Saline Crew  
