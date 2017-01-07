@@ -54,7 +54,7 @@ schedule]({{site.data.links.regatta-schedule}})
 
 <a name="board"></a>
 
-Board of Directors - Spring 2015 through Fall 2015
+Board of Directors - 2017
 --------------------------------------------------
 
 ------------------------------------------------------------------------
@@ -86,7 +86,7 @@ Bylaws]({{site.data.links.bylaws}})
 -   {{site.data.members.member-at-large}} - Member at Large  
     [mailto:{{site.data.members.member-at-large-email}}](mailto:{{site.data.members.member-at-large-email}})
 
-**Fall 2015 Volunteer Committee Chairs**
+**Fall 2017 Volunteer Committee Chairs**
 
 -   Regatta Food Coordinator - {{site.data.members.food-coordinator}}  
     [mailto:{{site.data.members.food-coordinator-email}}](mailto:{{site.data.members.food-coordinator-email}})
@@ -365,10 +365,6 @@ Transportation -
 
 Volunteer Positions & Responsibilities
 --------------------------------------
-
-------------------------------------------------------------------------
-
-Fall 2015 Season
 
 ### President - {{site.data.members.president}}
 
