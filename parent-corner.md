@@ -62,13 +62,13 @@ Board of Directors - 2017
 For a description of each position, please see [the
 Bylaws]({{site.data.links.bylaws}})
 
--   {{site.data.members.president}} - President  
+-   {{site.data.members.president}} - <span>Presi</span><span>dent</span>  
     [mailto:{{site.data.members.president-email}}](mailto:{{site.data.members.president-email}})
 
--   {{site.data.members.vice-president}} - Vice President  
+-   {{site.data.members.vice-president}} - <span>Vice P</span>resident  
     [mailto:{{site.data.members.vice-president-email}}](mailto:{{site.data.members.vice-president-email}})
 
--   {{site.data.members.treasurer}} - Treasurer  
+-   {{site.data.members.treasurer}} - <span>Trea</span>surer  
     [mailto:{{site.data.members.treasurer-email}}](mailto:{{site.data.members.treasurer-email}})
 
 -   {{site.data.members.secretary}} - Secretary  
