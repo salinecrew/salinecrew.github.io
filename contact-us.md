@@ -11,7 +11,7 @@ title:  'Contact Us'
     [mailto:{{site.data.members.coach-email}}](mailto:{{site.data.members.coach-email}})  
     {{site.data.members.coach-cell}}
 
-### 2016/2017 Team Captains
+### Team Captains
 
 -   Andrew Dame, Men's Captain
 -   Ted Nowicki, Men's Captain
