@@ -13,7 +13,7 @@ Saturday 12 to 2PM
 The pay-school web store site has been updated so that those families
 that are attending spring break can now pay the $150 rower fee. Please
 use the link:
-https://saline.revtrak.net/tek9.asp?pg=products&specific=jnprcoe0 . The
+<https://saline.revtrak.net/tek9.asp?pg=products&specific=jnprcoe0>. The
 rower fee payment is due Feb 28. If you have questions or are still
 undecided, please contact me.
 
